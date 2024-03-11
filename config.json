@@ -1,0 +1,13 @@
+{
+  "version": "x.y.z",
+  "branding": {
+    "name": "CasaVue Dev",
+    "colors": {
+      "theme": "#07263b",
+      "items": {
+        "saturation": 18,
+        "lightness": 80
+      }
+    }
+  }
+}

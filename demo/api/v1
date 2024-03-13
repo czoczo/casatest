@@ -6,7 +6,7 @@
     "domain": "https:/chat.openai.com",
     "tls": false,
     "title": "",
-    "iconURL": "./static/dist/avatars/a4e2f0f577f86f624612e6b246fb89cd0219897924d0aca4250faa699a52de40",
+    "iconURL": "./avatars/46b28395a8e5c97afb24bc0952a08e1ce74fb18f68b7f55d54649efaa2e4560a",
     "labels": null
   },
   "Stack Overflow": {
@@ -16,7 +16,7 @@
     "domain": "https://stackoverflow.com",
     "tls": true,
     "title": "Stack Overflow - Where Developers Learn, Share, \u0026 Build Careers",
-    "iconURL": "./static/dist/avatars/41447798d3485885d856f6cbcf1a832c0f6d807080938b9f3967a03d877d3df4",
+    "iconURL": "./avatars/41447798d3485885d856f6cbcf1a832c0f6d807080938b9f3967a03d877d3df4",
     "labels": null
   },
   "onet": {
@@ -26,7 +26,7 @@
     "domain": "https://onet.pl",
     "tls": true,
     "title": "Onet – Jesteś na bieżąco ",
-    "iconURL": "./static/dist/avatars/0eacb3524497ee331c82722e8b84984903cc306661ceb59a8aea6d1cb3cde63f",
+    "iconURL": "./avatars/0eacb3524497ee331c82722e8b84984903cc306661ceb59a8aea6d1cb3cde63f",
     "labels": null
   },
   "wp": {
@@ -36,7 +36,7 @@
     "domain": "https://wp.pl",
     "tls": true,
     "title": "Wirtualna Polska - Wszystko co ważne - www.wp.pl",
-    "iconURL": "./static/dist/avatars/4d31097a011a775ee1128e252db036ab8eda86964c0e3bc209c40764302a2847",
+    "iconURL": "./avatars/4d31097a011a775ee1128e252db036ab8eda86964c0e3bc209c40764302a2847",
     "labels": null
   },
   "wykop": {
@@ -46,7 +46,7 @@
     "domain": "https://wykop.pl",
     "tls": true,
     "title": "Wykop.pl - newsy, aktualności, gry, wiadomości, muzyka, ciekawostki, filmiki",
-    "iconURL": "./static/dist/avatars/6e3fefdc89eb782ce83fe8c30554559691abf1050ccbe4f898eacf52c90f581d",
+    "iconURL": "./avatars/6e3fefdc89eb782ce83fe8c30554559691abf1050ccbe4f898eacf52c90f581d",
     "labels": null
   }
 }

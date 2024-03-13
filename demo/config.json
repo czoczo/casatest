@@ -1,13 +1,13 @@
 {
-  "version": "x.y.z",
-  "branding": {
-    "name": "CasaVue Dev",
-    "colors": {
-      "theme": "#07263b",
-      "items": {
-        "saturation": 18,
-        "lightness": 80
-      }
-    }
+ "version": "0.0.36",
+ "branding": {
+  "name": "casavue.dom.cz0.cz",
+  "colors": {
+   "theme": "#d73533",
+   "items": {
+    "saturation": 8,
+    "lightness": 84
+   }
   }
+ }
 }

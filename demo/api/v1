@@ -16,7 +16,7 @@
     "domain": "https://demo.aimeos.org/",
     "tls": true,
     "title": "Aimeos e-commerce demos",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/40af3ec43c5f39331930893edbbee1b6ef9e61295ad0d141bcc9d3d225047539",
     "labels": null
   },
   "Alf.io": {
@@ -36,7 +36,7 @@
     "domain": "https://play.dogmazic.net/",
     "tls": true,
     "title": "Dogmazic",
-    "iconURL": "./downloadedAvatars/7633b83ecce165bf7b65cd2d92441d5eb19da46fcea7e0298504d3a1950c8254",
+    "iconURL": "./downloadedAvatars/21c409e475f1221013c61bec349a9b2e13d7016c5f45e10a61d7d0514a784a05",
     "labels": null
   },
   "AmuseWiki": {
@@ -56,7 +56,7 @@
     "domain": "https://apostrophecms.com/demo",
     "tls": true,
     "title": "caret-down",
-    "iconURL": "./downloadedAvatars/c1a706fc9d7e6a29471ae08e00319cb3546b1e2c4825906797b1aa2cdc6d3872",
+    "iconURL": "./downloadedAvatars/1142c54b63aeec6972a1fbd343b1ea45f44c4adcbb783a83fa2a428b79cd912a",
     "labels": null
   },
   "ArchivesSpace": {
@@ -66,7 +66,7 @@
     "domain": "https://archivesspace.org/application/sandbox",
     "tls": true,
     "title": "Sandbox | ArchivesSpace",
-    "iconURL": "./downloadedAvatars/f5743a494f7200a7cf08048c5142a3054cde2526784ff2e6bd40bc37eb141d8d",
+    "iconURL": "./downloadedAvatars/690ebbd8e029a57af95bd25e2b4494ceba709d44e46b29c55c4c494e64b72846",
     "labels": null
   },
   "Azimutt": {
@@ -76,7 +76,7 @@
     "domain": "https://azimutt.app/gallery/gospeak",
     "tls": true,
     "title": "Gospeak database schema · Azimutt",
-    "iconURL": "./downloadedAvatars/43f0533a76c04f80c3cf5b1ae1d88cd616771bbbbe19fdcedcb41503b74f70d4",
+    "iconURL": "./downloadedAvatars/1e924e3226176aa9d02fb2f210684ced7465215df5f607643b8a76b5ddce2e61",
     "labels": null
   },
   "BTCPay Server": {
@@ -86,7 +86,7 @@
     "domain": "https://mainnet.demo.btcpayserver.org/",
     "tls": true,
     "title": "Sign in",
-    "iconURL": "./downloadedAvatars/6281dadf89ec9117388b12027d194c9e6f742694d55385c2eaa2a74e712a8743",
+    "iconURL": "./downloadedAvatars/288bd6627d93a7e7f943d3122605a0829ad33efc05147f24af666eb1072796eb",
     "labels": null
   },
   "Bagisto": {
@@ -96,7 +96,7 @@
     "domain": "https://demo.bagisto.com/",
     "tls": true,
     "title": "Bagisto Demo",
-    "iconURL": "./downloadedAvatars/ebfc9cc147746028ca30139889e0c240fed51fd2460e497cdce610437b9bf458",
+    "iconURL": "./downloadedAvatars/a9412dda1e10b667b166c796dd73d39f93ccba02ad881bcc8ddd5c0602349cb2",
     "labels": null
   },
   "Bitcart": {
@@ -106,7 +106,7 @@
     "domain": "https://admin.bitcart.ai",
     "tls": true,
     "title": "bitcart-admin - bitcart-admin",
-    "iconURL": "./downloadedAvatars/36f23f8045e7b14573e2b35755a8ba1b7fc66cef9f5550da33077d4cf26f5b6b",
+    "iconURL": "./downloadedAvatars/8cf60f8b72ea3ca1eb7d87cb41bb3ea3f81c48f25738291d6719fa578553dbfa",
     "labels": null
   },
   "BookStack": {
@@ -116,7 +116,7 @@
     "domain": "https://www.bookstackapp.com/#demo",
     "tls": true,
     "title": "\n      BookStack\n    ",
-    "iconURL": "./downloadedAvatars/55734f5fd47f0f15f6cb58974bf8b851d7d90ca8abfb0816ddc7de672fe79bfb",
+    "iconURL": "./downloadedAvatars/304f88da26d821448831913bb1cfe80cce64178cca82ab43a7b05da5a7241404",
     "labels": null
   },
   "Bracket": {
@@ -126,7 +126,7 @@
     "domain": "https://www.bracketapp.nl/demo",
     "tls": true,
     "title": "Bracket",
-    "iconURL": "./downloadedAvatars/641b731619561076907aeabb288ff1ff1af3adece16e44ccbede2b59cc70fe7d",
+    "iconURL": "./downloadedAvatars/58af9a1d5ff61481a6bff5c34f411d95ed994c78364aeccfc545f491558b87df",
     "labels": null
   },
   "Budget Zen": {
@@ -136,7 +136,7 @@
     "domain": "https://app.budgetzen.net",
     "tls": true,
     "title": "Budget Zen — Simple and end-to-end encrypted budget and expense manager",
-    "iconURL": "./downloadedAvatars/e3644d86645c5c9e1fd2bd68bae97af9d6cdbd987a02ddda95405a2876403ac6",
+    "iconURL": "./downloadedAvatars/f2e7cec433faf5e3d17b4590f106af75b0a48433dee672d9ede96c633bf9caba",
     "labels": null
   },
   "Bytebase": {
@@ -146,7 +146,7 @@
     "domain": "https://demo.bytebase.com",
     "tls": true,
     "title": "Bytebase",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/62ca777db36719d4816f99a2ba89b32af429b68c160c7897fdce2bd261930959",
     "labels": null
   },
   "Cal.com": {
@@ -156,7 +156,7 @@
     "domain": "https://app.cal.com/bailey",
     "tls": true,
     "title": "Bailey Pumfleet | Cal.com",
-    "iconURL": "./downloadedAvatars/eff4d8eb245f439b97a88966a0a61b8df15b843f5fa12d8bb9288e91ef56d178",
+    "iconURL": "./downloadedAvatars/6f7c9f8b372995b16237888356c414ed8591adae9be777c847b14859cc66aa4a",
     "labels": null
   },
   "Calibre": {
@@ -166,7 +166,7 @@
     "domain": "https://calibre-ebook.com/demo",
     "tls": true,
     "title": "calibre - Watch it in action",
-    "iconURL": "./downloadedAvatars/1ed30904b45647fcdb6a197270cc9afcbaf2e043db1b83d23190322693fbe26f",
+    "iconURL": "./downloadedAvatars/ee460330fe2c015af16a10d1c810f72f1bd091d37a33120a2fbf8cbd4e725425",
     "labels": null
   },
   "Canvas LMS": {
@@ -176,7 +176,7 @@
     "domain": "https://canvas.instructure.com/register",
     "tls": true,
     "title": "Create a Canvas Account",
-    "iconURL": "./downloadedAvatars/c31b2c3b50a47be40a76f45ff126236476705fa183fbb297dd252d5cec253aad",
+    "iconURL": "./downloadedAvatars/32178ee748ea94e563fc372319dc03e46ae6dc3c859fe22105914233f084956d",
     "labels": null
   },
   "CapRover": {
@@ -186,7 +186,7 @@
     "domain": "https://captain.server.demo.caprover.com/#/login",
     "tls": true,
     "title": "CapRover | Server Dashboard",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/07276a6b652bd18ec6e969b7b496278d1a44560fd414794d00b8fe11e453771b",
     "labels": null
   },
   "Cerbos": {
@@ -196,7 +196,7 @@
     "domain": "https://play.cerbos.dev",
     "tls": true,
     "title": "Cerbos Playground - Prototype, test and share policies",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/55ade613c8c2a3d2997be9e5a1e9dd2fe6b15bc257f179e35ca3e3fb573299ac",
     "labels": null
   },
   "Chartbrew": {
@@ -206,7 +206,7 @@
     "domain": "https://app.chartbrew.com/live-demo",
     "tls": true,
     "title": "Chartbrew - Visualize your data in one place",
-    "iconURL": "./downloadedAvatars/78108a7de2bfe278c6c53fa5a055e339032904c7d5345d98e275de6927ea79d0",
+    "iconURL": "./downloadedAvatars/6aa5cc0219336ebaed0d6c82d48ca0972b4fda3058da720a573af1e186966ac5",
     "labels": null
   },
   "ChatGPT": {
@@ -216,7 +216,7 @@
     "domain": "https:/chat.openai.com",
     "tls": false,
     "title": "",
-    "iconURL": "./downloadedAvatars/a200af3dc17528155820c326ecec0999843d143f78f9e51e0e1f910f2f3a5411",
+    "iconURL": "./downloadedAvatars/4febd7f9326c8245aa355c8f88e523133e5f958e3a737bf732500ab9894d536a",
     "labels": null
   },
   "Chirpy": {
@@ -226,7 +226,7 @@
     "domain": "https://chirpy.dev/play",
     "tls": true,
     "title": "Playground・Chirpy",
-    "iconURL": "./downloadedAvatars/641b731619561076907aeabb288ff1ff1af3adece16e44ccbede2b59cc70fe7d",
+    "iconURL": "./downloadedAvatars/996ea648493854ced0a153a8a2b4c568add6d47012b23b5ba04da13a43f025bd",
     "labels": null
   },
   "ClearFlask": {
@@ -236,7 +236,7 @@
     "domain": "https://product.clearflask.com",
     "tls": true,
     "title": "ClearFlask",
-    "iconURL": "./downloadedAvatars/f0c97d5f7e16de5834957ee920e69919e2a92faca1d8d75fa0bf2065ab5dcd4c",
+    "iconURL": "./downloadedAvatars/ca298325dff11abfa681a2222e1365df81a5a84e5d550e0916f43adec13be210",
     "labels": null
   },
   "Convos": {
@@ -246,7 +246,7 @@
     "domain": "https://convos.chat/#instant-demo",
     "tls": true,
     "title": "About Convos - The simplest IRC client around - Convos",
-    "iconURL": "./downloadedAvatars/65b76526cd517980cba45ebd9af48b8f499b86619e3c0da94335cfddf56c454e",
+    "iconURL": "./downloadedAvatars/e238d596489702e68033eff1ce76fe8e91fbd47946dd40f8071e18d068261220",
     "labels": null
   },
   "Coppermine": {
@@ -256,7 +256,7 @@
     "domain": "https://coppermine-gallery.net/demo/cpg15x/",
     "tls": true,
     "title": "Home - Coppermine Photo Gallery",
-    "iconURL": "./downloadedAvatars/c9b5de9793a6741924e491bf16f3d87e31dfcfbc165feef4e16387b59fd0941d",
+    "iconURL": "./downloadedAvatars/4d40f1d0b6b60c0f94adad61e271e34396feb291609fd883324d7d8cb663141a",
     "labels": null
   },
   "Corteza": {
@@ -276,7 +276,7 @@
     "domain": "https://www.domjudge.org/demo",
     "tls": true,
     "title": "DOMjudge - Online Demo",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/af46c6a86a7f900643ee462d079352c2c8516ba0737e23c908655c75ba51db19",
     "labels": null
   },
   "Datasette": {
@@ -316,7 +316,7 @@
     "domain": "https://ladigitale.dev/digibunch/#/b/5f67b12092b60",
     "tls": true,
     "title": "Digibunch by La Digitale",
-    "iconURL": "./downloadedAvatars/dc2c97eb3276e5113a37c3481f6b62bee9f3c06d916641c46759cce675d09248",
+    "iconURL": "./downloadedAvatars/4ef33aad9c55facf087b4a408d8981919d431fd1e993bdaae50903d6c7d371d9",
     "labels": null
   },
   "Digibuzzer": {
@@ -326,7 +326,7 @@
     "domain": "https://digibuzzer.app/",
     "tls": true,
     "title": "Digibuzzer by La Digitale",
-    "iconURL": "./downloadedAvatars/df9a6bcd7d643325569d5c2ebd490f56c0d2413427cc0c42d5b5e757f6456dfd",
+    "iconURL": "./downloadedAvatars/fdb933f3fcfc4ebccd9109827de72c455e67bf557deae364d14e705b8ad3c948",
     "labels": null
   },
   "Digicard": {
@@ -336,7 +336,7 @@
     "domain": "https://ladigitale.dev/digicard/",
     "tls": true,
     "title": "Digicard by La Digitale",
-    "iconURL": "./downloadedAvatars/c36a939d82501bdd7f38500f28b4bec0867e9ee947c63b2dfbd8a38f6f7951ef",
+    "iconURL": "./downloadedAvatars/ca2b8eee65e717b4a9a1b3deb789a885da0accff6be067d771ded50c13502192",
     "labels": null
   },
   "Digiface": {
@@ -346,7 +346,7 @@
     "domain": "https://ladigitale.dev/digiface/",
     "tls": true,
     "title": "Digiface by La Digitale",
-    "iconURL": "./downloadedAvatars/c80904b8832203e2ffe0cd2d11f0041fc9dd48fe830a29af6b553298afec091e",
+    "iconURL": "./downloadedAvatars/67b3967231e7c136b5a98ba08aa7fe499acda4d5116e6c214b40bde5691fd5d1",
     "labels": null
   },
   "Digimindmap": {
@@ -356,7 +356,7 @@
     "domain": "https://ladigitale.dev/digimindmap/#/",
     "tls": true,
     "title": "Digimindmap by La Digitale",
-    "iconURL": "./downloadedAvatars/86533fb93fc5be94943847b0559fefd22835ea04c7c3a3052ba337d4a31c7c22",
+    "iconURL": "./downloadedAvatars/9dc4c0c5c01bdd58e6544020928d2ba825fd0abbdae37f499b403b4137ddd862",
     "labels": null
   },
   "Digiscreen": {
@@ -366,7 +366,7 @@
     "domain": "https://ladigitale.dev/digiscreen/",
     "tls": true,
     "title": "Digiscreen by La Digitale",
-    "iconURL": "./downloadedAvatars/7858cd17c0a72daeb6843190e88c3d012ac8d2371cd1aab3b45a342fa8a28d9f",
+    "iconURL": "./downloadedAvatars/a9ce8328d1b671349a96ef141375a57b970cd636088cd55bb309f507949092c4",
     "labels": null
   },
   "Digistorm": {
@@ -376,7 +376,7 @@
     "domain": "https://digistorm.app/",
     "tls": true,
     "title": "Digistorm by La Digitale",
-    "iconURL": "./downloadedAvatars/df9a6bcd7d643325569d5c2ebd490f56c0d2413427cc0c42d5b5e757f6456dfd",
+    "iconURL": "./downloadedAvatars/cd1f0f19ac3e08081812dda021fa591c88443a32b983dcd52fefb11e42bc4061",
     "labels": null
   },
   "Digitools": {
@@ -386,7 +386,7 @@
     "domain": "https://ladigitale.dev/digitools/",
     "tls": true,
     "title": "Digitools by La Digitale",
-    "iconURL": "./downloadedAvatars/25a2e1ecf5064e3a54a96ff04b23122599a4c9d42a14682404cb40ae5e1a1fd3",
+    "iconURL": "./downloadedAvatars/a2133f83c60d07766e8af7d668533dee56509a965e79fb3b822b401273bc1028",
     "labels": null
   },
   "Discourse": {
@@ -396,7 +396,7 @@
     "domain": "https://try.discourse.org/",
     "tls": true,
     "title": "Discourse Demo",
-    "iconURL": "./downloadedAvatars/ee43695520d7b902a23c6dee34aa8e6d2aa51c08041e5354d35e1e59520cccc4",
+    "iconURL": "./downloadedAvatars/9bf5c74f90adc1742254442a1776103d4b970bc3b9e441a3d586c0c22741c2e2",
     "labels": null
   },
   "DocKing": {
@@ -416,7 +416,7 @@
     "domain": "https://demo.docuseal.tech/",
     "tls": true,
     "title": "\n    DocuSeal | Open Source Document Filling and Signing\n  ",
-    "iconURL": "./downloadedAvatars/29e965ca529853f955dd597f34782fa7b43d97038a1b4955f19bd83892ec6cc6",
+    "iconURL": "./downloadedAvatars/bc5c27478fa4b026c72978c701f8d9abb5fdb407b51137e79ce8fc18617c8e62",
     "labels": null
   },
   "Dolibarr": {
@@ -426,7 +426,7 @@
     "domain": "https://www.dolibarr.org/onlinedemo.php",
     "tls": true,
     "title": "Online demo of Dolibarr ERP CRM - Try your online business suite now",
-    "iconURL": "./downloadedAvatars/0148ed8cd4509e9cb8d93ba92b4be3aeed0a92cfa861bda579dc494d2db2d277",
+    "iconURL": "./downloadedAvatars/ce8f3282731e68e3c79f1f23fbb462329607c61d114fc92712a79196e6b92f70",
     "labels": null
   },
   "DomainMOD": {
@@ -436,7 +436,7 @@
     "domain": "https://demo.domainmod.org",
     "tls": true,
     "title": "DomainMOD",
-    "iconURL": "./downloadedAvatars/f5fb0c52fe1f0c98ca5b7f014b1c777c5868bd0e15db4bc710fa3d8a11c0dcbb",
+    "iconURL": "./downloadedAvatars/dc9b96eb1a30e89f4fe5f9974970e815eff5ba3ca02b1e413b37f7a55635b69e",
     "labels": null
   },
   "EMQX": {
@@ -446,7 +446,7 @@
     "domain": "https://www.emqx.com/en/mqtt/public-mqtt5-broker",
     "tls": true,
     "title": "The Free Global Public MQTT Broker | Try Now | EMQ",
-    "iconURL": "./downloadedAvatars/e341e202c8ac30879efcf1eea75d64eb44ef78ec05d1d7c6c9ab02bf5210ac92",
+    "iconURL": "./downloadedAvatars/73846c060f592d2590eb670685e6f1fd5557b99ac1a44759e906a1b7bbc0d0ce",
     "labels": null
   },
   "ESMira": {
@@ -456,7 +456,7 @@
     "domain": "https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo",
     "tls": true,
     "title": "ESMira",
-    "iconURL": "./downloadedAvatars/dc58f69e837abfab2212a13445ca9de7622297dea213e5ab9f674d5e6281fcf6",
+    "iconURL": "./downloadedAvatars/02e6cb43de69faaa415d48ee0c128abb8bfadc5dae99f2ef90238a805b3baa75",
     "labels": null
   },
   "Easy!Appointments": {
@@ -466,7 +466,7 @@
     "domain": "https://demo.easyappointments.org/",
     "tls": true,
     "title": "Book Appointment With Company Name",
-    "iconURL": "./downloadedAvatars/0a8dda8fcbe4d29841f754dc121af1c5698a3c61df7cba8e9c6e90da508f162b",
+    "iconURL": "./downloadedAvatars/c9202c2f790830117a53e768c3524c447465dc81c1530f5466b66fee3a29e02f",
     "labels": null
   },
   "Enigma 1/2 BBS": {
@@ -476,7 +476,7 @@
     "domain": "https://l33t.codes/xibalba-bbs/",
     "tls": true,
     "title": "l33t.codes",
-    "iconURL": "./downloadedAvatars/c4e1127659384d6838028bd852e307bda7c9ffcc4fe315178315056a2d043ea3",
+    "iconURL": "./downloadedAvatars/64d99c75cac72ec75c78001753ddaa8f00a81d599f469f15bce91f09398344ee",
     "labels": null
   },
   "EspoCRM": {
@@ -486,7 +486,7 @@
     "domain": "https://demo.espocrm.com/",
     "tls": true,
     "title": "EspoCRM Demo",
-    "iconURL": "./downloadedAvatars/f3c79c2dfaaa874db788de712bce19f239aba0c01baa448279b57fde85f93e18",
+    "iconURL": "./downloadedAvatars/1c34f50c75aceb23374734006b220b731374114bd0c4287db7d6f1fe15e8c123",
     "labels": null
   },
   "EteSync Web": {
@@ -496,7 +496,7 @@
     "domain": "https://client.etesync.com/",
     "tls": true,
     "title": "EteSync - Secure Data Sync",
-    "iconURL": "./downloadedAvatars/67092465d200e0f35e4d15e78b1597b67081ed0e97fb12c678d8819deaea1424",
+    "iconURL": "./downloadedAvatars/b80c1cffdb17b944c45813aa84f0b209e99bed76e5b6b66d15d3478438555a76",
     "labels": null
   },
   "Etherpad": {
@@ -506,7 +506,7 @@
     "domain": "https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60",
     "tls": true,
     "title": "Sandstorm",
-    "iconURL": "./downloadedAvatars/2f441a2836bf0d6f08d70cd77acfc51a46773efcca2e39208387fb034fe46980",
+    "iconURL": "./downloadedAvatars/3625bfdda43f98ab318180c6ddb7fb5f610d19c73b7aeed57ab2fee617dc4dfb",
     "labels": null
   },
   "FOSSBilling": {
@@ -526,7 +526,7 @@
     "domain": "https://fava.pythonanywhere.com/example-with-budgets/income_statement/",
     "tls": true,
     "title": " - Example with budgets",
-    "iconURL": "./downloadedAvatars/10fdae1a508384921a98537fccf4c53b0bb206337714d176417ad3ecee78422b",
+    "iconURL": "./downloadedAvatars/60e74abd89f0ed2d77cf615757add3f6134ef918c723401f71f61cd9889cce7b",
     "labels": null
   },
   "Fess": {
@@ -546,7 +546,7 @@
     "domain": "https://demo.fider.io",
     "tls": true,
     "title": "Fider Demonstration",
-    "iconURL": "./downloadedAvatars/03c2ce20b5a3850a7abc174eb859c62f34dde72f7e415943a8546277593213a3",
+    "iconURL": "./downloadedAvatars/56b7af79818b79d54a2991d13345eb1026008ecd6c1f608f6f3286e6e693051f",
     "labels": null
   },
   "FileGator": {
@@ -566,7 +566,7 @@
     "domain": "https://demo.filestash.app/",
     "tls": true,
     "title": "",
-    "iconURL": "./downloadedAvatars/0c576e16f66f792c508b828de5f0c4469a85c9372ba1367897fad0efaa1101f8",
+    "iconURL": "./downloadedAvatars/bcd412cbb9d1bc6561e014778a9aba3ea98c24100ea8d3db32bca08d16d08b14",
     "labels": null
   },
   "Firefly III": {
@@ -586,7 +586,7 @@
     "domain": "https://try.flipt.io",
     "tls": true,
     "title": "Flipt",
-    "iconURL": "./downloadedAvatars/6be16c9ad0cb01dc16dab0debe717c9aaae31428e0ae5a269b9298bdb1f119b4",
+    "iconURL": "./downloadedAvatars/c9ea7d7dfe65de6134c6a201b78237767a6fcfadb83f394a480eb9d29dcfe166",
     "labels": null
   },
   "Flyimg": {
@@ -596,7 +596,7 @@
     "domain": "https://demo.flyimg.io",
     "tls": true,
     "title": "Flyimg Demo",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/794953e3473b6bc616b96ef70c4d518a6efa3395019707140d076b853ae8127d",
     "labels": null
   },
   "Forgejo": {
@@ -606,7 +606,7 @@
     "domain": "https://next.forgejo.org",
     "tls": true,
     "title": "FOR TESTING ONLY, ALL DATA CAN BE WIPED OUT AT ANY TIME",
-    "iconURL": "./downloadedAvatars/ff2f4095318b30cc9019d1feef30a63d279bc0dedb9c2447a09af89c20232688",
+    "iconURL": "./downloadedAvatars/5a4b2aeda633af3f48907a7c798b395d256c091da9d51aed3aebce540581cf99",
     "labels": null
   },
   "Framadate": {
@@ -626,7 +626,7 @@
     "domain": "https://demo.freshrss.org/i/",
     "tls": true,
     "title": "Haupt-Feeds · FreshRSS",
-    "iconURL": "./downloadedAvatars/056177eac8a0d2f65e697e12ef9f1c795206c8cb11ad729634ebd5b0a9b2528e",
+    "iconURL": "./downloadedAvatars/2b30cb1e714028e5c7e9822863079f64758688cfb766808c7db03ba7a0ce449a",
     "labels": null
   },
   "Fusio": {
@@ -636,7 +636,7 @@
     "domain": "https://fusio-project.org/demo",
     "tls": true,
     "title": "Demo | Fusio",
-    "iconURL": "./downloadedAvatars/0377b6f3bbb80b03bd3f6940165ebcb900c37f264c542bc0504f12871394acd6",
+    "iconURL": "./downloadedAvatars/fd4301df6b61df3e9183369577c6a712245e6e7d5bdd3c4d08b05a275eca18da",
     "labels": null
   },
   "GeneWeb": {
@@ -646,7 +646,7 @@
     "domain": "https://demo.geneweb.tuxfamily.org/gw7/",
     "tls": true,
     "title": "GeneWeb – grimaldi",
-    "iconURL": "./downloadedAvatars/44a684f0293aef38865a86cb7283e930fb6e92ecc261a850406f49a8ba7d2ba5",
+    "iconURL": "./downloadedAvatars/c5ca94ece6190904996eb3b72ec38900f01343577482f93b99a002b69ecae9f3",
     "labels": null
   },
   "GitLab": {
@@ -656,7 +656,7 @@
     "domain": "https://gitlab.com/",
     "tls": true,
     "title": "The most-comprehensive AI-powered DevSecOps platform | GitLab",
-    "iconURL": "./downloadedAvatars/e1ff48ed6bdc45171b03d755acc0d7560935509433b367773f6b1318f6305573",
+    "iconURL": "./downloadedAvatars/25219a18ccb42a2ab6382b711e863fb7c8717173f4baeb77d438df651426013b",
     "labels": null
   },
   "Gitea": {
@@ -666,7 +666,7 @@
     "domain": "https://try.gitea.io",
     "tls": true,
     "title": "Gitea: Git with a cup of tea",
-    "iconURL": "./downloadedAvatars/e9a7c1a452bb9aeacb9b9ae4721d07966fec27f453f0bb2a7169a960d427be14",
+    "iconURL": "./downloadedAvatars/995a63c5bc2da8fec0de1a265993eec7ae528959fc666dc7dd4edc641e3b2446",
     "labels": null
   },
   "Gramps Web": {
@@ -676,7 +676,7 @@
     "domain": "https://gramps-project.github.io/gramps-web-api/",
     "tls": true,
     "title": "Swagger UI",
-    "iconURL": "./downloadedAvatars/9d7961a1b925392a467013dc2c9e3f4d36f98d214fb7702cecb2aefa641a1792",
+    "iconURL": "./downloadedAvatars/1ae475f78843b0cec96b4d11e80d21ae543c415d595155a9f7ffd138653a4c8b",
     "labels": null
   },
   "Grist": {
@@ -686,7 +686,7 @@
     "domain": "https://docs.getgrist.com",
     "tls": true,
     "title": "Loading... - Grist",
-    "iconURL": "./downloadedAvatars/e4556fccd0d52d1c678868019daba67dab0d93bf906e2ce4167473d50196acde",
+    "iconURL": "./downloadedAvatars/3fd9c5a68a0c6086be417059f726086d644c4b7b51700b32a268aa746fbb716e",
     "labels": null
   },
   "Haven": {
@@ -696,7 +696,7 @@
     "domain": "https://havenweb.org/demo.html",
     "tls": true,
     "title": "Haven Demo: Try out Haven for free",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/1fc9157b75a64c8e47a8719d09022bd4058cc2e7a6a8e85d5f0e34a5912004e1",
     "labels": null
   },
   "Homarr": {
@@ -706,7 +706,7 @@
     "domain": "https://demo.homarr.dev",
     "tls": true,
     "title": "Homarr Demo",
-    "iconURL": "./downloadedAvatars/8a28245185d85e35316c5d83f7503e6f517aee0d04a91625d3a95791ad988f67",
+    "iconURL": "./downloadedAvatars/5dafaf769e608eac4244b31dc9b49ed12ba153a834ffac2574881c172ce82c79",
     "labels": null
   },
   "Home Assistant": {
@@ -716,7 +716,7 @@
     "domain": "https://home-assistant.io/demo/",
     "tls": true,
     "title": "Home Assistant Demo",
-    "iconURL": "./downloadedAvatars/d1b22cb535e15d843b209db85728eca934d6d955c8e6d270737502d163403d22",
+    "iconURL": "./downloadedAvatars/7c7a0465de15be079eae9e148eece9ff8d451de4fa0e87a186f803ac643a6335",
     "labels": null
   },
   "HomeGallery": {
@@ -726,7 +726,7 @@
     "domain": "https://demo.home-gallery.org",
     "tls": true,
     "title": "Home Gallery",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/1f50d285911eedd55baabe04d4d39b0ce755249821c75b85a56f94d58ae7524b",
     "labels": null
   },
   "Homebox Inventory": {
@@ -746,7 +746,7 @@
     "domain": "https://lists.mailman3.org/",
     "tls": true,
     "title": "\nList Index - lists.mailman3.org\n",
-    "iconURL": "./downloadedAvatars/7695f6b0226d80127cfbb4f78fb4bd223c28842e762d796f79aaeddb02d9cee5",
+    "iconURL": "./downloadedAvatars/a316f12b19d689e2949312bf52dc6512753bbef4c491eb59b37d61c2694a2a10",
     "labels": null
   },
   "I, Librarian": {
@@ -756,7 +756,7 @@
     "domain": "https://i-librarian.net/demo/",
     "tls": true,
     "title": "I, Librarian",
-    "iconURL": "./downloadedAvatars/38c4d2d29bfa56cd5a3f50b5c2594110dcb77a10ea813f2d071506774a15f416",
+    "iconURL": "./downloadedAvatars/b55c7b5663f5dceaa0e3732ea7a7f5dbe79ea490c70e5cd7c5de4fef544188f4",
     "labels": null
   },
   "IHateMoney": {
@@ -766,7 +766,7 @@
     "domain": "https://ihatemoney.org/demo/",
     "tls": true,
     "title": "Account manager",
-    "iconURL": "./downloadedAvatars/375198a8733d358ecb8c9323263c80ca4655fe700ee9928059a3e82bace4796a",
+    "iconURL": "./downloadedAvatars/be86350d145f2f961a4ff0171b3cc94048022c27ff6fee00cc3875204ec3eaf5",
     "labels": null
   },
   "ILIAS": {
@@ -786,7 +786,7 @@
     "domain": "https://demo.itflow.org",
     "tls": true,
     "title": "ITFlow Demo | Login",
-    "iconURL": "./downloadedAvatars/c837eff446b70db8030fc79f45a4a7b0ccad03b081fe7bdac194f926f1e69fea",
+    "iconURL": "./downloadedAvatars/fefb3c0db5817b51c1ac7a6173767a0e5017c8d4beed943729ec3c17bd68bd51",
     "labels": null
   },
   "InvenioRDM": {
@@ -796,7 +796,7 @@
     "domain": "https://inveniordm.web.cern.ch/",
     "tls": true,
     "title": "InvenioRDM",
-    "iconURL": "./downloadedAvatars/777b5a8a1f0e26f9b4ef6eb8cfb40c6a0e48219371fc621f6d1da010571bc774",
+    "iconURL": "./downloadedAvatars/72674945254b0cebe64d53e7ec8761e86d391d5848e0e6d2f4d87300427a1339",
     "labels": null
   },
   "Inventree": {
@@ -806,7 +806,7 @@
     "domain": "https://inventree.org/demo",
     "tls": true,
     "title": "InvenTree Demo | InvenTree",
-    "iconURL": "./downloadedAvatars/a6ed9f801cdcfd11e469ef7c36dc137af050f38b37b8611edd10e883d86383cc",
+    "iconURL": "./downloadedAvatars/a6fe1e9fa398924d08052e48ca288df656434ecfc5400bdcad800a63adeb25b2",
     "labels": null
   },
   "Invoice Ninja": {
@@ -816,7 +816,7 @@
     "domain": "https://app.invoiceninja.com/invoices/create",
     "tls": true,
     "title": "Invoice Ninja | Free Source-Available Online Invoicing",
-    "iconURL": "./downloadedAvatars/43f0533a76c04f80c3cf5b1ae1d88cd616771bbbbe19fdcedcb41503b74f70d4",
+    "iconURL": "./downloadedAvatars/06984cf36840b9ee6677a558b8033d5a2bc171319d893d8455f040657609301f",
     "labels": null
   },
   "Islandora": {
@@ -826,7 +826,7 @@
     "domain": "https://sandbox.islandora.ca/",
     "tls": true,
     "title": "Home | Islandora 2 Starter Site",
-    "iconURL": "./downloadedAvatars/39edbef58059e2ed1f282b4782ea6f3fa0bee55008f6422df457719c96428cb7",
+    "iconURL": "./downloadedAvatars/f789516689369263467c3fa4bcfff883c9848091cf6ef6310d7addb4afc170ea",
     "labels": null
   },
   "JARR": {
@@ -836,7 +836,7 @@
     "domain": "https://www.jarr.info/",
     "tls": true,
     "title": "JARR",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/99f9370f966d29b75d1caaec621d7fb63b5829b37d06f3ad311873129196daa2",
     "labels": null
   },
   "Janus": {
@@ -856,7 +856,7 @@
     "domain": "https://demo.jellyfin.org/stable",
     "tls": true,
     "title": "Jellyfin",
-    "iconURL": "./downloadedAvatars/9642148ef3219760dca9a841426117dafe03449c9e2b936325e9d71ad9f918f2",
+    "iconURL": "./downloadedAvatars/cb946df137493cfa773a4fea0c474409d1a9574657bb1fc58e9e5e05bac2cb7b",
     "labels": null
   },
   "Jitsi Meet": {
@@ -866,7 +866,7 @@
     "domain": "https://meet.jit.si",
     "tls": true,
     "title": "Jitsi Meet",
-    "iconURL": "./downloadedAvatars/edc2f27c8921bba67352243bed54d75a8a93be4f189265d35d56ae1ec30a9bae",
+    "iconURL": "./downloadedAvatars/9bd6ece6f49e527b2d86927161b01b8abac4998955a5836b6dee8a7a1fcb7e44",
     "labels": null
   },
   "JupyterLab": {
@@ -876,7 +876,7 @@
     "domain": "https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab",
     "tls": true,
     "title": "Binder",
-    "iconURL": "./downloadedAvatars/10fdae1a508384921a98537fccf4c53b0bb206337714d176417ad3ecee78422b",
+    "iconURL": "./downloadedAvatars/c3d54374baf60a18375b3b91a45b3652932ff2ea9c5ac6e3ebbc7f9cee05e101",
     "labels": null
   },
   "Kasm Workspaces": {
@@ -886,7 +886,7 @@
     "domain": "https://www.kasmweb.com/#demo",
     "tls": true,
     "title": "Kasm Workspaces | The Container Streaming Platform",
-    "iconURL": "./downloadedAvatars/1dfeda7db58170128d6025eb450c7072f6fb7cc1c33c7ab31984bfa46312eeba",
+    "iconURL": "./downloadedAvatars/8eed9634bdcd3c1e9f03ea3b94078d4060b6aa7b7d46497c76c5ed68c0fb9720",
     "labels": null
   },
   "Kavita": {
@@ -896,7 +896,7 @@
     "domain": "https://wiki.kavitareader.com/en/kavita-demo",
     "tls": true,
     "title": "Kavita Demo | Kavita",
-    "iconURL": "./downloadedAvatars/37afb5231d7844272c2677830b499acbfd4e6ef90f5d4ca5fffc1a330e8800d0",
+    "iconURL": "./downloadedAvatars/65d7b305cc9233857149c014c6d0e037f3e7d97035175315909de4b63ce55994",
     "labels": null
   },
   "Keila": {
@@ -906,7 +906,7 @@
     "domain": "https://app.keila.io",
     "tls": true,
     "title": "\nSign in · Keila\n    ",
-    "iconURL": "./downloadedAvatars/daf78a04fcffcd487fccdc3d745fb0b7243e3a74ed0d88a7f4446e86f0a50dfc",
+    "iconURL": "./downloadedAvatars/5232fce7ee9cb095b3fb6dfa9dae89b67e97de71e75e2832ca68fe76498e035d",
     "labels": null
   },
   "Kerberos.io": {
@@ -916,7 +916,7 @@
     "domain": "https://demo.kerberos.io/",
     "tls": true,
     "title": "Kerberos Agent | Video surveillance for everyone",
-    "iconURL": "./downloadedAvatars/5ac203d0e5f396dcf51ea0d3a38a24bcd0248e2c079397687bc97cdede20c6b0",
+    "iconURL": "./downloadedAvatars/517fdee63ff1d7e8e79ee88db5b42032e91934528a521686a1079b3a92526df5",
     "labels": null
   },
   "Kimai": {
@@ -926,7 +926,7 @@
     "domain": "https://www.kimai.org/demo/",
     "tls": true,
     "title": "Redirecting … ",
-    "iconURL": "./downloadedAvatars/265979b3a9523a51f43e149820702a0c8aa03615c24ba6cef05cd588b949db4a",
+    "iconURL": "./downloadedAvatars/95fba072a27669f7c6561af74178e782a3c8669914566ffeb0a2b0c74d595e14",
     "labels": null
   },
   "Kiwi IRC": {
@@ -956,7 +956,7 @@
     "domain": "https://demo.krayincrm.com/",
     "tls": true,
     "title": "Krayincrm Demo",
-    "iconURL": "./downloadedAvatars/ae39b842f5ddc650f0bbbf4d9977a5278ae197695ef90b67e00508e4d3166a14",
+    "iconURL": "./downloadedAvatars/f8364302ab3e6acb62f3153803f38a1f75a8400066dbaf18f1fd855a849b83de",
     "labels": null
   },
   "Kresus": {
@@ -976,7 +976,7 @@
     "domain": "https://demo.kubero.dev/",
     "tls": true,
     "title": "Kubero",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/4f7ceff2494ea9b9623dc27c9cffbec171d2d0a06fa3fc0e537cbd69537527d1",
     "labels": null
   },
   "LBRY": {
@@ -986,7 +986,7 @@
     "domain": "https://lbry.tv/",
     "tls": true,
     "title": "Odysee",
-    "iconURL": "./downloadedAvatars/da930a9ab27df63a04d223090515711f822a6969af7a3cb370b9de638f86f4e4",
+    "iconURL": "./downloadedAvatars/3ceabf202014802d2016d9b904bffb55267f67cd3e675245d5dbb2217f6118d4",
     "labels": null
   },
   "LedgerSMB": {
@@ -996,7 +996,7 @@
     "domain": "https://demo.cloud.efficito.com/erp/1.5/login.pl",
     "tls": true,
     "title": "LedgerSMB 1.5.24",
-    "iconURL": "./downloadedAvatars/015dff9d9078b634d3f061a852ae7653004005c0f1dff5bb79edfe71d62ef09a",
+    "iconURL": "./downloadedAvatars/de12cdc523080d7930f92e30b9e8b4da14ee6a9f5c60a3963a9a43b96ebd57ed",
     "labels": null
   },
   "LimeSurvey": {
@@ -1006,7 +1006,7 @@
     "domain": "https://demo.limesurvey.org",
     "tls": true,
     "title": "\n        LimeSurvey\n    ",
-    "iconURL": "./downloadedAvatars/3ab7f281edd46998e31325e7ef6a0925bf80b1df845c5eff7edc124dec16f84a",
+    "iconURL": "./downloadedAvatars/04603e3451ed84d930921cf5531c890e399aaf7d4c934edd72a6e40d0dc8b4d9",
     "labels": null
   },
   "LinkAce": {
@@ -1016,7 +1016,7 @@
     "domain": "https://demo.linkace.org/guest/links",
     "tls": true,
     "title": "Links - LinkAce Demo",
-    "iconURL": "./downloadedAvatars/c76bc1ee1d6648b4e5025775c9880ff6b6d12868c525ae8cc706919365d6568c",
+    "iconURL": "./downloadedAvatars/7ef59e9702fe5c5afcff059a9e68d212ddb45f5e5717506c8a3f18711d30bcac",
     "labels": null
   },
   "LinkStack": {
@@ -1026,7 +1026,7 @@
     "domain": "https://linksta.cc/",
     "tls": true,
     "title": "LinkStack",
-    "iconURL": "./downloadedAvatars/85ddc81b0445c4c15254df03b0e320bfd9e20ffda8c9f4454c223b4016209ed0",
+    "iconURL": "./downloadedAvatars/887acb4cfd9f84517057225a59de92693a1d1121f9575b1c5369dc269b3d1251",
     "labels": null
   },
   "Loggit": {
@@ -1036,7 +1036,7 @@
     "domain": "https://app.loggit.net",
     "tls": true,
     "title": "Loggit — Log your unscheduled events",
-    "iconURL": "./downloadedAvatars/e3644d86645c5c9e1fd2bd68bae97af9d6cdbd987a02ddda95405a2876403ac6",
+    "iconURL": "./downloadedAvatars/3daa2d36fc3c51202921c3af5b7c0ec0d915c6d227572b02f4a362d78d7290b8",
     "labels": null
   },
   "Lynx": {
@@ -1046,7 +1046,7 @@
     "domain": "https://demo.getlynx.dev",
     "tls": true,
     "title": "Lynx",
-    "iconURL": "./downloadedAvatars/6d04daf41b7f1bb56ccba7ea490a0e3bee6a4b02e367230ee75630f2b33957b5",
+    "iconURL": "./downloadedAvatars/301c2d3efe5a09d8dd782d3ceceb4b76027281b0bbd34cf5bfa2afbba10b2bf3",
     "labels": null
   },
   "MantisBT": {
@@ -1056,7 +1056,7 @@
     "domain": "https://www.mantisbt.org/bugs/my_view_page.php",
     "tls": true,
     "title": "My View - MantisBT",
-    "iconURL": "./downloadedAvatars/3da523bccb220e7322371ea9315cef73efe07ef8be082c256e8de99a6b9543f4",
+    "iconURL": "./downloadedAvatars/f4b6bbb9c93070bd0f5d33461495ff5cc298eb7f2648075e1c974033f8121a52",
     "labels": null
   },
   "Mathesar": {
@@ -1066,7 +1066,7 @@
     "domain": "https://demo.mathesar.org/",
     "tls": true,
     "title": "Mathesar - Login",
-    "iconURL": "./downloadedAvatars/c7027a845637e6fe36a4bd646dc2322230d65fc39705ca461918268dfb135645",
+    "iconURL": "./downloadedAvatars/48e98ef5354f828dd7ac2f60cc443b7960100e511818d605fc669988f4e42f4d",
     "labels": null
   },
   "Mediawiki": {
@@ -1076,7 +1076,7 @@
     "domain": "https://en.wikipedia.org/wiki/Main_Page",
     "tls": true,
     "title": "Wikipedia, the free encyclopedia",
-    "iconURL": "./downloadedAvatars/462257531e898950f87d3f81e59546d3f4ae047ae2f896992cc3c537ee88e172",
+    "iconURL": "./downloadedAvatars/b4f403b87b4012c5f5bc81cbeb72836f021e12b8889a46f7ed882b8358504648",
     "labels": null
   },
   "MedusaJs": {
@@ -1086,7 +1086,7 @@
     "domain": "https://next.medusajs.com/",
     "tls": true,
     "title": "Medusa Next.js Starter Template",
-    "iconURL": "./downloadedAvatars/912410d7d9ad632a3827c2b7735330ad32c0d8dcd9819b016babcfd4c746b137",
+    "iconURL": "./downloadedAvatars/a9a7cfdd25398e9f8caaf16f5a8c7948259d4355a2be445fbba7a990c1219288",
     "labels": null
   },
   "Mibew": {
@@ -1126,7 +1126,7 @@
     "domain": "https://p2p.mirotalk.com/newcall",
     "tls": true,
     "title": "Email",
-    "iconURL": "./downloadedAvatars/c657ed818b6b2ad0a1f6834fc5008c3f678d62f39ce9bfe7dbf3a456a42084ba",
+    "iconURL": "./downloadedAvatars/830d8f5540d192a312d58683f551e8ccbb5f5a30562c999d9923457a2fede9cd",
     "labels": null
   },
   "MiroTalk SFU": {
@@ -1136,7 +1136,7 @@
     "domain": "https://sfu.mirotalk.com/newroom",
     "tls": true,
     "title": "Forum",
-    "iconURL": "./downloadedAvatars/c657ed818b6b2ad0a1f6834fc5008c3f678d62f39ce9bfe7dbf3a456a42084ba",
+    "iconURL": "./downloadedAvatars/39291f69509f317cbb24b055f557223276d2636e36429f2cc4352a51d9f7ebc9",
     "labels": null
   },
   "Mobilizon": {
@@ -1146,7 +1146,7 @@
     "domain": "https://demo.mobilizon.org/",
     "tls": true,
     "title": "Demo Mobilizon - Mobilizon",
-    "iconURL": "./downloadedAvatars/5f232cd3af8853ed9301608ee7fb842d22416361824c742749d4e8a1f35c24ff",
+    "iconURL": "./downloadedAvatars/23a28f240c98cb90a20a7371685b6b3e3fdf5e973bb648abe4289386ae1668ad",
     "labels": null
   },
   "Moodle": {
@@ -1156,7 +1156,7 @@
     "domain": "https://moodle.org/demo/",
     "tls": true,
     "title": "Moodle demo | Moodle.org",
-    "iconURL": "./downloadedAvatars/b858b069160d002ecea86b027fc2fed91f2d36b8871a5a39505c48aa5231ed37",
+    "iconURL": "./downloadedAvatars/2e3f7f5c07556ed598b36ca5bb80b46caa29a835148ead993aeeca647d273382",
     "labels": null
   },
   "Navidrome Music Server": {
@@ -1166,7 +1166,7 @@
     "domain": "https://www.navidrome.org/demo",
     "tls": true,
     "title": "Navidrome Demo | Navidrome",
-    "iconURL": "./downloadedAvatars/df42780f6405dbe2129f6e27a3f21130dd9d49045eae47d3add7afd60ebac906",
+    "iconURL": "./downloadedAvatars/5c16c55104e883a6791e57a302d7c51fd607dcd3faa01b5b501f01fc8b6f3a3b",
     "labels": null
   },
   "Newspipe": {
@@ -1176,7 +1176,7 @@
     "domain": "https://www.newspipe.org/signup",
     "tls": true,
     "title": "Newspipe",
-    "iconURL": "./downloadedAvatars/d646255186d17f1d4addbc5b84daf05486e94486152b764136ddac2f242dd0c0",
+    "iconURL": "./downloadedAvatars/a5dbbc3266a70deb4d31f0ae0fcb13b85d4543cdd41834f49b65c2ff6fd9b032",
     "labels": null
   },
   "Nextcloud": {
@@ -1186,7 +1186,7 @@
     "domain": "https://try.nextcloud.com/",
     "tls": true,
     "title": "Try Nextcloud",
-    "iconURL": "./downloadedAvatars/b2684e3f0c8d35018148713c1d78891d1e024177a3f3701458861e873449437d",
+    "iconURL": "./downloadedAvatars/ee128061fd8e1d4f6e10e959fc1a29a7272eecfefb16933a817afe3f2f264408",
     "labels": null
   },
   "Nextcloud Memories": {
@@ -1206,7 +1206,7 @@
     "domain": "https://otobo.de/en/open-source-ticketing-system/#demos",
     "tls": true,
     "title": "Open-Source-Ticketsystem | Der neue freie Helpdesk OTOBO",
-    "iconURL": "./downloadedAvatars/702f7ae8db8ebe39fa38ddb8839c699f2e137bd60e2b8a98afddeb42a6536cd1",
+    "iconURL": "./downloadedAvatars/cbe5b713d5df9c99343c91e28c9dd8f634cfd3719ff0c4cd100af1502155d200",
     "labels": null
   },
   "Odoo": {
@@ -1216,7 +1216,7 @@
     "domain": "https://demo.odoo.com/",
     "tls": true,
     "title": "404 Not Found",
-    "iconURL": "./downloadedAvatars/a2a4fd4e12a51dd42b073ba90497d91a091a5a49b23f27d5dd90ab737979fd67",
+    "iconURL": "./downloadedAvatars/3cc2563fb9a35133830b7d32ee9ff9eb2e145d18af117a5a7220da7fe25ef270",
     "labels": null
   },
   "Offen": {
@@ -1226,7 +1226,7 @@
     "domain": "https://www.offen.dev/try-demo/",
     "tls": true,
     "title": "\nTry demo | Offen Fair Web Analytics    ",
-    "iconURL": "./downloadedAvatars/7b3f17fdbb14147e29daf8ea19d65f3bb0de0046b8768fe3e33e1be0f62188bc",
+    "iconURL": "./downloadedAvatars/53b8d726b8665978c302994bdf3a47d17843d252e367ecc921f2cc88023e0001",
     "labels": null
   },
   "Ombi": {
@@ -1236,7 +1236,7 @@
     "domain": "https://app.ombi.io/",
     "tls": true,
     "title": "Ombi",
-    "iconURL": "./downloadedAvatars/cf335272c6a459011e98ca6a50b1fc193e826008916bdd87c3b767eb00abe87d",
+    "iconURL": "./downloadedAvatars/e804c4c954ee62e4c57e90597b2c87f4f459f7a60f963b8ce437b8951d1f36d5",
     "labels": null
   },
   "Omeka": {
@@ -1256,7 +1256,7 @@
     "domain": "https://map.project-osrm.org/",
     "tls": true,
     "title": "OpenStreetMap Routing with Open Source Routing Machine",
-    "iconURL": "./downloadedAvatars/ab781b7183865dcb16f201661823469c852a338ea11439f7f2762ac8fa1c3f35",
+    "iconURL": "./downloadedAvatars/b1c7a1390961906a64932b31fc1b18f9d28002bda9cc44f1375cbddd7d57f787",
     "labels": null
   },
   "Open eClass": {
@@ -1266,7 +1266,7 @@
     "domain": "https://demo.openeclass.org/",
     "tls": true,
     "title": "Open eClass Demo",
-    "iconURL": "./downloadedAvatars/e49db64b1f30bfd879dc0a6e8de36afd2334b530f69070dfc7de5ee3c1a6ec43",
+    "iconURL": "./downloadedAvatars/104aa433aa758c0dc0e820a97ce331fedef1c8648965f5877c163352033412dc",
     "labels": null
   },
   "Open-Meteo": {
@@ -1276,7 +1276,7 @@
     "domain": "https://open-meteo.com/en/docs",
     "tls": true,
     "title": "",
-    "iconURL": "./downloadedAvatars/43f0533a76c04f80c3cf5b1ae1d88cd616771bbbbe19fdcedcb41503b74f70d4",
+    "iconURL": "./downloadedAvatars/a21cd49c77bcd8f1be07b4616820c90ec9f0112f12b48e5ed0f9742dab8eb73c",
     "labels": null
   },
   "OpenOLAT": {
@@ -1286,7 +1286,7 @@
     "domain": "https://learn.olat.com",
     "tls": true,
     "title": "OpenOlat - infinite learning",
-    "iconURL": "./downloadedAvatars/8d1005fb10714f5421c4500bc2dfe92492cddb3df547e5c3d0e472df903387e5",
+    "iconURL": "./downloadedAvatars/b610f9fa3e1cc9619c9c7a4fd610ccf86af1b657fbc5c5a33a9a769184fda8b5",
     "labels": null
   },
   "OpenRemote": {
@@ -1296,7 +1296,7 @@
     "domain": "https://demo.openremote.io/",
     "tls": true,
     "title": "OpenRemote Demo",
-    "iconURL": "./downloadedAvatars/28532521a5634777d9f69b90105d7f36d1ef19eb65919e3ab146f7c05f44eca0",
+    "iconURL": "./downloadedAvatars/51865ef5766fe5b2802bcf6be49183b88a665dc3782bde43f1d8b903fef66a33",
     "labels": null
   },
   "OpenRouteService": {
@@ -1306,7 +1306,7 @@
     "domain": "https://openrouteservice.org/dev/#/api-docs/introduction",
     "tls": true,
     "title": "Dashboard | ORS",
-    "iconURL": "./downloadedAvatars/b4a4a172cef13cce62de44f694ebba02e71a25170eb6b650ade3eaa193010120",
+    "iconURL": "./downloadedAvatars/bd3c9373c70f6e83ce4f2f6ccde128b23501e6565d69ada1611b2f1b0c844ba6",
     "labels": null
   },
   "OrangeHRM": {
@@ -1316,7 +1316,7 @@
     "domain": "https://opensource-demo.orangehrmlive.com/",
     "tls": true,
     "title": "OrangeHRM",
-    "iconURL": "./downloadedAvatars/dbc7d34f42b08e1bbccf7c6df3f7d999e4a71657040be016c1cd4a60d193e2d1",
+    "iconURL": "./downloadedAvatars/c2ef69b6a17242c417caa5314349e7e7a1c6b0931f84cc1997d1c09316c2a6f8",
     "labels": null
   },
   "OvenMediaEngine": {
@@ -1326,7 +1326,7 @@
     "domain": "https://demo.ovenplayer.com",
     "tls": true,
     "title": "OvenPlayer",
-    "iconURL": "./downloadedAvatars/377bfa0c62f0ada335cca28c6e4e618dfbf997c540b16a4c224c0f2ead443083",
+    "iconURL": "./downloadedAvatars/06401353e7c1fdbbf6dc99ea0e161006d6dfc07d8468541dafff6f2cf54f7e05",
     "labels": null
   },
   "Pagure": {
@@ -1336,7 +1336,7 @@
     "domain": "https://pagure.io/",
     "tls": true,
     "title": "Home - Pagure.io",
-    "iconURL": "./downloadedAvatars/4c8e845c55d0453102c51db6f34d826f28ea96d64cc57799f86bb248e1b0c0e2",
+    "iconURL": "./downloadedAvatars/c652def243ed4e49179ad11765a9c71192b717a0c4d655106cf9516072ff660d",
     "labels": null
   },
   "Paperless-ngx": {
@@ -1346,7 +1346,7 @@
     "domain": "https://demo.paperless-ngx.com/",
     "tls": true,
     "title": "Just a moment...",
-    "iconURL": "./downloadedAvatars/c738980404b33a98b2044b066381cd939d17791cf2fe38a325f770a3aef3bf93",
+    "iconURL": "./downloadedAvatars/82e39348167ab525ad5bd8b0838b677362e1ddaa91bd0fa638268b6ce88cd96f",
     "labels": null
   },
   "PassIt": {
@@ -1356,7 +1356,7 @@
     "domain": "https://app.passit.io/",
     "tls": true,
     "title": "Passit",
-    "iconURL": "./downloadedAvatars/b6934f9b54ebd0a7387f30b9dddfd27879f3590b3e46891b4c35523d9d0b6447",
+    "iconURL": "./downloadedAvatars/8a60991b6a1b5b00d6fbd8ca4cdae2a0a817acb7a50dc4df050761299971c501",
     "labels": null
   },
   "Passky": {
@@ -1366,7 +1366,7 @@
     "domain": "https://vault.passky.org",
     "tls": true,
     "title": "Passky",
-    "iconURL": "./downloadedAvatars/a17425280be5216f0bb3304bcf666a3d90c741a0c2ac09132410e23690ab21b2",
+    "iconURL": "./downloadedAvatars/4b5becdd2b7957e749e02ca6f29664ecb20a7e98d7b579a1963a6e81edb86f3b",
     "labels": null
   },
   "Payload CMS": {
@@ -1376,7 +1376,7 @@
     "domain": "https://demo.payloadcms.com",
     "tls": true,
     "title": "Payload CMS | Public Demo",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/edf7b761aff63964a0ce2515d64794335d57e7f906195f545474a7effb875a17",
     "labels": null
   },
   "PhotoPrism": {
@@ -1386,7 +1386,7 @@
     "domain": "https://demo.photoprism.app/library/browse",
     "tls": true,
     "title": "PhotoPrism+",
-    "iconURL": "./downloadedAvatars/9fe100b2b3d07108548551e3abc75a76a5a62b87d479d86c04bbc8776fe9fff9",
+    "iconURL": "./downloadedAvatars/ec861c7dc8cd74ae20f1c82ab1e942a2bd7656dee722da26401660822bbd1728",
     "labels": null
   },
   "PicoShare": {
@@ -1396,7 +1396,7 @@
     "domain": "https://demo.pico.rocks",
     "tls": true,
     "title": "PicoShare",
-    "iconURL": "./downloadedAvatars/43f0533a76c04f80c3cf5b1ae1d88cd616771bbbbe19fdcedcb41503b74f70d4",
+    "iconURL": "./downloadedAvatars/296b6e26b2fbe209c26ba456634127d9726bccdfd66472ec9d478f24830cf3be",
     "labels": null
   },
   "Plainpad": {
@@ -1406,7 +1406,7 @@
     "domain": "https://alextselegidis.com/try/plainpad/",
     "tls": true,
     "title": "Plainpad",
-    "iconURL": "./downloadedAvatars/bf6e18db599874cf99796e64f778b23c4e631441614e9f407e4723d34ae46f65",
+    "iconURL": "./downloadedAvatars/0a17863296fc75908a5c8b6e4cf790970fd8ad4892fe3d9d1ed54cd393f4aa00",
     "labels": null
   },
   "Plane": {
@@ -1416,7 +1416,7 @@
     "domain": "https://app.plane.so",
     "tls": true,
     "title": "Plane | Simple, extensible, open-source project management tool.",
-    "iconURL": "./downloadedAvatars/397176b4125310763f131eba7a26ec519617672fffc79f968674ddc7901f41ce",
+    "iconURL": "./downloadedAvatars/1f9357707c59f8a0648df6305d0018bda316f963ca885ebab7b1f0237e9da0b3",
     "labels": null
   },
   "Planka": {
@@ -1426,7 +1426,7 @@
     "domain": "https://plankanban.github.io/planka/#/",
     "tls": true,
     "title": "Planka",
-    "iconURL": "./downloadedAvatars/d73fe15ce983f5295dbf71e4974f10a6604d4ea764a05088ce5c23399c7f571a",
+    "iconURL": "./downloadedAvatars/6daa432ce1c8b727033fd8d7dc260a04d3de36dbaf34970ebad843806cb81ac0",
     "labels": null
   },
   "PoeticMetric": {
@@ -1446,7 +1446,7 @@
     "domain": "https://demo.prestashop.com/",
     "tls": true,
     "title": "PrestaShop Live Demo",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/84ea9efc35efca782e6be5e5cfed4cb231ce149763af9cd6e77e26b6e138cd28",
     "labels": null
   },
   "PrivateBin": {
@@ -1456,7 +1456,7 @@
     "domain": "https://privatebin.net/",
     "tls": true,
     "title": "PrivateBin",
-    "iconURL": "./downloadedAvatars/b9c4b6dbf4f17a5c7acadd7c79d486b3ef299a81f21b6ba75128cfa20b95a665",
+    "iconURL": "./downloadedAvatars/f33d96f44081df945f1f76f159e9b1dd2ee6ef33c15463059c0da03287dec321",
     "labels": null
   },
   "ProjeQtOr": {
@@ -1466,7 +1466,7 @@
     "domain": "https://demo.projeqtor.org/",
     "tls": true,
     "title": "ProjeQtOr",
-    "iconURL": "./downloadedAvatars/ebb8eae81f17b3d79efa3abf373f294cf2c4f6755b88f0b34718a5921c8c8f13",
+    "iconURL": "./downloadedAvatars/993d738e05fc723114e0e3221d9e321b6f5402a71c16cb02fd4c9293c5462b23",
     "labels": null
   },
   "Psono": {
@@ -1476,7 +1476,7 @@
     "domain": "https://www.psono.pw",
     "tls": true,
     "title": "Psono",
-    "iconURL": "./downloadedAvatars/2f58ab419693a22592993b645b313e1e5f7b229cfad549697b3766cfd11aac30",
+    "iconURL": "./downloadedAvatars/14d06622ee27ba975d53a0cc67a020f2321961b61486814a55beb0c11c68b13a",
     "labels": null
   },
   "Pydio": {
@@ -1486,7 +1486,7 @@
     "domain": "https://pydio.com/en/demo",
     "tls": true,
     "title": "Pydio | Try it by yourself! Pydio Cells Demo",
-    "iconURL": "./downloadedAvatars/834478844a02f8d5cfee66ff367700971e8772dc2126f441128686ccbf2b5ade",
+    "iconURL": "./downloadedAvatars/74cabc707fbd175c81599c10b0abaebdb05a9188b94420853eb6dcc8565e92cc",
     "labels": null
   },
   "QloApps": {
@@ -1496,7 +1496,7 @@
     "domain": "https://demo.qloapps.com/",
     "tls": true,
     "title": "QloApps Demo\n        ",
-    "iconURL": "./downloadedAvatars/ebfc9cc147746028ca30139889e0c240fed51fd2460e497cdce610437b9bf458",
+    "iconURL": "./downloadedAvatars/261fbbe5d7eeff883a5459df2db83eafcc552225664eda0e3b1cc9e1f090beb5",
     "labels": null
   },
   "REI3": {
@@ -1506,7 +1506,7 @@
     "domain": "https://rei3.de/demo_en/",
     "tls": true,
     "title": "REI3 - Public demo system",
-    "iconURL": "./downloadedAvatars/ebfc9cc147746028ca30139889e0c240fed51fd2460e497cdce610437b9bf458",
+    "iconURL": "./downloadedAvatars/fb77e96438f932d6530af1a4cd8ca2add480b3c966bd4d4c4d8180b31b31c431",
     "labels": null
   },
   "RERO ILS": {
@@ -1516,7 +1516,7 @@
     "domain": "https://ils.test.rero.ch/",
     "tls": true,
     "title": "RERO ILS: Global catalog",
-    "iconURL": "./downloadedAvatars/c059c76e13bc8273f75fcfb0ca8cb69037f596a25a7a6497cf73fcb155bf5dda",
+    "iconURL": "./downloadedAvatars/e17420acad913430d318d70abd4a3e69cf8f3d39bcae2156039ef7773d801ce5",
     "labels": null
   },
   "RSSHub": {
@@ -1526,7 +1526,7 @@
     "domain": "https://rsshub.app",
     "tls": true,
     "title": "Welcome to RSSHub!",
-    "iconURL": "./downloadedAvatars/e6d8d0fa1d96d167df0f12d86ee16e0e2581d818c8a02c2a63bd094f5f7897b7",
+    "iconURL": "./downloadedAvatars/1642939ddae28b0eea1873822d3a9ceeeb8ac7ebf30e8920678acf0a2d839260",
     "labels": null
   },
   "Rallly": {
@@ -1546,7 +1546,7 @@
     "domain": "https://rxresu.me/app/dashboard/",
     "tls": true,
     "title": "Reactive Resume - A free and open-source resume builder",
-    "iconURL": "./downloadedAvatars/6e04e4aaefa504974cc63eb79dca5de44898a76445fcf221d63812ca0e9b4364",
+    "iconURL": "./downloadedAvatars/2a7c24fca6762ad456fdbb7709c4e443686fa114a19eb7e3a230cc7f8c90c453",
     "labels": null
   },
   "ResourceSpace": {
@@ -1556,7 +1556,7 @@
     "domain": "https://www.resourcespace.com/trial",
     "tls": true,
     "title": "Free DAM Software | ResourceSpace",
-    "iconURL": "./downloadedAvatars/df9a6bcd7d643325569d5c2ebd490f56c0d2413427cc0c42d5b5e757f6456dfd",
+    "iconURL": "./downloadedAvatars/40e525c1d16cc928ebab110e784abf3ede384e2fda688c76802452827b49f659",
     "labels": null
   },
   "Review Board": {
@@ -1566,7 +1566,7 @@
     "domain": "https://demo.reviewboard.org/",
     "tls": true,
     "title": "All Review Requests | Review Board",
-    "iconURL": "./downloadedAvatars/f442478a18203108395f0e13286024b7f7301b38959f4b37968634ba55a5d4fe",
+    "iconURL": "./downloadedAvatars/ae4aa4447a9ba3c09d21167f2923f6a8ed9550aceb723809a57f031eaa30021a",
     "labels": null
   },
   "RosarioSIS": {
@@ -1586,7 +1586,7 @@
     "domain": "https://demo.sip3.io",
     "tls": true,
     "title": "SIP3 Hoof",
-    "iconURL": "./downloadedAvatars/381d2d2e8a82ffb1529cc832779558f4957e3949689ccc479927aab3943d72f3",
+    "iconURL": "./downloadedAvatars/6e772ac5c3fa0223b61020777fb5de139f56bd009328e84550a04e58b6bf8c00",
     "labels": null
   },
   "SOGo": {
@@ -1596,7 +1596,7 @@
     "domain": "https://demo.sogo.nu/SOGo/",
     "tls": true,
     "title": "SOGo",
-    "iconURL": "./downloadedAvatars/a1d128351df59e443eded0f4b7ae18508ba4d47b50ab363d61754effedf6f527",
+    "iconURL": "./downloadedAvatars/2b5cdd6d4ad9198b300f3acfdb025a266762000c33c077889a804f809b779115",
     "labels": null
   },
   "Saleor": {
@@ -1606,7 +1606,7 @@
     "domain": "https://demo.saleor.io/",
     "tls": true,
     "title": "Saleor Storefront example",
-    "iconURL": "./downloadedAvatars/018698dc80901407f57564ca93c91c227b7272645cefe8e4ffc18505c3a6cb5d",
+    "iconURL": "./downloadedAvatars/4eb9dbe21bf61e44b490a4aa8fd9874fbe8533c79937eed8422a4d14921a3f7f",
     "labels": null
   },
   "Sandstorm": {
@@ -1616,7 +1616,7 @@
     "domain": "https://demo.sandstorm.io/",
     "tls": true,
     "title": "Sandstorm",
-    "iconURL": "./downloadedAvatars/9c0baf1c19fe34efb660652aaeab25d3cc968968d4f5acae4dd8d75b9a80e478",
+    "iconURL": "./downloadedAvatars/96f9ffdb852530c8311086e9665b5decdd9126120eef6908151ae6ffa5944861",
     "labels": null
   },
   "Scoold": {
@@ -1626,7 +1626,7 @@
     "domain": "https://live.scoold.com",
     "tls": true,
     "title": "Scoold | Questions",
-    "iconURL": "./downloadedAvatars/f9897c9adf69aa2daa44732eb1ca0aaa804ddcb762225e200ec11f79fc1be11d",
+    "iconURL": "./downloadedAvatars/072f75b035f7644b2e8194bd5886f0baea470565449bd176aafadc9ea455b150",
     "labels": null
   },
   "Screego": {
@@ -1636,7 +1636,7 @@
     "domain": "https://app.screego.net/",
     "tls": true,
     "title": "Screego",
-    "iconURL": "./downloadedAvatars/71ba043e15a7c5c8c095e717eb4cf00c16538541c895cbeab8476c149a970cb6",
+    "iconURL": "./downloadedAvatars/4cbbb218cf636d3d5142a92a9bc57a8faa4e065fdaf3e1d012220a80b5b71e23",
     "labels": null
   },
   "Seatsurfing": {
@@ -1646,7 +1646,7 @@
     "domain": "https://seatsurfing.app/get-started/",
     "tls": true,
     "title": "Get started - Seatsurfing",
-    "iconURL": "./downloadedAvatars/80e1538fbc2a835748f42da06276fc08ccf7afc0bf779dda2cad27f26da24373",
+    "iconURL": "./downloadedAvatars/b71a44e966c74232bdf0d95cd899c8bd6c1a97253706c1dfe3acf3fcfb649690",
     "labels": null
   },
   "Shopware Community Edition": {
@@ -1656,7 +1656,7 @@
     "domain": "https://www.shopware.com/en/test-demo/",
     "tls": true,
     "title": "Shopware demo free trial | Shopware",
-    "iconURL": "./downloadedAvatars/8564294ca8792685b0413f5892dfb6a0e90c00fe97066824c1634f85b99282a4",
+    "iconURL": "./downloadedAvatars/23bf80ce8f33c74d95ee5fdd032fcae8d59e6d1671eda3ffa421e88b037d7fc1",
     "labels": null
   },
   "SilverStripe": {
@@ -1666,7 +1666,7 @@
     "domain": "https://demo.silverstripe.org/",
     "tls": true,
     "title": "Welcome to the public demo of the Silverstripe CMS » Silverstripe CMS Demo",
-    "iconURL": "./downloadedAvatars/b2f1bd20144363efc307c73d35562b4f330085d84b4699c08b0bb6aae453484e",
+    "iconURL": "./downloadedAvatars/505fd72f5ef602d43ad17e3933ea38e37b5753f96151c9a4546177cf110a3f41",
     "labels": null
   },
   "SnappyMail": {
@@ -1676,7 +1676,7 @@
     "domain": "https://snappymail.eu/demo/",
     "tls": true,
     "title": "",
-    "iconURL": "./downloadedAvatars/e661d5561caaffb1a2a81c0c221b5af30d300af6467d55972d71b60fbbf86f63",
+    "iconURL": "./downloadedAvatars/6730139e638c2eaf2715eacb0840e6e441fcd439cdcbcb806c2131c3a6859977",
     "labels": null
   },
   "SnyPy": {
@@ -1686,7 +1686,7 @@
     "domain": "https://app.snypy.com",
     "tls": true,
     "title": "SnyPy",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/136d0ee178b51b5ff9a8cbee3c112c4291decf396e9598cba1559b422c0dba32",
     "labels": null
   },
   "Socialhome": {
@@ -1696,7 +1696,7 @@
     "domain": "https://socialhome.network/",
     "tls": true,
     "title": "\n    Socialhome HQ - Socialhome\n",
-    "iconURL": "./downloadedAvatars/b1d59d0ddcb641ce603c06202b56c61aeeea6b5a5f93b6cf348ea79a39681abf",
+    "iconURL": "./downloadedAvatars/1a560c60668c2ca3617ce032e25b51373908f5213995a62ce6e0d5e424ceeb6c",
     "labels": null
   },
   "Sourcehut": {
@@ -1706,7 +1706,7 @@
     "domain": "https://sr.ht/",
     "tls": true,
     "title": "sourcehut hub",
-    "iconURL": "./downloadedAvatars/a50dacb6fe9072d34205b10579ca8a93bb05f6f16a7d2a5f33459a36bb624620",
+    "iconURL": "./downloadedAvatars/6c8e3fe7274c7e0b2f5418498f7ceb84b46e4b8cfdbba1b76798ae5240ea2f4d",
     "labels": null
   },
   "Specifically Clementines": {
@@ -1716,7 +1716,7 @@
     "domain": "https://www.specificallyclementines.com/",
     "tls": true,
     "title": "Specifically Clementines",
-    "iconURL": "./downloadedAvatars/e7f34ace83a7263f0301af34fa5e39b908b5a831e2e1fa744c87ee97ce7e0084",
+    "iconURL": "./downloadedAvatars/498edfd66b927174e24e629deab0daab24f8e4ba42564dda69501d1c50a080f9",
     "labels": null
   },
   "Spree Commerce": {
@@ -1736,7 +1736,7 @@
     "domain": "https://cloud.squidex.io",
     "tls": true,
     "title": "Squidex Headless CMS",
-    "iconURL": "./downloadedAvatars/c65591cf0a25c6607d51a5e5265963955fe0797c755111a7ffe33fa4c4d9c66e",
+    "iconURL": "./downloadedAvatars/9423f9f00906144445659cd4d4c0f12d869754af9de2e87c1932892b139d501d",
     "labels": null
   },
   "Stack Overflow": {
@@ -1746,7 +1746,7 @@
     "domain": "https://stackoverflow.com",
     "tls": true,
     "title": "Stack Overflow - Where Developers Learn, Share, \u0026 Build Careers",
-    "iconURL": "./downloadedAvatars/56b2a2b3d1c85642039388bd5d37b580cae5012993b591780b7dbc1b31be826c",
+    "iconURL": "./downloadedAvatars/332c97f0a7183e9057cf0bdb5bde5a18326be53a965d4eeacf0115bd9b345b60",
     "labels": null
   },
   "Standard Notes": {
@@ -1756,7 +1756,7 @@
     "domain": "https://app.standardnotes.org/",
     "tls": true,
     "title": "Notes · Standard Notes",
-    "iconURL": "./downloadedAvatars/397176b4125310763f131eba7a26ec519617672fffc79f968674ddc7901f41ce",
+    "iconURL": "./downloadedAvatars/29c698d07aacc76786d899e32497d67735433f0b14b226861f9de8baaa348c29",
     "labels": null
   },
   "Suroi": {
@@ -1766,7 +1766,7 @@
     "domain": "https://suroi.io/",
     "tls": true,
     "title": "Suroi - 2D battle royale game",
-    "iconURL": "./downloadedAvatars/0fbe39bd6c9709e6973ccf05eecaefa071ca8f901c37308d199e908976440726",
+    "iconURL": "./downloadedAvatars/f7447e8ec0e3b62a81127e5cf1bdabfa070e53b4dec710edc2c04d34332b0c88",
     "labels": null
   },
   "Swetrix": {
@@ -1776,7 +1776,7 @@
     "domain": "https://swetrix.com/projects/STEzHcB1rALV",
     "tls": true,
     "title": "Ultimate open-source web analytics to satisfy all your needs | Swetrix",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/6499022fba9bde5a55a454eadd09bc0763fd181c204a4e77dbe9263fdd2b1719",
     "labels": null
   },
   "Sylius": {
@@ -1786,7 +1786,7 @@
     "domain": "https://sylius.com/try/",
     "tls": true,
     "title": "Sylius Online Demo | Sylius",
-    "iconURL": "./downloadedAvatars/e76bd08439ff84c5a6e1717b4488ee286bc8522acafed8d0c1026268f8bc8e6b",
+    "iconURL": "./downloadedAvatars/5c70f50b298e66d3f65e02ce181745ff810cdcd4d7b075fee1daffa1899ff271",
     "labels": null
   },
   "TagSpaces": {
@@ -1796,7 +1796,7 @@
     "domain": "https://demo.tagspaces.com",
     "tls": true,
     "title": "TagSpaces Web",
-    "iconURL": "./downloadedAvatars/6b6fc10b8a30dcbc520959c02143973d25e9ee2cf4d272cae128fdb2d27be7a8",
+    "iconURL": "./downloadedAvatars/3ec0b068b5c92cbc4fa7f9c8a7ea87b683531f97d340f545bdb18a6e90d2efa1",
     "labels": null
   },
   "Tailchat": {
@@ -1806,7 +1806,7 @@
     "domain": "https://nightly.paw.msgbyte.com/",
     "tls": true,
     "title": "",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/fefd04b866a64c39d1cab491905c00876ec921788502ff0d30861a1e77f02e22",
     "labels": null
   },
   "Talkyard": {
@@ -1816,7 +1816,7 @@
     "domain": "https://www.talkyard.io/forum/latest",
     "tls": true,
     "title": "The Talkyard Community",
-    "iconURL": "./downloadedAvatars/040fec4790676e34d64eeea8310a17cb81389bf279bf58dd99ec54aab9ee7af6",
+    "iconURL": "./downloadedAvatars/24a4ba3a75b66ea99efa3cbba5326920fb6589e30a71f4661cdc98c911c117db",
     "labels": null
   },
   "Teedy": {
@@ -1826,7 +1826,7 @@
     "domain": "https://demo.teedy.io/",
     "tls": true,
     "title": "Teedy",
-    "iconURL": "./downloadedAvatars/694f731d244f4fe49c61b5adb8b48f452d1f63603b578f76b74c57190a2898fd",
+    "iconURL": "./downloadedAvatars/1588cebb5a537a1f18c29e57833c71c08906fed768d44dc2377cbe4835dc6a20",
     "labels": null
   },
   "Textpattern": {
@@ -1846,7 +1846,7 @@
     "domain": "https://demo.thelounge.chat/",
     "tls": true,
     "title": "The Lounge",
-    "iconURL": "./downloadedAvatars/7410a3557216a051e44ec002f0974ddf32c9e70ef381baf1756c474acfc73987",
+    "iconURL": "./downloadedAvatars/40383e8e17928ca9b7c1c060caa9c67256fa9fe9658075634704bef850bd894a",
     "labels": null
   },
   "Thelia": {
@@ -1856,7 +1856,7 @@
     "domain": "https://demo.thelia.net/",
     "tls": true,
     "title": "Thelia",
-    "iconURL": "./downloadedAvatars/051f91928a3b4af88050e79a01f5f95a1309b6cabf8ba32768f4d220ba454322",
+    "iconURL": "./downloadedAvatars/ab56661dfc8dcecbdefbc64f6dc00d295b3d7fa42b12e94e969af28d37f52bc9",
     "labels": null
   },
   "Thingsboard": {
@@ -1866,7 +1866,7 @@
     "domain": "https://demo.thingsboard.io/signup",
     "tls": true,
     "title": "Error",
-    "iconURL": "./downloadedAvatars/578905fe9f38df0eecf34f758e254c69519607391bba42b91fa2e4987f4926bd",
+    "iconURL": "./downloadedAvatars/054a1cd0f964c852e1a2d264948ffd46dc67893daa3f502b90f399430ee30790",
     "labels": null
   },
   "Tiki": {
@@ -1876,7 +1876,7 @@
     "domain": "https://tiki.org/Try-Tiki",
     "tls": true,
     "title": "Test a demo before you download and install it",
-    "iconURL": "./downloadedAvatars/f08d4a4cb4e5e9ef053f8b2f66be599a41ee0507c8ed2bd109f297ef575cd959",
+    "iconURL": "./downloadedAvatars/281e59a1818fc4d0ec186f07fc2a6c1dd8647c15271ba7a616432a79452cc82f",
     "labels": null
   },
   "TimeOff.Management": {
@@ -1886,7 +1886,7 @@
     "domain": "https://app.timeoff.management",
     "tls": true,
     "title": "\n        Time Off Management\n    ",
-    "iconURL": "./downloadedAvatars/daf1f78d966ac24f63ee65603a280143ecaf1c92529bf8bcb569f6ed89091be2",
+    "iconURL": "./downloadedAvatars/4eb20b57e13cf9a3ec7b01029e70a4ab2a056301d791d668ea3af42245634727",
     "labels": null
   },
   "TimeTagger": {
@@ -1896,7 +1896,7 @@
     "domain": "https://timetagger.app/app/demo",
     "tls": true,
     "title": "TimeTagger - Demo",
-    "iconURL": "./downloadedAvatars/79b5ea0faedddee7d52557befdc39b954a8e681497a29e8f59f136d0a47b7933",
+    "iconURL": "./downloadedAvatars/f2f3c6d2c2f7566072d3d004904e4f3a0b7c14413e2469fc7211b63225516ce3",
     "labels": null
   },
   "Tiny Tiny RSS": {
@@ -1906,7 +1906,7 @@
     "domain": "https://srv.tt-rss.org/tt-rss/",
     "tls": true,
     "title": "Tiny Tiny RSS : Login",
-    "iconURL": "./downloadedAvatars/fc04a8a876c4498c8c41dce857a6dd334cf755c759a1beff16da856e7ad99640",
+    "iconURL": "./downloadedAvatars/9ae4769858d23e27611874c5c66d50882fa8f253130be61561286efdf2e34e81",
     "labels": null
   },
   "Traccar": {
@@ -1916,7 +1916,7 @@
     "domain": "https://demo.traccar.org/",
     "tls": true,
     "title": "Traccar",
-    "iconURL": "./downloadedAvatars/4bc04d9c86ba10c9099da4d5f6575b984626a1a54a382eead150fcf05c11691b",
+    "iconURL": "./downloadedAvatars/e970f382034ae36cf9a6ba9b93f4b0583e1ca6420c45b13c45aa26db1850ffa9",
     "labels": null
   },
   "Tryton": {
@@ -1926,7 +1926,7 @@
     "domain": "https://www.tryton.org/download.html",
     "tls": true,
     "title": "Tryton - Get Tryton",
-    "iconURL": "./downloadedAvatars/4945f08ab83433e7e60673a6c39f90406eb7a6f3ff8f427612fa5ab8f7ba599a",
+    "iconURL": "./downloadedAvatars/2944f669a90c891efd7ddd61baaa420e26170a571d7b7ac9bed8bb3bbdad1cf3",
     "labels": null
   },
   "Tube": {
@@ -1936,7 +1936,7 @@
     "domain": "https://tube.mills.io",
     "tls": true,
     "title": "Tube",
-    "iconURL": "./downloadedAvatars/10fdae1a508384921a98537fccf4c53b0bb206337714d176417ad3ecee78422b",
+    "iconURL": "./downloadedAvatars/cc664f9add154311e7346b432a860fa11ce0ce74d26453239f17b9a53d46b3a3",
     "labels": null
   },
   "UVDesk": {
@@ -1946,7 +1946,7 @@
     "domain": "https://demo.uvdesk.com/",
     "tls": true,
     "title": "Uvdesk opensource Demo",
-    "iconURL": "./downloadedAvatars/ebfc9cc147746028ca30139889e0c240fed51fd2460e497cdce610437b9bf458",
+    "iconURL": "./downloadedAvatars/5a5e594821c31954b42cb01f11f46cbbca6a3503c29ae86bd8841bcf7d868019",
     "labels": null
   },
   "Umami": {
@@ -1956,7 +1956,7 @@
     "domain": "https://analytics.umami.is/share/LGazGOecbDtaIwDr/umami.is",
     "tls": true,
     "title": "Umami",
-    "iconURL": "./downloadedAvatars/63f9b5f3bf68935f0172609c3423922c036dfe2adea96218276d2848157f1047",
+    "iconURL": "./downloadedAvatars/c4b612f228fdaf69ba57da988b2c6af17d791060a742407a13172dffb93f2d02",
     "labels": null
   },
   "Vendure": {
@@ -1966,7 +1966,7 @@
     "domain": "https://demo.vendure.io",
     "tls": true,
     "title": "Vendure Demo",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/1f394871b7edcb02655f0e4337f69ed5650da0fc0675a434806074d3421ded56",
     "labels": null
   },
   "Vigil": {
@@ -1976,7 +1976,7 @@
     "domain": "https://status.crisp.chat/",
     "tls": true,
     "title": "Crisp Status",
-    "iconURL": "./downloadedAvatars/e6ffe3633408e05bdb92ee1fca5b7e3c6904f57978a795e800c894c7644b8482",
+    "iconURL": "./downloadedAvatars/8db01b006da193acd0bc368c5d72c9b8e52326e1715ef0c5f989650d482c43e9",
     "labels": null
   },
   "Vikunja": {
@@ -1986,7 +1986,7 @@
     "domain": "https://try.vikunja.io/login",
     "tls": true,
     "title": "Vikunja",
-    "iconURL": "./downloadedAvatars/aea850145dc93bd7b7a710fa8f61ce845c6245883dfa2772288618ef7907492e",
+    "iconURL": "./downloadedAvatars/2a383dd7f1271a98aa3b32b53119a94211e8e2faafbcca562cd1355f79db8ac8",
     "labels": null
   },
   "WebDB": {
@@ -1996,7 +1996,7 @@
     "domain": "https://demo.webdb.app/",
     "tls": true,
     "title": "WebDB – App",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/eed30a2e1aa849e233f8e277f142866e7bf809c4b1ac44d9dbc5a94941215dd8",
     "labels": null
   },
   "Weblate": {
@@ -2006,7 +2006,7 @@
     "domain": "https://demo.weblate.org",
     "tls": true,
     "title": "Weblate Pricing",
-    "iconURL": "./downloadedAvatars/06ebbf7d404bd93f94c6221a48a9d64ccb2fa83050cecb184949206012112480",
+    "iconURL": "./downloadedAvatars/81a2ce48494cc110cc723a65fd68923b4cc6e5b3cdf6af7317130b5e43a284ee",
     "labels": null
   },
   "WeeWX": {
@@ -2016,7 +2016,7 @@
     "domain": "https://weewx.com/showcase.html",
     "tls": true,
     "title": "WeeWX: Showcase",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/f66c9abb0b18a49bff9c98bb88513e1befde98e443d00e2ad6b1723bf9551ca5",
     "labels": null
   },
   "Wiki.js": {
@@ -2026,7 +2026,7 @@
     "domain": "https://docs.requarks.io",
     "tls": true,
     "title": "Wiki.js | Wiki.js",
-    "iconURL": "./downloadedAvatars/605bafe8fc8496e16ce0dcd7aab25fe613ebee09efa29b82bc4f5778cd253a16",
+    "iconURL": "./downloadedAvatars/790f6aaa3e3e344f3751f3a93e6d4c98971d5e3bffa0edb6e84e75df4876aba7",
     "labels": null
   },
   "WikiDocs": {
@@ -2036,7 +2036,7 @@
     "domain": "https://demo.wikidocs.it",
     "tls": true,
     "title": "Wiki|Docs",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/fd383ab320496a1c3feb45d60c16366c8d84f1376cf0f12c65023c7bd4004f8d",
     "labels": null
   },
   "WonderCMS": {
@@ -2056,7 +2056,7 @@
     "domain": "https://playground.xwiki.org",
     "tls": true,
     "title": "Attention Required! | Cloudflare",
-    "iconURL": "./downloadedAvatars/4e78db4c14801dfa499b421550c9d4c27cc58efc87a38e9e9ee8c6f85c9f028c",
+    "iconURL": "./downloadedAvatars/f9c398eb82b04b22b828ef77bfe94e430d0aaf3e16eedc5aa868b97cf0ada85a",
     "labels": null
   },
   "Yeti-Switch": {
@@ -2066,7 +2066,7 @@
     "domain": "https://yeti-switch.org/demo.html",
     "tls": true,
     "title": "Demo | YETI - VOIP for humans",
-    "iconURL": "./downloadedAvatars/ddc86fc79a13e28cb0fd88100e8bd68bd4248a9be2e878bf90638d59d9cb3598",
+    "iconURL": "./downloadedAvatars/665308b3e796e837d2f60f1e81bc9424635b2b5f23b2884f66f5de4311015830",
     "labels": null
   },
   "YunoHost": {
@@ -2076,7 +2076,7 @@
     "domain": "https://yunohost.org/#/try",
     "tls": true,
     "title": "YunoHost • index",
-    "iconURL": "./downloadedAvatars/5a67e92f45f2ccb57191d0bd2856bfcd30c16b48f39d47cd3b79ceceea3b2658",
+    "iconURL": "./downloadedAvatars/11138e83d01c9dc8e15bbf0a945f7d53d03c9b10dbfc794fe3c9e247fe41297c",
     "labels": null
   },
   "ZOT OCI Registry": {
@@ -2086,7 +2086,7 @@
     "domain": "https://zothub.io",
     "tls": true,
     "title": "zot OCI-native Container Image Registry",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/79de7451a21d01d2e7ddabb4d6143e80ec294f1144a44752f171ee51207314c5",
     "labels": null
   },
   "ZenTao": {
@@ -2106,7 +2106,7 @@
     "domain": "https://www.admidio.org/demo/",
     "tls": true,
     "title": "Demo-Organisation - Ankündigungen",
-    "iconURL": "./downloadedAvatars/dcbccef567201ad54a0759e531020001906366b9bc0f0f053291ac8dc5790c98",
+    "iconURL": "./downloadedAvatars/59ec7ac0806564f42ae77b38067a761b2a0e55fed45d38e1c0eca6d52e498c3d",
     "labels": null
   },
   "cState": {
@@ -2126,7 +2126,7 @@
     "domain": "https://demo.docassemble.org/run/legal",
     "tls": true,
     "title": "Demonstration interview",
-    "iconURL": "./downloadedAvatars/43f0533a76c04f80c3cf5b1ae1d88cd616771bbbbe19fdcedcb41503b74f70d4",
+    "iconURL": "./downloadedAvatars/afb90a711fd92d7367d2980582f07da7497e00f44a46ba67b7d4b61c307d12ce",
     "labels": null
   },
   "eLabFTW": {
@@ -2136,7 +2136,7 @@
     "domain": "https://demo.elabftw.net",
     "tls": true,
     "title": "Login - eLabFTW",
-    "iconURL": "./downloadedAvatars/aea23322b54353836679d8f303006c51e0285f2da51195aa304122eda43f248d",
+    "iconURL": "./downloadedAvatars/3eaf61b90ec84c1d33d2e8ecac36fa562babf7d061d263bcdf51467db3579110",
     "labels": null
   },
   "farmOS": {
@@ -2146,7 +2146,7 @@
     "domain": "https://farmos-demo.rootedsolutions.io/",
     "tls": true,
     "title": "farm-tugboat-demo",
-    "iconURL": "./downloadedAvatars/b18036488649e7cc8a55b0a02c8b737a87e157eaa35fe16b22cdcad6d1137e9b",
+    "iconURL": "./downloadedAvatars/0855028b384ffe35a0583a096413c19b721ad6cf7ed1c91cb0578ac2cc968821",
     "labels": null
   },
   "form.io": {
@@ -2156,7 +2156,7 @@
     "domain": "https://portal.form.io",
     "tls": true,
     "title": "",
-    "iconURL": "./downloadedAvatars/338bc7847314ac087d3ff6337948d700e3b25cfb2d38d208a416662948606f36",
+    "iconURL": "./downloadedAvatars/c0342abf8e839136fcf91827045bf4d81b779d8b0b90abd45513e8ace55388d8",
     "labels": null
   },
   "grocy": {
@@ -2166,7 +2166,7 @@
     "domain": "https://en.demo.grocy.info/",
     "tls": true,
     "title": "Stock overview | Grocy",
-    "iconURL": "./downloadedAvatars/10b0e81f886366115016341d5f5d905236354434b15045357536885c262319e0",
+    "iconURL": "./downloadedAvatars/36f2874233da2444c4948b867c829a1aac0d4193a41ae7c0695ce1264c6adcad",
     "labels": null
   },
   "hitobito": {
@@ -2176,7 +2176,7 @@
     "domain": "https://demo.hitobito.com/en/users/sign_in",
     "tls": true,
     "title": "hitobito - Sign in",
-    "iconURL": "./downloadedAvatars/a25dc779392d15ee0ae41f970c428c57585540e17630b234f324b147d3468397",
+    "iconURL": "./downloadedAvatars/511c433d799527f326223fc9097d3c6201eb9f6fc2f58f7c07f1c47ac1c372fc",
     "labels": null
   },
   "indico": {
@@ -2186,7 +2186,7 @@
     "domain": "https://sandbox.getindico.io/",
     "tls": true,
     "title": "Home · Indico",
-    "iconURL": "./downloadedAvatars/0e48c13dc41482993acc98fc172de47d19d8eb693e8c32bff4a0c1dce399285e",
+    "iconURL": "./downloadedAvatars/5cd9a21fb3f054f5984119b1dc204114fa9adaaa875321b74e071f57a1d772e7",
     "labels": null
   },
   "koel": {
@@ -2196,7 +2196,7 @@
     "domain": "https://demo.koel.dev/",
     "tls": true,
     "title": "Koel",
-    "iconURL": "./downloadedAvatars/9c43de6ddbb1ff71b74ec70a26f3b43cbadd2ce5e4107a034f276de17b0a9cde",
+    "iconURL": "./downloadedAvatars/3edb29b6dbc8262a525ea7c0067850941a847dc45b740da1d93d69a94fe303c1",
     "labels": null
   },
   "lufi": {
@@ -2206,7 +2206,7 @@
     "domain": "https://demo.lufi.io",
     "tls": true,
     "title": "Lufi",
-    "iconURL": "./downloadedAvatars/f57cae543b83a947a0edb795e9acf355ff2efa91d1b210c1d85597a3427010d1",
+    "iconURL": "./downloadedAvatars/06737546669fb64b455ecae6d971c78641247962195f5f72e8edb1a0941f083b",
     "labels": null
   },
   "myTinyTodo": {
@@ -2216,7 +2216,7 @@
     "domain": "https://www.mytinytodo.net/demo/",
     "tls": true,
     "title": "myTinyTodo Demo",
-    "iconURL": "./downloadedAvatars/00ed57a85c7d84b757900b64cf74681e7c15e13551deb741088838522cf2c39b",
+    "iconURL": "./downloadedAvatars/f6372acca0d930a061229be3b9fe7fb4c72330ecdcaa83e7592940f816909082",
     "labels": null
   },
   "ntfy": {
@@ -2226,7 +2226,7 @@
     "domain": "https://ntfy.sh/app",
     "tls": true,
     "title": "ntfy web",
-    "iconURL": "./downloadedAvatars/f3fd57e070d7ad417398eb906e0365db55517756deea9ba429b14015f6f1c1c6",
+    "iconURL": "./downloadedAvatars/3274c4a138c5ac51b7d1dcc8f04232c450243e2091b8ce2c12ad0a5bd5a5e8eb",
     "labels": null
   },
   "onet": {
@@ -2236,7 +2236,7 @@
     "domain": "https://onet.pl",
     "tls": true,
     "title": "Onet – Jesteś na bieżąco ",
-    "iconURL": "./downloadedAvatars/25e60dc91aa5735ddd1e6d13a93c294f5a9adb2cd500de41715d257dd7e11d93",
+    "iconURL": "./downloadedAvatars/c546b553315d916b720148bed2fbe63c346dfed1f3176cd1e37a001431840836",
     "labels": null
   },
   "plugNmeet": {
@@ -2246,7 +2246,7 @@
     "domain": "https://demo.plugnmeet.com/login.html",
     "tls": true,
     "title": "Login",
-    "iconURL": "./downloadedAvatars/ddc5e2ee552691bde5f83d78748331ad64f04d5aa49b817ee6b1dc603e0fe045",
+    "iconURL": "./downloadedAvatars/9f8370e6cb728c35e5ee7198a45f3563f0421b08c90493c19b942fa1fe8d6806",
     "labels": null
   },
   "remark42": {
@@ -2256,7 +2256,7 @@
     "domain": "https://remark42.com/demo/",
     "tls": true,
     "title": "Demo | Remark42",
-    "iconURL": "./downloadedAvatars/43f0533a76c04f80c3cf5b1ae1d88cd616771bbbbe19fdcedcb41503b74f70d4",
+    "iconURL": "./downloadedAvatars/b717f059b3c5f1925480ab189163888d63154a6626137a6f36465dea0f0d1c88",
     "labels": null
   },
   "revealjs": {
@@ -2266,7 +2266,7 @@
     "domain": "https://revealjs.com/",
     "tls": true,
     "title": "arrow-right",
-    "iconURL": "./downloadedAvatars/368c747fc44427cb6dbd8505b198fbeb7ab627cc557f8d9a6a2876ce0bc9c534",
+    "iconURL": "./downloadedAvatars/fa4e1d3d956073b46937d8821c6bac53cc32bd9af0c3c7d315fb01f3d2530846",
     "labels": null
   },
   "rs-short": {
@@ -2286,7 +2286,7 @@
     "domain": "https://demo.s-cart.org/",
     "tls": true,
     "title": "Demo S-Cart : Free Laravel eCommerce",
-    "iconURL": "./downloadedAvatars/b9e19bc24175746a4a0045b1c8b1725eb82e862eee87d00d0557ce7c042a6b90",
+    "iconURL": "./downloadedAvatars/e2995d4dbc40503272d71e3a5fd9c0280980d5440d811d2da496f401b921280c",
     "labels": null
   },
   "txtdot": {
@@ -2306,7 +2306,7 @@
     "domain": "https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\u0026amp;ged=demo",
     "tls": true,
     "title": "\n            Royal Family                            – webtrees                    ",
-    "iconURL": "./downloadedAvatars/2cfee7207249e39ac8f7acc6f6f33d92d83bea98a6dfe7d7e67243b99a8645ee",
+    "iconURL": "./downloadedAvatars/7af238354a095e1e72eed8dd781d65cc336785a469495c9e2d99530088751fbd",
     "labels": null
   },
   "wger": {
@@ -2316,7 +2316,7 @@
     "domain": "https://wger.de/en/dashboard",
     "tls": true,
     "title": "Login",
-    "iconURL": "./downloadedAvatars/33d2a3078d738b1bbb8302ba98127134bdb8695af4756357c66a1879b78128a2",
+    "iconURL": "./downloadedAvatars/f58efeff994b7f6910caf872cb2b4b07746a2b97ae9cd6e02ee153c5f948a4b3",
     "labels": null
   },
   "wp": {
@@ -2326,7 +2326,7 @@
     "domain": "https://wp.pl",
     "tls": true,
     "title": "Wirtualna Polska - Wszystko co ważne - www.wp.pl",
-    "iconURL": "./downloadedAvatars/fbd73cd9ce6280bc5405c26531083f1cad637402f3f63797f23731488f0f7fbd",
+    "iconURL": "./downloadedAvatars/3046d7be901a77d28cab41cc11210c7074ab190bc122deaa25b8a35d34fca967",
     "labels": null
   },
   "wykop": {
@@ -2336,7 +2336,7 @@
     "domain": "https://wykop.pl",
     "tls": true,
     "title": "Wykop.pl - newsy, aktualności, gry, wiadomości, muzyka, ciekawostki, filmiki",
-    "iconURL": "./downloadedAvatars/1c86c4aa375f81021f6c0f934b00967366f3ce66c3cee900b9f92b6a7f39c5ac",
+    "iconURL": "./downloadedAvatars/e3d38eb8be44018c86131d91304e7b661691d8179f098d7e572584f1fc1788bb",
     "labels": null
   }
 }

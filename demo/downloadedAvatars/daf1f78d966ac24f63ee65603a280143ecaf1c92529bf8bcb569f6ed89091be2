@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="TimeOff.Management: HR and Leave Management Software">
+    <meta name="google-site-verification" content="DUsMFaxswq0M9hZwfzXPVMP56hDyUDG_0bLDZFR6zA4" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22256%22 height=%22256%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2220%22 fill=%22%235ba4e5%22></rect><path fill=%22%23fff%22 d=%22M40.25 21.56L40.25 27.73L25.29 27.73L25.29 78.44L18.14 78.44L18.14 27.73L3.22 27.73L3.22 21.56L40.25 21.56ZM48.65 21.56L57.87 21.56L72.71 67.97L87.56 21.56L96.78 21.56L96.78 78.44L89.63 78.44L89.63 56.29L90.29 34.10L75.41 78.44L69.94 78.44L55.14 34.26L55.80 56.29L55.80 78.44L48.65 78.44L48.65 21.56Z%22></path></svg>" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:700,600,400,300"/>
+
+    <title>
+        Time Off Management
+    </title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+
+    <!-- Custom styles for this template -->
+    <link rel='stylesheet' href='/css/style.css' />
+    <link rel="stylesheet" href="/css/bootstrap-datepicker3.standalone.css" />
+  </head>
+
+  <body>
+
+    <div class="header">
+      <nav class="navbar navbar-default text-bigger">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="https://timeoff.management">TimeOff.Management</a>
+        </div>
+        <div class="collapse navbar-collapse" data-tom-navbar="1" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-left">
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+                <li><a href="/login/">Login</a></li>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    
+    
+    </div>
+    <div class="container stickDamnFooter">
+    <h1>Login</h1>
+
+
+<form class="form-horizontal" action="/login" method="post">
+
+  <div class="row">&nbsp;</div>
+
+  <div class="form-group">
+    <label for="email_inp" class="col-md-2 control-label col-md-offset-2">Employee email:</label>
+    <div class="col-md-5">
+      <input class="form-control" id="email_inp" type="text" name="username" required>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="pass_inp" class="col-md-2 control-label col-md-offset-2">Password</label>
+    <div class="col-md-5">
+      <input class="form-control" id="pass_inp" type="password" name="password" required>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <div class="col-md-offset-4 col-md-1">
+      <button type="submit" class="btn btn-success single-click" id="submit_login">Login</button>
+    </div>
+    <div class="col-md-4">
+      <p class="pull-right"><a href="/forgot-password/">Forgot password?</a> | <a href="/register/">Register new company</a></p>
+    </div>
+  </div>
+
+</form>
+
+<div class="row">&nbsp;</div>
+    </div>
+
+    
+    <footer class="footer">
+      <div class="row">
+        <div class="col-md-3 hidden-xs hidden-sm">
+          © <a href="https://timeoff.management">TimeOff.Management</a> 2014-2024. All rights reserved.
+        </div>
+        <div class="col-md-3 text-center hidden-lg hidden-md">
+          © <a href="https://timeoff.management">TimeOff.Management</a> 2014-2024. All rights reserved.
+        </div>
+        <div class="col-md-6 text-center">
+        </div>
+        <div class="col-md-1 text-center">
+          <a href="https://timeoff.management/product-updates.html">Product Updates</a>
+        </div>
+        <div class="col-md-1 text-center">
+          <a href="https://timeoff.management/support/main-page.html">User Manual</a>
+        </div>
+        <div class="col-md-1 text-center">
+            <a href="mailto:pavlo@timeoff.management">Contact Us</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script><script src="/js/bootstrap-datepicker.js"></script><script src="/js/global.js"></script><script> var TOM_LU = null </script>
+
+  </body>
+</html>

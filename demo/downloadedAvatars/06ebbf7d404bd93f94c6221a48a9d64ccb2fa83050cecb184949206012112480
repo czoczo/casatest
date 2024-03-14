@@ -1,0 +1,1210 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/static/CACHE/css/output.5681f10626b3.css" type="text/css">
+
+  <link rel="stylesheet" href="https://s.weblate.org/cdn/font-source/source-sans-3.css">
+  <link rel="stylesheet" href="https://s.weblate.org/cdn/font-source/source-code-pro.css">
+
+  <meta name="robots" content="index, follow" />
+  <title>Weblate Pricing</title>
+  <meta name="description" content="
+                  Use Weblate as a service, set up your own, or get help for on-premise hosting — all with the convenience of the premium support.
+                  Our team is ready to help you make Weblate run smoothly.
+                " />
+  <meta name="keywords" content="Weblate,Git,gettext,resources,JSON,PO,MO,QTS,CAT,XLIFF,web,crowdsourcing,translate" />
+
+  <link rel="author" href="mailto:info@weblate.org" />
+  <meta name="copyright" content="Copyright &copy; Michal Čihař" />
+  <link rel="preconnect" href="https://stats.cihar.com">
+
+  <link rel="image_src" type="image/png" href="/static/weblate-128.png"/>
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/logo-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/logo-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/weblate-180.png"/>
+  <link rel="mask-icon" href="/static/weblate-black.svg" color="#144d3f">
+  <meta name="msapplication-TileColor" content="#144d3f">
+  <meta name="msapplication-config" content="/browserconfig.xml">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#144d3f">
+
+  <meta property="og:image" content="https://weblate.org/static/og.png" />
+  <meta property="og:url" content="https://weblate.org/en/hosting/" />
+  <meta property="og:title" content="Weblate Pricing" />
+  <meta property="og:site_name" content="Weblate" />
+  <meta property="og:description" content="
+                  Use Weblate as a service, set up your own, or get help for on-premise hosting — all with the convenience of the premium support.
+                  Our team is ready to help you make Weblate run smoothly.
+                " />
+
+  <meta property="og:type" content="website" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@WeblateOrg" />
+  <meta property="fb:app_id" content="741121112629028" />
+  <meta property="fb:page_id" content="371217713079025" />
+  <link rel="alternate" type="application/rss+xml" href="https://weblate.org/feed/" title="Weblate blog feed (RSS)"/>
+  
+    <link rel="alternate" hreflang="ar" href="/ar/hosting/" />
+  
+    <link rel="alternate" hreflang="az" href="/az/hosting/" />
+  
+    <link rel="alternate" hreflang="be" href="/be/hosting/" />
+  
+    <link rel="alternate" hreflang="be-latn" href="/be-latn/hosting/" />
+  
+    <link rel="alternate" hreflang="bg" href="/bg/hosting/" />
+  
+    <link rel="alternate" hreflang="br" href="/br/hosting/" />
+  
+    <link rel="alternate" hreflang="ca" href="/ca/hosting/" />
+  
+    <link rel="alternate" hreflang="cs" href="/cs/hosting/" />
+  
+    <link rel="alternate" hreflang="da" href="/da/hosting/" />
+  
+    <link rel="alternate" hreflang="de" href="/de/hosting/" />
+  
+    
+  
+    <link rel="alternate" hreflang="el" href="/el/hosting/" />
+  
+    <link rel="alternate" hreflang="en-gb" href="/en-gb/hosting/" />
+  
+    <link rel="alternate" hreflang="es" href="/es/hosting/" />
+  
+    <link rel="alternate" hreflang="fi" href="/fi/hosting/" />
+  
+    <link rel="alternate" hreflang="fr" href="/fr/hosting/" />
+  
+    <link rel="alternate" hreflang="fur" href="/fur/hosting/" />
+  
+    <link rel="alternate" hreflang="gl" href="/gl/hosting/" />
+  
+    <link rel="alternate" hreflang="he" href="/he/hosting/" />
+  
+    <link rel="alternate" hreflang="hu" href="/hu/hosting/" />
+  
+    <link rel="alternate" hreflang="hr" href="/hr/hosting/" />
+  
+    <link rel="alternate" hreflang="id" href="/id/hosting/" />
+  
+    <link rel="alternate" hreflang="is" href="/is/hosting/" />
+  
+    <link rel="alternate" hreflang="it" href="/it/hosting/" />
+  
+    <link rel="alternate" hreflang="ja" href="/ja/hosting/" />
+  
+    <link rel="alternate" hreflang="kab" href="/kab/hosting/" />
+  
+    <link rel="alternate" hreflang="kk" href="/kk/hosting/" />
+  
+    <link rel="alternate" hreflang="ko" href="/ko/hosting/" />
+  
+    <link rel="alternate" hreflang="nb" href="/nb/hosting/" />
+  
+    <link rel="alternate" hreflang="nl" href="/nl/hosting/" />
+  
+    <link rel="alternate" hreflang="pl" href="/pl/hosting/" />
+  
+    <link rel="alternate" hreflang="pt" href="/pt/hosting/" />
+  
+    <link rel="alternate" hreflang="pt-br" href="/pt-br/hosting/" />
+  
+    <link rel="alternate" hreflang="ro" href="/ro/hosting/" />
+  
+    <link rel="alternate" hreflang="ru" href="/ru/hosting/" />
+  
+    <link rel="alternate" hreflang="sk" href="/sk/hosting/" />
+  
+    <link rel="alternate" hreflang="sl" href="/sl/hosting/" />
+  
+    <link rel="alternate" hreflang="sq" href="/sq/hosting/" />
+  
+    <link rel="alternate" hreflang="sr" href="/sr/hosting/" />
+  
+    <link rel="alternate" hreflang="sr-latn" href="/sr-latn/hosting/" />
+  
+    <link rel="alternate" hreflang="sv" href="/sv/hosting/" />
+  
+    <link rel="alternate" hreflang="tr" href="/tr/hosting/" />
+  
+    <link rel="alternate" hreflang="uk" href="/uk/hosting/" />
+  
+    <link rel="alternate" hreflang="zh-hans" href="/zh-hans/hosting/" />
+  
+    <link rel="alternate" hreflang="zh-hant" href="/zh-hant/hosting/" />
+  
+   <meta name="google-site-verification" content="SSd77ql2j6xSOlvDHT2pO2r3ZMQQyMVTycyse-l9i6A" />
+   <meta name="wot-verification" content="b166aac1728babda4ade" />
+   <meta name="monetization" content="$ilp.uphold.com/ENU7fREdeZi9">
+   <link href="https://mastodon.social/@nijel" rel="me">
+</head>
+<body class="page pricing light">
+	<div class="line"></div>
+    <header>
+        <div class="row">
+            <div class="logo"><a href="/en/">Weblate</a></div>
+            
+            <a href="/saml2/login/?next=/en/hosting/" class="user-tab user-anonymous"></a>
+            
+            <a href="https://hosted.weblate.org/" class="button border small app" target="_blank">Go Weblate!</a>
+            
+<nav class="main-menu">
+    <ul>
+        <li class=""><a href="/en/features/">Features</a></li>
+        <li class=" hide1025"><a href="/en/download/">Download</a></li>
+        <li class=" active"><a href="/en/hosting/">Pricing</a></li>
+        <li class=""><a href="/en/contribute/">Contribute</a></li>
+        <li class=""><a href="/en/donate/">Donate</a></li>
+        
+        
+        <li class="menu-light gethelp"><a href="/en/support/">Get help</a></li>
+        <li class="menu-light hide1025"><a href="/en/news/">Blog</a></li>
+        <li class="menu-light hide890"><a href="/en/about/">About</a></li>
+        <li class="menu-light hide1100"><a href="https://docs.weblate.org/">Docs</a></li>
+        
+    </ul>
+</nav>
+
+            <a href="#" class="menu-show"><span></span><span></span><span></span><span></span>Menu</a>
+        </div>
+    </header>
+
+
+
+
+
+
+
+<section class="content">
+    <div class="row">
+        <div class="wrap">
+            <h1 class="section-title min-m">Weblate Pricing</h1>
+            <div class="page-desc">
+                
+                <p>
+                  Use Weblate as a service, set up your own, or <a href="/en/support/">get help</a> for on-premise hosting — all with the convenience of the premium support.
+                  Our team is ready to help you make Weblate run smoothly.
+                </p>
+            </div>
+            <h2 id="which" class="section-title payment-conditions">Compare Cloud and Self-hosted Features</h2>
+            <div class="pricing-table">
+                <div class="pricing-table-left">
+                    <div class="col">
+                        <div class="line">
+                            <span class="middle">System maintenance</span>
+                        </div>
+                        <div class="line">
+                            <span class="middle">Weblate installation</span>
+                        </div>
+                        <div class="line">
+                            <span class="middle">Weblate upgrades</span>
+                        </div>
+                        <div class="line">
+                            <span class="middle">Access to backups</span>
+                        </div>
+                        <div class="line">
+                            <span class="middle">Complete configuration customization</span>
+                        </div>
+                        <div class="line">
+                            <span class="middle">Single sign-on</span>
+                        </div>
+                        <div class="line">
+                            <span class="middle">Priority e-mail support</span>
+                        </div>
+                        <div class="line">
+                            <span class="middle">Shared translation memory</span>
+                        </div>
+                        <div class="line">
+                            <span class="middle">Priority bug fixing</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="pricing-table-right">
+                    <div class="pricing-table-right-inner">
+                        <div class="col">
+                            <div class="head line blue">
+                                <strong>Cloud</strong><br />
+                                Hosted Weblate
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="info" title="Backups and restore on Hosted Weblate are fully automatic.">i</span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="head line blue">
+                                <strong>Dedicated cloud</strong><br />
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="head line red">
+                                <strong>Self-hosted</strong><br />
+                                Extended support
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <a href="/en/support/#install">€300</a>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <a href="/en/support/#backup">Optional</a>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="head line red">
+                                <strong>Self-hosted</strong><br />
+                                Basic support
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <a href="/en/support/#install">Optional</a>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <a href="/en/support/#backup">Optional</a>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="head line red">
+                                <strong>Self-hosted</strong><br />
+                                Gratis
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <a href="/en/support/#backup">Optional</a>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                            <div class="line">
+                                <span class="cross"></span>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="pricing-table-tabs">
+                            <div class="col">
+                                <div class="line price">
+                                    From
+                                    <strong>€17</strong>
+                                    A MONTH
+                                </div>
+                                <div class="line">
+                                    <a href="#hosted" class="button dedicated-toggle">See options</a>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="line price">
+                                    From
+                                    <strong>€25</strong>
+                                    A MONTH
+                                </div>
+                                <div class="line">
+                                    <a href="#hosted" class="button dedicated-toggle dedicated-enable">See options</a>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="line price">
+                                    &nbsp;
+                                    <strong>€63</strong>
+                                    A MONTH
+                                </div>
+                                <div class="line">
+                                    <a href="/en/subscription/new/?plan=extended" class="button">Buy now</a>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="line price">
+                                    &nbsp;
+                                    <strong>€42</strong>
+                                    A MONTH
+                                </div>
+                                <div class="line">
+                                    <a href="/en/subscription/new/?plan=basic" class="button">Buy now</a>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="line price">
+                                    &nbsp;
+                                    <strong>Gratis</strong>
+                                    &nbsp;
+                                </div>
+                                <div class="line">
+                                    <a href="/en/download/" class="button border rev">Download</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <h2 id="hosted" class="section-title payment-conditions">Cloud-hosted Price Options</h2>
+            <div class="page-desc small">
+                <p class="small">Hosted Weblate allows localization without any extra effort, and <strong>premium support</strong> backed by core developers and professional translators. Ask about hosting of larger projects, or let us answer your questions by <a href="mailto:sales@weblate.org">getting in touch</a>—we are ready to find the perfect solution.</p>
+            </div>
+
+            <div class="pricing-table-top">
+              <b>14-day gratis trial</b> included in all cloud plans
+            </div>
+            <div class="pricing-table">
+                <div class="pricing-table-left">
+                    <div class="col">
+                        <div class="line">
+                            <span class="middle"><a href="https://docs.weblate.org/en/latest/admin/continuous.html">Continuous localization</a></span>
+                        </div>
+                        <div class="line">
+                            <span class="middle"><a href="#strings">Source strings</a></span>
+                        </div>
+                        <div class="line">
+                            <span class="middle"><a href="https://docs.weblate.org/en/latest/admin/languages.html">Target languages</a></span>
+                        </div>
+                        <div class="line">
+                            <span class="middle"><a href="https://docs.weblate.org/en/latest/admin/projects.html#project-configuration">Translation projects</a></span>
+                        </div>
+                        <div class="line">
+                            <span class="middle"><a href="https://docs.weblate.org/en/latest/admin/projects.html#component-configuration">Translation components</a></span>
+                        </div>
+                        <div class="line">
+                            <span class="middle"><a href="https://docs.weblate.org/en/latest/admin/access.html#manage-users">Number of translators</a></span>
+                        </div>
+                        <div class="line">
+                            <span class="middle"><a href="#which">Dedicated instance</a></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="pricing-table-right">
+                    <div class="pricing-table-right-inner">
+                        <div class="col">
+                            <div class="head line blue">
+                                <strong>Basic</strong><br />
+                                cloud
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <strong>1,000</strong>
+                            </div>
+                            <div class="line">
+                                <strong>15</strong>
+                            </div>
+                            <div class="line">
+                                1
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span title="Additional charge €100/year, only available with yearly billing">€100</span>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="head line blue">
+                                <strong>Medium</strong><br />
+                                cloud
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <strong>3,000</strong>
+                            </div>
+                            <div class="line">
+                                <strong>30</strong>
+                            </div>
+                            <div class="line">
+                                2
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span title="Additional charge €100/year, only available with yearly billing">€100</span>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="head line blue">
+                                <strong>Advanced</strong><br />
+                                cloud
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <strong>10,000</strong>
+                            </div>
+                            <div class="line">
+                                <strong>60</strong>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span title="Additional charge €100/year, only available with yearly billing">€100</span>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="head line blue">
+                                <strong>Enterprise</strong><br />
+                                cloud
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                <strong>50,000</strong>
+                            </div>
+                            <div class="line">
+                                <strong>100</strong>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="head line">
+                                <strong>Custom</strong><br />
+                                and dedicated
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                            <div class="line">
+                                over <strong>50,000</strong>
+                            </div>
+                            <div class="line">
+                                over <strong>100</strong>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="green">Unlimited</span>
+                            </div>
+                            <div class="line">
+                                <span class="check"></span>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="pricing-table-tabs-menu">
+                            <ul>
+                                <li class="current" data-tab="monthly">Monthly</li>
+                                <li data-tab="yearly" id="yearly-pricing">Yearly</li>
+                            </ul>
+                            <div class="tabs-checkbox">
+                              <input type="checkbox" name="dedicated" id="dedicated-checkbox">
+                              <label for="dedicated-checkbox">Dedicated instance</label>
+                            </div>
+                            <div class="tabs-info">
+                              <strong>Save more</strong> with longer pre-payment!
+                            </div>
+                        </div>
+                        <div class="pricing-table-tabs">
+                            <div id="monthly" class="tab-content current">
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€19</strong>
+                                        MONTHLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="https://hosted.weblate.org/trial/" class="button">Gratis trial</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€49</strong>
+                                        MONTHLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="https://hosted.weblate.org/trial/" class="button">Gratis trial</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€99</strong>
+                                        MONTHLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="https://hosted.weblate.org/trial/" class="button">Gratis trial</a>
+                                    </div>
+                                    <div class="line last">
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€299</strong>
+                                        MONTHLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="https://hosted.weblate.org/trial/" class="button">Gratis trial</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price small">
+                                        <b>Ask</b> for options
+                                    </div>
+                                    <div class="line">
+                                        <a href="mailto:sales@weblate.org" class="button">Contact us</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="yearly" class="tab-content">
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€199</strong>
+                                        YEARLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="https://hosted.weblate.org/trial/" class="button">Gratis trial</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€499</strong>
+                                        YEARLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="https://hosted.weblate.org/trial/" class="button">Gratis trial</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€999</strong>
+                                        YEARLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="https://hosted.weblate.org/trial/" class="button">Gratis trial</a>
+                                    </div>
+                                    <div class="line last">
+                                        
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€2,999</strong>
+                                        YEARLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="https://hosted.weblate.org/trial/" class="button">Gratis trial</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price small">
+                                        <b>Ask</b> for options
+                                    </div>
+                                    <div class="line">
+                                        <a href="mailto:sales@weblate.org" class="button">Contact us</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="dedicated" class="tab-content">
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€299</strong>
+                                        YEARLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="/en/subscription/new/?plan=hosted:basic" class="button">Buy now</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€599</strong>
+                                        YEARLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="/en/subscription/new/?plan=hosted:medium" class="button">Buy now</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€1,099</strong>
+                                        YEARLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="/en/subscription/new/?plan=hosted:advanced" class="button">Buy now</a>
+                                    </div>
+                                    <div class="line last">
+                                        
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price">
+                                        <strong>€2,999</strong>
+                                        YEARLY
+                                    </div>
+                                    <div class="line">
+                                        <a href="/en/subscription/new/?plan=hosted:enterprise" class="button">Buy now</a>
+                                    </div>
+                                    <div class="line last">
+
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="line price small">
+                                        <b>Ask</b> for options
+                                    </div>
+                                    <div class="line">
+                                        <a href="mailto:sales@weblate.org" class="button">Contact us</a>
+                                    </div>
+                                    <div class="line last">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h2 class="section-title crypto payment-conditions">Payment</h2>
+            <div class="page-desc small">
+                
+<p>
+    Payments by credit card, bank transfer or cryptocurrency transaction are accepted.
+    Please <a href="mailto:sales@weblate.org">get in touch</a> for more details and possibilities.
+    All listed prices exclude VAT.
+    EU end users and Czech companies will be charged with additional 21% VAT.
+    The reverse charge applies to invoices issued to businesses within the EU.
+</p>
+
+            </div>
+            <h2 class="section-title crypto payment-conditions" id="strings">Source strings</h2>
+            <div class="page-desc small">
+                <p>Pricing is based on the number of source strings and target languages. A source string is a text unit defined in a translation format. It can be a word, sentence or paragraph.</p>
+            </div>
+
+            <div class="libre-hosting" id="libre">
+              <h2>Weblate proudly supports libre projects</h2>
+              <p>
+                If you feel like being supported by Weblate will help you, <a href="https://hosted.weblate.org/hosting/">set up your libre project</a> and get the <strong>Libre plan</strong> gratis.
+                It has the same limits as the <strong>Advanced plan</strong>, but only for public projects.
+            </p>
+            </div>
+
+            <div class="wrap supporters">
+                <h2 class="section-title hp-style">Join existing users and supporters</h2>
+                
+
+<a href="https://l10n.opensuse.org/"><img src="/static/img/logo-opensuse.svg" alt="openSUSE" /></a>
+<a href="https://translations.documentfoundation.org/"><img src="/static/img/logo-libreoffice.svg" alt="LibreOffice" /></a>
+<a href="https://translate.fedoraproject.org/"><img src="/static/img/logo-fedora.svg" alt="Fedora" /></a>
+<a href="https://hosted.weblate.org/engage/freedombox/"><img src="/static/img/logo-freedombox.svg" alt="Freedombox" /></a>
+<a href="https://hosted.weblate.org/projects/collabora-online/"><img src="/static/img/logo-collabora.svg" alt="Collabora" /></a>
+<div class="clear"></div>
+<a href="/en/discover/" class="button border small rev inline">Discover Weblate</a>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="bottom ">
+    <div class="row">
+        <div class="flex">
+        
+<div class="box join">
+    <div class="title"><strong>Join the community</strong> and contribute</div>
+    <p>Weblate is a platform for one of the most positive and empowering communities of libre software. We learn and grow together and we connect the world.</p>
+    <a href="/en/contribute/" class="button inline black">Contribute with us</a>
+</div>
+
+        
+<div class="box donate">
+    <div class="title"><strong>Donate</strong>—to make the world a better place</div>
+    <p>Give yourself a happy moment. Help build Weblate with a small or bigger donation. Funds are spent wisely between hosting and manpower.</p>
+    <a href="/en/donate/" class="button inline black">Donate</a>
+</div>
+
+        </div>
+    </div>
+</section>
+
+
+<section class="about">
+    <div class="row">
+        <div class="section-title">Learn more</div>
+        <p>Dive in, or leverage extensive skills and experience from our team of professionals, giving focused advice attentive to your exact needs.</p>
+        <a href="https://hosted.weblate.org/trial/" class="button inline">Gratis trial</a>
+    </div>
+</section>
+
+
+
+    <footer>
+    	<div class="row">
+        	<a class="f-logo" href="/en/">weblate</a>
+			<div class="footicons">
+            	<a href="https://www.linkedin.com/company/weblate/" class="icon icon-in" title="LinkedIn"></a>
+            	<a href="https://twitter.com/WeblateOrg" class="icon icon-tw" title="X"></a>
+              <a rel="me" href="https://fosstodon.org/@weblate" class="icon icon-mastodon" title="Mastodon"></a>
+            	<a href="https://www.facebook.com/WeblateOrg" class="icon icon-fb" title="Facebook"></a>
+            	<a href="https://github.com/WeblateOrg/weblate" class="icon icon-git" title="GitHub"></a>
+                <!--
+            	<a href="#" class="icon icon-yt"></a>
+                -->
+            </div>
+            
+<div class="langs">
+    <a class="open-langs" href="#">English</a>
+
+    <div class="langs-list">
+        
+        <ul>
+            
+            <li><a href="/ar/hosting/">العربية</a></li>
+            
+            <li><a href="/az/hosting/">Azərbaycan</a></li>
+            
+            <li><a href="/be/hosting/">Беларуская</a></li>
+            
+            <li><a href="/be-latn/hosting/">Biełaruskaja</a></li>
+            
+            <li><a href="/bg/hosting/">Български</a></li>
+            
+            <li><a href="/br/hosting/">Brezhoneg</a></li>
+            
+            <li><a href="/ca/hosting/">Català</a></li>
+            
+            <li><a href="/cs/hosting/">Čeština</a></li>
+            
+            <li><a href="/da/hosting/">Dansk</a></li>
+            
+            <li><a href="/de/hosting/">Deutsch</a></li>
+            
+            <li class="active"><a href="/en/hosting/">English</a></li>
+            
+            <li><a href="/el/hosting/">Ελληνικά</a></li>
+            
+            <li><a href="/en-gb/hosting/">English (United Kingdom)</a></li>
+            
+            <li><a href="/es/hosting/">Español</a></li>
+            
+            <li><a href="/fi/hosting/">Suomi</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+            <li><a href="/fr/hosting/">Français</a></li>
+            
+            <li><a href="/fur/hosting/">Furlan</a></li>
+            
+            <li><a href="/gl/hosting/">Galego</a></li>
+            
+            <li><a href="/he/hosting/">עברית</a></li>
+            
+            <li><a href="/hu/hosting/">Magyar</a></li>
+            
+            <li><a href="/hr/hosting/">Hrvatski</a></li>
+            
+            <li><a href="/id/hosting/">Indonesia</a></li>
+            
+            <li><a href="/is/hosting/">Íslenska</a></li>
+            
+            <li><a href="/it/hosting/">Italiano</a></li>
+            
+            <li><a href="/ja/hosting/">日本語</a></li>
+            
+            <li><a href="/kab/hosting/">Taqbaylit</a></li>
+            
+            <li><a href="/kk/hosting/">Қазақ тілі</a></li>
+            
+            <li><a href="/ko/hosting/">한국어</a></li>
+            
+            <li><a href="/nb/hosting/">Norsk bokmål</a></li>
+            
+            <li><a href="/nl/hosting/">Nederlands</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+            <li><a href="/pl/hosting/">Polski</a></li>
+            
+            <li><a href="/pt/hosting/">Português</a></li>
+            
+            <li><a href="/pt-br/hosting/">Português brasileiro</a></li>
+            
+            <li><a href="/ro/hosting/">Română</a></li>
+            
+            <li><a href="/ru/hosting/">Русский</a></li>
+            
+            <li><a href="/sk/hosting/">Slovenčina</a></li>
+            
+            <li><a href="/sl/hosting/">Slovenščina</a></li>
+            
+            <li><a href="/sq/hosting/">Shqip</a></li>
+            
+            <li><a href="/sr/hosting/">Српски</a></li>
+            
+            <li><a href="/sr-latn/hosting/">Srpski</a></li>
+            
+            <li><a href="/sv/hosting/">Svenska</a></li>
+            
+            <li><a href="/tr/hosting/">Türkçe</a></li>
+            
+            <li><a href="/uk/hosting/">Українська</a></li>
+            
+            <li><a href="/zh-hans/hosting/">简体中文</a></li>
+            
+            <li><a href="/zh-hant/hosting/">正體中文</a></li>
+            
+        </ul>
+        
+        <div class="bottom">
+            → <a href="/en/contribute/#translate">Help translate</a>
+        </div>
+    </div>
+</div>
+
+            
+<nav class="main-menu">
+    <ul>
+        <li class=""><a href="/en/features/">Features</a></li>
+        <li class=" hide1025"><a href="/en/download/">Download</a></li>
+        <li class=" active"><a href="/en/hosting/">Pricing</a></li>
+        <li class=""><a href="/en/contribute/">Contribute</a></li>
+        <li class=""><a href="/en/donate/">Donate</a></li>
+        
+        <li class=""><a href="/en/careers/">Careers</a></li>
+        
+        
+        <li class="menu-light gethelp"><a href="/en/support/">Get help</a></li>
+        <li class="menu-light hide1025"><a href="/en/news/">Blog</a></li>
+        <li class="menu-light hide890"><a href="/en/about/">About</a></li>
+        <li class="menu-light hide1100"><a href="https://docs.weblate.org/">Docs</a></li>
+        
+    </ul>
+</nav>
+
+            <div class="clear"></div>
+            <div class="footer-center">
+                <a href="https://status.weblate.org/" class="service-status">Service Status</a>
+            </div>
+			<div class="footer-left">
+                Copyright © <a href="https://cihar.com/">Michal Čihař</a> • <a href="https://docs.weblate.org/en/latest/contributing/license.html">Licensed GNU GPLv3+</a>
+            </div>
+            <div class="footer-right"><a href="/en/terms/">Terms and Privacy</a> • Design by <a href="https://vitavalka.com/">Vita Valka</a></div>
+		</div>
+    </footer>
+    <section class="mobile-menu">
+        <div class="logo"><a href="/en/">Weblate</a></div>
+        
+<nav class="main-menu">
+    <ul>
+        <li class=""><a href="/en/features/">Features</a></li>
+        <li class=" hide1025"><a href="/en/download/">Download</a></li>
+        <li class=" active"><a href="/en/hosting/">Pricing</a></li>
+        <li class=""><a href="/en/contribute/">Contribute</a></li>
+        <li class=""><a href="/en/donate/">Donate</a></li>
+        
+        <li class=""><a href="/en/careers/">Careers</a></li>
+        
+        
+        <li><a href="https://shop.spreadshirt.net/weblate/">Merchandise</a></li>
+        <li class=""><a href="/en/discover/">Discover</a></li>
+        
+        <li class="menu-light gethelp"><a href="/en/support/">Get help</a></li>
+        <li class="menu-light hide1025"><a href="/en/news/">Blog</a></li>
+        <li class="menu-light hide890"><a href="/en/about/">About</a></li>
+        <li class="menu-light hide1100"><a href="https://docs.weblate.org/">Docs</a></li>
+        
+        <li class="menu-light"><a href="https://hosted.weblate.org/" target="_blank">Go Weblate!</a></li>
+        
+    </ul>
+</nav>
+
+        
+<div class="langs">
+    <a class="open-langs" href="#">English</a>
+
+    <div class="langs-list">
+        
+        <ul>
+            
+            <li><a href="/ar/hosting/">العربية</a></li>
+            
+            <li><a href="/az/hosting/">Azərbaycan</a></li>
+            
+            <li><a href="/be/hosting/">Беларуская</a></li>
+            
+            <li><a href="/be-latn/hosting/">Biełaruskaja</a></li>
+            
+            <li><a href="/bg/hosting/">Български</a></li>
+            
+            <li><a href="/br/hosting/">Brezhoneg</a></li>
+            
+            <li><a href="/ca/hosting/">Català</a></li>
+            
+            <li><a href="/cs/hosting/">Čeština</a></li>
+            
+            <li><a href="/da/hosting/">Dansk</a></li>
+            
+            <li><a href="/de/hosting/">Deutsch</a></li>
+            
+            <li class="active"><a href="/en/hosting/">English</a></li>
+            
+            <li><a href="/el/hosting/">Ελληνικά</a></li>
+            
+            <li><a href="/en-gb/hosting/">English (United Kingdom)</a></li>
+            
+            <li><a href="/es/hosting/">Español</a></li>
+            
+            <li><a href="/fi/hosting/">Suomi</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+            <li><a href="/fr/hosting/">Français</a></li>
+            
+            <li><a href="/fur/hosting/">Furlan</a></li>
+            
+            <li><a href="/gl/hosting/">Galego</a></li>
+            
+            <li><a href="/he/hosting/">עברית</a></li>
+            
+            <li><a href="/hu/hosting/">Magyar</a></li>
+            
+            <li><a href="/hr/hosting/">Hrvatski</a></li>
+            
+            <li><a href="/id/hosting/">Indonesia</a></li>
+            
+            <li><a href="/is/hosting/">Íslenska</a></li>
+            
+            <li><a href="/it/hosting/">Italiano</a></li>
+            
+            <li><a href="/ja/hosting/">日本語</a></li>
+            
+            <li><a href="/kab/hosting/">Taqbaylit</a></li>
+            
+            <li><a href="/kk/hosting/">Қазақ тілі</a></li>
+            
+            <li><a href="/ko/hosting/">한국어</a></li>
+            
+            <li><a href="/nb/hosting/">Norsk bokmål</a></li>
+            
+            <li><a href="/nl/hosting/">Nederlands</a></li>
+            
+        </ul>
+        
+        <ul>
+            
+            <li><a href="/pl/hosting/">Polski</a></li>
+            
+            <li><a href="/pt/hosting/">Português</a></li>
+            
+            <li><a href="/pt-br/hosting/">Português brasileiro</a></li>
+            
+            <li><a href="/ro/hosting/">Română</a></li>
+            
+            <li><a href="/ru/hosting/">Русский</a></li>
+            
+            <li><a href="/sk/hosting/">Slovenčina</a></li>
+            
+            <li><a href="/sl/hosting/">Slovenščina</a></li>
+            
+            <li><a href="/sq/hosting/">Shqip</a></li>
+            
+            <li><a href="/sr/hosting/">Српски</a></li>
+            
+            <li><a href="/sr-latn/hosting/">Srpski</a></li>
+            
+            <li><a href="/sv/hosting/">Svenska</a></li>
+            
+            <li><a href="/tr/hosting/">Türkçe</a></li>
+            
+            <li><a href="/uk/hosting/">Українська</a></li>
+            
+            <li><a href="/zh-hans/hosting/">简体中文</a></li>
+            
+            <li><a href="/zh-hant/hosting/">正體中文</a></li>
+            
+        </ul>
+        
+        <div class="bottom">
+            → <a href="/en/contribute/#translate">Help translate</a>
+        </div>
+    </div>
+</div>
+
+    </section>
+
+<script src="/static/CACHE/js/output.09ee3534641f.js"></script>
+<!-- Matomo -->
+<script src="https://stats.cihar.com/matomo.js" async defer></script>
+<noscript><img src="https://stats.cihar.com/piwik.php?idsite=12&amp;rec=1" alt="" /></noscript>
+<!-- End Matomo Code -->
+  </body>
+</html>

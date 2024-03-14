@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- $Id: welcome.txt v7.1 30/10/2023 23:08:30 $ -->
+<title>GeneWeb – grimaldi</title>
+<meta name="robots" content="none">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" href="gw/images/favicon_gwd.png">
+<link rel="apple-touch-icon" href="gw/images/favicon_gwd.png">
+<!-- $Id: css.txt v7.1 04/11/2023 04:28:54 $ -->
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+integrity="sha256-+IZRbz1B6ee9mUx/ejmonK+ulIP5A5bLDd6v6NHqXnI=
+sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N
+sha512-rt/SrQ4UNIaGfDyEXZtNcyWvQeOq0QLygHluFQcSjaGB04IxWhal71tKuzP6K8eYXYB6vJV4pHkXcmFGGQ1/0w=="
+crossorigin="anonymous" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css"
+integrity="sha256-wiz7ZSCn/btzhjKDQBms9Hx4sSeUYsDrTLg7roPstac=
+sha384-t1nt8BQoYMLFN5p42tRAtuAAFQaCQODekUVeKKZrEnEyp4H2R0RHFz0KWpmj7i8g
+sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+crossorigin="anonymous" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="gw/etc/css/css.css">
+</head>
+<body>
+<div class="container">
+<meta name="format-detection" content="telephone=no" />
+<div class="d-flex flex-column flex-md-row justify-content-lg-center mt-lg-3">
+<div class="d-none d-lg-block col-md-3 order-md-1"></div>
+<div class="col-xs-12 col-md-3 order-md-3 ml-md-2 px-0">
+<div class="d-flex flex-column">
+<form class="form-inline" method="post" action="gwd">
+<input type="hidden" name="b" value="grimaldi">
+<input type="hidden" name="pz" value="rainier louis henri maxence bertrand">
+<input type="hidden" name="nz" value="grimaldi">
+<input type="hidden" name="ocz" value="0">
+<div class="input-group mt-1 w-100">
+<input type="text" class="form-control" name="w" title="friend/wizard"
+placeholder="user:password" aria-label="password input" aria-describedby="username:password" autofocus>
+<div class="input-group-append">
+<button type="submit" class="btn btn-primary">OK</button>
+</div>
+</div>
+</form>
+<div class="btn-group btn-group-xs mt-1" role="group">
+</div>
+</div>
+</div>
+<div class="bg-white my-0 order-md-2 flex-fill text-lg-center align-self-md-center">
+<img src="gw/images/gwlogo.png" alt="GeneWeb" title="GeneWeb">
+<h1 class="font-weight-bolder">Family Tree grimaldi</h1>
+<div class="d-flex justify-content-center">
+<span class="h2 font-weight-light">293 individuals</span>
+<a class="align-self-center" href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&i=21"
+title="Display a random individual"><i class="fa-solid fa-dice ml-1 mb-2"></i></a>
+</div>
+</div>
+</div>
+<div class="d-flex justify-content-center mt-1 mt-lg-3">
+<div class="d-flex flex-column col-8">
+<div class="display-5 lead font-weight-light text-center">Genealogical demonstration database — <b>GeneWeb 7.1 beta</b><br><a href="https://demo.geneweb.tuxfamily.org/gw70/gwd?b=grimaldi">Back to GeneWeb version 7.0</a><br><small>For testing purposes, the passwords for friend and wizard logins are “friend” and “wizard”, respectively.</small></div>
+<div class="text-center">Family tree root: <a href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&p=rainier+louis+henri+maxence+bertrand&n=grimaldi" id="i32">Rainier III GRIMALDI</a>,  <em>prince de Monaco</em></div>
+</div>
+</div>
+<div class="flex-row justify-content-center">
+<form class="mt-3 mt-xl-5" method="get" action="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&">
+<input type="hidden" name="b" value="grimaldi">
+<input type="hidden" name="pz" value="rainier louis henri maxence bertrand">
+<input type="hidden" name="nz" value="grimaldi">
+<input type="hidden" name="ocz" value="0">
+<input type="hidden" name="m" value="S" class="has_validation">
+<div class="d-flex justify-content-center">
+<div class="d-flex flex-column justify-content-center col-xs-11 col-md-9 col-lg-7 w-75">
+<div class="d-flex">
+<div class="btn-group-vertical mr-2">
+<a role="button" href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=N&tri=A"
+title="Surnames, sort by alphabetical order"><i class="fa fa-arrow-down-a-z fa-fw"></i></a>
+<a role="button" href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=N&tri=F"
+title="Frequency surnames, sort by number of individuals"><i class="fa fa-arrow-down-wide-short fa-fw"></i></a>
+</div>
+<label for="surname" class="sr-only col-form-label col-sm-2">Surname</label>
+<input type="search" id="surname" class="form-control form-control-lg"
+name="n" placeholder="Surname, public name, alias, Sosa No."
+title="Search surname, public name, alias, Sosa No." autofocus tabindex="1">
+</div>
+<div class="d-flex mt-2">
+<div class="btn-group-vertical mr-2">
+<a role="button" href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=P&tri=A"
+title="First names, sort by alphabetical order"><i class="fa fa-arrow-down-a-z fa-fw"></i></a>
+<a role="button" href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=P&tri=F"
+title="Frequency first names, sort by number of individuals"><i class="fa fa-arrow-down-wide-short fa-fw"></i></a>
+</div>
+<label for="firstname" class="sr-only col-form-label col-sm-2">First name·s</label>
+<input type="search" id="firstname"
+class="form-control form-control-lg border-top-0"
+name="p" placeholder="First name·s"
+title="Search first name·s" tabindex="2">
+</div>
+</div>
+<button class="btn btn-outline-primary align-self-center ml-2" type="submit">
+<i class="fa fa-magnifying-glass fa-fw fa-2x mt-1"></i><br>
+Search<br>individual
+</button>
+</div>
+</form>
+<form class="mt-2 mt-md-3 mt-lg-4" method="get" action="gwd">
+<input type="hidden" name="b" value="grimaldi">
+<input type="hidden" name="pz" value="rainier louis henri maxence bertrand">
+<input type="hidden" name="nz" value="grimaldi">
+<input type="hidden" name="ocz" value="0">
+<input type="hidden" name="m" value="TT">
+<div class="d-flex justify-content-center mx-5">
+<div class="d-flex flex-column justify-content-center col-xs-9 col-md-7 col-lg-5 w-75">
+<div class="d-flex">
+<a class="mr-2 align-self-center" role="button"
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=TT" title="All the titles"><i class="fa fa-list-ul fa-fw"></i></a>
+<label for="titles" class="sr-only col-form-label col-sm-2">Title</label>
+<input type="search" class="form-control border-top-0 border-right-0 border-left-0"
+name="t" id="titles" placeholder="Title" tabindex="3">
+</div>
+<div class="d-flex mt-2">
+<a class="mr-2 align-self-center" role="button"
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=TT&p=*" title="All the fiefs"><i class="fa fa-list-ul fa-fw"></i></a>
+<label for="estates"
+class="sr-only col-form-label col-sm-2" >Fief</label>
+<input type="search"
+class="form-control border-top-0 border-right-0 border-left-0"
+name="p" id="estates" placeholder="Fief" tabindex="4">
+</div>
+</div>
+<button class="btn btn-outline-primary btn-sm align-self-center ml-2 px-0 py-3" type="submit"
+title="Search title/fief">
+<i class="fa fa-magnifying-glass fa-fw fa-2x mx-3"></i>
+</button>
+</div>
+</form>
+</div>
+<div class="d-flex flex-column justify-items-lg-center mt-3 mt-lg-4">
+<div class="h4 text-lg-center"><i class="fas fa-screwdriver-wrench fa-sm fa-fw text-secondary mr-1"></i>Tools</div>
+<div class="d-inline-flex justify-content-lg-center">
+<a role="button" class="btn btn-outline-primary mr-1"
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=NOTES">
+<i class="far fa-file-lines fa-fw mr-1" aria-hidden="true"></i>Notes
+</a>
+<a role="button" class="btn btn-outline-primary mr-1"
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=MISC_NOTES"><i class="fas fa-align-justify fa-fw mr-1" aria-hidden="true"></i>Notes index</a>
+<a role="button" class="btn btn-outline-primary mr-1"
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=STAT"><i class="far fa-chart-bar fa-fw mr-1" aria-hidden="true"></i>Statistics</a>
+<a role="button" class="btn btn-outline-primary mr-1"
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=ANM"><i class="fa fa-cake-candles fa-fw mr-1" aria-hidden="true"></i>Anniversaries</a>
+<a role="button" class="btn btn-outline-primary mr-1"
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=HIST&k=20"><i class="fas fa-clock-rotate-left fa-fw mr-1" aria-hidden="true"></i>History</a>
+<a class="btn  btn-outline-primary"
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=FORUM"><i class="far fa-comments fa-fw mr-1" aria-hidden="true"></i>Forum</a>
+</div>
+<div class="d-inline-flex justify-content-lg-center mt-1 mt-lg-2">
+<a role="button" class="btn btn-outline-primary mr-1" 
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=PPS&bi=on&ba=on&ma=on&de=on&bu=on">
+<i class="fas fa-globe fa-fw mr-1" aria-hidden="true"></i>Places/surname</a>
+<a role="button" class="btn btn-outline-primary mr-1" 
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=H&v=advanced">
+<i class="fa fa-magnifying-glass-plus fa-fw mr-1" aria-hidden="true"></i>Advanced request</a>
+<a role="button" class="btn btn-outline-primary mr-1" 
+href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=CAL">
+<i class="far fa-calendar-days fa-fw mr-1" aria-hidden="true"></i>Calendars</a>
+</div>
+</div>
+<div class="d-flex flex-column flex-lg-row justify-content-lg-center mt-2 mt-lg-4">
+<div class="h4 align-self-lg-center mr-lg-2">
+<i class="fas fa-book fa-sm fa-fw text-secondary mr-1"></i>Plugins:
+<span class="small">forum</span>
+</div>
+</div>
+<div class="row mt-2 mt-lg-4">
+<div class="col text-lg-center">
+</div>
+</div>
+<script>
+  var q_time = 0.277;
+  var nb_errors = 0;
+  var errors_list = "\u{000A}";
+  var home_time = document.getElementById('q_time');
+  var home_errors = document.getElementById('nb_errors');
+  if (home_time != null) {
+    home_time.title = "Query treated in " + q_time + " s";
+    if (q_time < 3) {
+      home_time.classList.add("text-success");
+    } else if (q_time < 8) {
+      home_time.classList.add("text-warning");
+     } else {
+       home_time.classList.add("text-danger");
+    }
+  }
+  if (home_errors != null) {
+    if (nb_errors > 0) {
+      home_errors.title = nb_errors +" error(s)!";
+      home_errors.classList.remove("d-none");
+    }
+    if (errors_list != "") {
+      home_errors.title = home_errors.title + errors_list + ".";
+    }
+  }
+</script><!-- $Id: copyr.txt 7.1b exp 18/12/2023 22:03:44 $ -->
+<div class="d-flex ml-auto  justify-content-end m-2" id="copyr">
+<div class="btn-group dropup align-self-center">
+<button class="btn btn-link dropdown-toggle" type="button" id="dropdownMenu1"
+data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+title=""><span class="sr-only">lang</span><span class="text-uppercase" title="View in: English">en</span><span class="sr-only">, view in:</span></button>
+<div class="dropdown-menu scrollable-lang" aria-labelledby="dropdownMenu1">
+<a class="dropdown-item" id="lang_af" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=af&b=grimaldi" title="lang af"><code>af&nbsp;&nbsp;&nbsp; </code>Afrikaans</a>
+<a class="dropdown-item" id="lang_ar" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=ar&b=grimaldi" title="lang ar"><code>ar&nbsp;&nbsp;&nbsp; </code>Arabic</a>
+<a class="dropdown-item" id="lang_bg" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=bg&b=grimaldi" title="lang bg"><code>bg&nbsp;&nbsp;&nbsp; </code>Bulgarian</a>
+<a class="dropdown-item" id="lang_br" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=br&b=grimaldi" title="lang br"><code>br&nbsp;&nbsp;&nbsp; </code>Breton</a>
+<a class="dropdown-item" id="lang_ca" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=ca&b=grimaldi" title="lang ca"><code>ca&nbsp;&nbsp;&nbsp; </code>Catalan</a>
+<a class="dropdown-item" id="lang_co" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=co&b=grimaldi" title="lang co"><code>co&nbsp;&nbsp;&nbsp; </code>Corsican</a>
+<a class="dropdown-item" id="lang_cs" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=cs&b=grimaldi" title="lang cs"><code>cs&nbsp;&nbsp;&nbsp; </code>Czech</a>
+<a class="dropdown-item" id="lang_da" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=da&b=grimaldi" title="lang da"><code>da&nbsp;&nbsp;&nbsp; </code>Danish</a>
+<a class="dropdown-item" id="lang_de" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=de&b=grimaldi" title="lang de"><code>de&nbsp;&nbsp;&nbsp; </code>German</a>
+<a class="dropdown-item" id="lang_eo" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=eo&b=grimaldi" title="lang eo"><code>eo&nbsp;&nbsp;&nbsp; </code>Esperanto</a>
+<a class="dropdown-item" id="lang_es" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=es&b=grimaldi" title="lang es"><code>es&nbsp;&nbsp;&nbsp; </code>Spanish</a>
+<a class="dropdown-item" id="lang_et" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=et&b=grimaldi" title="lang et"><code>et&nbsp;&nbsp;&nbsp; </code>Estonian</a>
+<a class="dropdown-item" id="lang_fi" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=fi&b=grimaldi" title="lang fi"><code>fi&nbsp;&nbsp;&nbsp; </code>Finnish</a>
+<a class="dropdown-item" id="lang_fr" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=fr&b=grimaldi" title="lang fr"><code>fr&nbsp;&nbsp;&nbsp; </code>French</a>
+<a class="dropdown-item" id="lang_he" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=he&b=grimaldi" title="lang he"><code>he&nbsp;&nbsp;&nbsp; </code>Hebrew</a>
+<a class="dropdown-item" id="lang_is" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=is&b=grimaldi" title="lang is"><code>is&nbsp;&nbsp;&nbsp; </code>Icelandic</a>
+<a class="dropdown-item" id="lang_it" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=it&b=grimaldi" title="lang it"><code>it&nbsp;&nbsp;&nbsp; </code>Italian</a>
+<a class="dropdown-item" id="lang_lt" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=lt&b=grimaldi" title="lang lt"><code>lt&nbsp;&nbsp;&nbsp; </code>Lithuanian</a>
+<a class="dropdown-item" id="lang_lv" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=lv&b=grimaldi" title="lang lv"><code>lv&nbsp;&nbsp;&nbsp; </code>Latvian</a>
+<a class="dropdown-item" id="lang_nl" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=nl&b=grimaldi" title="lang nl"><code>nl&nbsp;&nbsp;&nbsp; </code>Dutch</a>
+<a class="dropdown-item" id="lang_no" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=no&b=grimaldi" title="lang no"><code>no&nbsp;&nbsp;&nbsp; </code>Norwegian</a>
+<a class="dropdown-item" id="lang_oc" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=oc&b=grimaldi" title="lang oc"><code>oc&nbsp;&nbsp;&nbsp; </code>Occitan</a>
+<a class="dropdown-item" id="lang_pl" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=pl&b=grimaldi" title="lang pl"><code>pl&nbsp;&nbsp;&nbsp; </code>Polish</a>
+<a class="dropdown-item" id="lang_pt" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=pt&b=grimaldi" title="lang pt"><code>pt&nbsp;&nbsp;&nbsp; </code>Portuguese</a>
+<a class="dropdown-item" id="lang_pt-br" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=pt-br&b=grimaldi" title="lang pt-br"><code>pt-br </code>Brazilian-Portuguese</a>
+<a class="dropdown-item" id="lang_ro" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=ro&b=grimaldi" title="lang ro"><code>ro&nbsp;&nbsp;&nbsp; </code>Romanian</a>
+<a class="dropdown-item" id="lang_ru" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=ru&b=grimaldi" title="lang ru"><code>ru&nbsp;&nbsp;&nbsp; </code>Russian</a>
+<a class="dropdown-item" id="lang_sk" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=sk&b=grimaldi" title="lang sk"><code>sk&nbsp;&nbsp;&nbsp; </code>Slovak</a>
+<a class="dropdown-item" id="lang_sl" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=sl&b=grimaldi" title="lang sl"><code>sl&nbsp;&nbsp;&nbsp; </code>Slovenian</a>
+<a class="dropdown-item" id="lang_sv" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=sv&b=grimaldi" title="lang sv"><code>sv&nbsp;&nbsp;&nbsp; </code>Swedish</a>
+<a class="dropdown-item" id="lang_tr" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=tr&b=grimaldi" title="lang tr"><code>tr&nbsp;&nbsp;&nbsp; </code>Turkish</a>
+<a class="dropdown-item" id="lang_zh" 
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&lang=zh&b=grimaldi" title="lang zh"><code>zh&nbsp;&nbsp;&nbsp; </code>Chinese</a>
+</div>
+</div>
+<div class="d-flex flex-column align-self-center align-items-center ml-2 small">
+<span>4 connections
+</span>
+</div>
+<div class="d-inline-flex flex-column justify-content-end align-self-center ml-3">
+<div class="ml-auto">
+<a role="button" class="mr-1"
+href="gwd?pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&ocz=0&templ=templm&b=grimaldi"
+title="templm"><i class="fab fa-markdown" aria-hidden="true"></i><span class="sr-only">switch to templm</span></a>
+<a href="https://github.com/geneweb/geneweb/tree/51688f290"
+title="Branch tux20231219 compiled on 2023-12-19 from commit 51688f290 (2023-12-19)">GeneWeb v. 7.1b exp</a>
+</div>
+<div class="btn-group">
+<span>&copy; <a href="https://www.inria.fr" target="_blank" rel="noreferrer, noopener">INRIA</a> 1998-2007</span>
+<a href="https://geneweb.tuxfamily.org/wiki/GeneWeb" class="ml-1"
+target="_blank" rel="noreferrer, noopener" title="Documentation GeneWeb"><i class="fab fa-wikipedia-w"></i></a><a href="https://github.com/geneweb/geneweb" class="ml-1"
+target="_blank" rel="noreferrer, noopener" title="GeneWeb on Github"><i class="fab fa-github"></i></a>
+</div>
+</div>
+</div>
+</div>
+<!-- $Id: js.txt v7.1 02/12/2023 12:35:50 $ -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"
+integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=
+sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs
+sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha256-GRJrh0oydT1CwS36bBeJK/2TggpaUQC6GzTaTQdZm0k=
+sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct
+sha512-igl8WEUuas9k5dtnhKqyyld6TzzRjvMqLC79jkgT3z02FvJyHAuUtyemm/P/jYSne1xwFI06ezQxEwweaiV7VA=="
+crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+$('#load_once_p_mod').one('click', function() {
+$.getScript('gw/etc/js/p_mod.min.js');
+});
+$('#load_once_copylink').one('click', function() {
+$.getScript('gw/etc/js/copylink.js');
+});
+</script>
+<script><!-- focus on found autofocus input in opening BS modal -->
+$('.modal').on('shown.bs.modal', function() {
+$(this).find('[autofocus]').focus();
+});
+</script>
+</body>
+</html>

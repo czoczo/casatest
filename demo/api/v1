@@ -1,4 +1,24 @@
 {
+  "2FAuth": {
+    "namespace": "Miscellaneous",
+    "description": "A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes.",
+    "url": "https://demo.2fauth.app/",
+    "domain": "https://demo.2fauth.app/",
+    "tls": true,
+    "title": "2FAuth Demo",
+    "iconURL": "./downloadedAvatars/43463af38af391871740b6cf6c2769d5c4b9194dbaa45b61cdb15db8bf3e34ba.ico",
+    "labels": null
+  },
+  "A Dark Room": {
+    "namespace": "Games",
+    "description": "Minimalist text adventure game for your browser.",
+    "url": "https://adarkroom.doublespeakgames.com/",
+    "domain": "https://adarkroom.doublespeakgames.com/",
+    "tls": true,
+    "title": "A Dark Room",
+    "iconURL": "./downloadedAvatars/a0cd1b368a99b9b26568e697e1b94bfcc957d2c15517564f345557117f263f8a.ico",
+    "labels": null
+  },
   "AWStats": {
     "namespace": "Analytics",
     "description": "Generate statistics from web, streaming, ftp or mail server logfiles.",
@@ -69,6 +89,16 @@
     "iconURL": "./downloadedAvatars/690ebbd8e029a57af95bd25e2b4494ceba709d44e46b29c55c4c494e64b72846.png",
     "labels": null
   },
+  "Atomic Server": {
+    "namespace": "Knowledge Management Tools",
+    "description": "Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies.",
+    "url": "https://atomicdata.dev/",
+    "domain": "https://atomicdata.dev/",
+    "tls": true,
+    "title": "Atomic Data",
+    "iconURL": "./downloadedAvatars/8a27092af9972ca0f6242a3757acd2394b1c99ba013e928d931e75e330083e92.png",
+    "labels": null
+  },
   "Azimutt": {
     "namespace": "Database Management",
     "description": "Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines.",
@@ -89,6 +119,16 @@
     "iconURL": "./downloadedAvatars/288bd6627d93a7e7f943d3122605a0829ad33efc05147f24af666eb1072796eb.png",
     "labels": null
   },
+  "Baby Buddy": {
+    "namespace": "Miscellaneous",
+    "description": "Helps caregivers track baby sleep, feedings, diaper changes, and tummy time.",
+    "url": "https://demo.baby-buddy.net/login/?next=/",
+    "domain": "https://demo.baby-buddy.net/login/?next=/",
+    "tls": true,
+    "title": "\n            Login\n        | Baby Buddy",
+    "iconURL": "./downloadedAvatars/af4f98fc0cf6a6c72ca5cb33bd821d1b2a2a4ee92a52b4c0e745c2892563208c.png",
+    "labels": null
+  },
   "Bagisto": {
     "namespace": "E-commerce",
     "description": "Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features.",
@@ -99,6 +139,26 @@
     "iconURL": "./downloadedAvatars/a9412dda1e10b667b166c796dd73d39f93ccba02ad881bcc8ddd5c0602349cb2.ico",
     "labels": null
   },
+  "Bar Assistant": {
+    "namespace": "Recipe Management",
+    "description": "Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes.",
+    "url": "https://bar.karlomikus.com/",
+    "domain": "https://bar.karlomikus.com/",
+    "tls": true,
+    "title": "Bar Assistant",
+    "iconURL": "./downloadedAvatars/84a180074ca2dceca93370c7a1c5b4e14c3d237315048468905a5eb647e60134.svg",
+    "labels": null
+  },
+  "Bicimon": {
+    "namespace": "Maps and Global Positioning System (GPS)",
+    "description": "Bike Speedometer as Progressive Web App.",
+    "url": "https://knrdl.github.io/bicimon/",
+    "domain": "https://knrdl.github.io/bicimon/",
+    "tls": true,
+    "title": "BiCiMon",
+    "iconURL": "./downloadedAvatars/a4883f5309d23b7dec41234ca17f57573b10f13eeb228fda6e7fcd0a6d09eece.png",
+    "labels": null
+  },
   "Bitcart": {
     "namespace": "Money, Budgeting \u0026 Management",
     "description": "A self-hosted cryptocurrencies payment processor and development platform.",
@@ -107,6 +167,16 @@
     "tls": true,
     "title": "bitcart-admin - bitcart-admin",
     "iconURL": "./downloadedAvatars/8cf60f8b72ea3ca1eb7d87cb41bb3ea3f81c48f25738291d6719fa578553dbfa.png",
+    "labels": null
+  },
+  "Bitpoll": {
+    "namespace": "Polls and Events",
+    "description": "A web application for scheduling meetings and general polling.",
+    "url": "https://bitpoll.de/",
+    "domain": "https://bitpoll.de/",
+    "tls": true,
+    "title": "Umfrage erstellen - Bitpoll",
+    "iconURL": "./avatars/593b797d578c939b873168898a8b736dbd5aa9acabaf37bec8e5f77f8eda6f73.png",
     "labels": null
   },
   "BookStack": {
@@ -127,6 +197,26 @@
     "tls": true,
     "title": "Bracket",
     "iconURL": "./downloadedAvatars/58af9a1d5ff61481a6bff5c34f411d95ed994c78364aeccfc545f491558b87df.svg",
+    "labels": null
+  },
+  "Briefkasten": {
+    "namespace": "Bookmarks and Link Sharing",
+    "description": "Modern app for saving and managing your own bookmarks. Includes a browser extension.",
+    "url": "https://briefkastenhq.com/auth/signin",
+    "domain": "https://briefkastenhq.com/auth/signin",
+    "tls": true,
+    "title": "Briefkasten",
+    "iconURL": "./downloadedAvatars/83ddd4c742c62e1be221ba8b5bddc5e047f067e3d981cbf9cdd2516f2024deba.png",
+    "labels": null
+  },
+  "Bubo Reader": {
+    "namespace": "Feed Readers",
+    "description": "Open source, \"irrationally minimal\" RSS feed reader.",
+    "url": "https://bubo-rss-demo.netlify.app/",
+    "domain": "https://bubo-rss-demo.netlify.app/",
+    "tls": true,
+    "title": "🦉 Bubo Reader",
+    "iconURL": "./avatars/cd5d7da722b5726b7c37a038ccc3770d41cbaa0d45df49df16da488ac03dad5b.png",
     "labels": null
   },
   "Budget Zen": {
@@ -189,6 +279,16 @@
     "iconURL": "./downloadedAvatars/07276a6b652bd18ec6e969b7b496278d1a44560fd414794d00b8fe11e453771b.ico",
     "labels": null
   },
+  "Centrifugo": {
+    "namespace": "Communication - Custom Communication Systems",
+    "description": "Language-agnostic real-time messaging (Websocket or SockJS) server.",
+    "url": "https://github.com/centrifugal/centrifugo#demo",
+    "domain": "https://github.com/centrifugal/centrifugo#demo",
+    "tls": true,
+    "title": "GitHub - centrifugal/centrifugo: Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.",
+    "iconURL": "./downloadedAvatars/b17cc9cd59d45a9e9c345fe2b24944b221ff599495f1d2107f3d8f4a2375f031.svg",
+    "labels": null
+  },
   "Cerbos": {
     "namespace": "Miscellaneous",
     "description": "A self-hosted, open source user authorization layer for your applications.",
@@ -210,7 +310,7 @@
     "labels": null
   },
   "ChatGPT": {
-    "namespace": "00_other",
+    "namespace": "other",
     "description": "",
     "url": "https:/chat.openai.com",
     "domain": "https:/chat.openai.com",
@@ -269,6 +369,26 @@
     "iconURL": "./avatars/11f25f1b49c299f173ff8b500ec6bc1e6ab6d1d160906920644de1b2aefef650.png",
     "labels": null
   },
+  "CyTube": {
+    "namespace": "Media Streaming - Video Streaming",
+    "description": "CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels.",
+    "url": "https://cytu.be",
+    "domain": "https://cytu.be",
+    "tls": true,
+    "title": "Just a moment...",
+    "iconURL": "./avatars/9e1f08c7d98f8017812e5c8b94af8271a3cabd0ed5430b1b93fbbce727278621.png",
+    "labels": null
+  },
+  "CyberChef": {
+    "namespace": "Miscellaneous",
+    "description": "Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more.",
+    "url": "https://gchq.github.io/CyberChef",
+    "domain": "https://gchq.github.io/CyberChef",
+    "tls": true,
+    "title": "CyberChef",
+    "iconURL": "./downloadedAvatars/e87c5f984a71f647ac9ca3ca66f9c05fd02953f2cb66619ac825f33444c56e07.svg",
+    "labels": null
+  },
   "DOMJudge": {
     "namespace": "Miscellaneous",
     "description": "A system for running a programming contest, like the ICPC regional and world championship programming contests.",
@@ -277,6 +397,36 @@
     "tls": true,
     "title": "DOMjudge - Online Demo",
     "iconURL": "./downloadedAvatars/af46c6a86a7f900643ee462d079352c2c8516ba0737e23c908655c75ba51db19.ico",
+    "labels": null
+  },
+  "Dashpress": {
+    "namespace": "Software Development - Low Code",
+    "description": "Generate fully functional admin apps in seconds from your database information, with a single command.",
+    "url": "https://demo.dashpress.io/auth",
+    "domain": "https://demo.dashpress.io/auth",
+    "tls": true,
+    "title": "",
+    "iconURL": "./avatars/51bce6c03a0eeec355207a1fafbd5096befad4b7fc51128b0f7953f18da1bccc.png",
+    "labels": null
+  },
+  "Dashy": {
+    "namespace": "Personal Dashboards",
+    "description": "Feature-rich homepage for your homelab, with easy YAML configuration.",
+    "url": "https://demo.dashy.to/",
+    "domain": "https://demo.dashy.to/",
+    "tls": true,
+    "title": "Dashy",
+    "iconURL": "./downloadedAvatars/b8676f0022ddc00fad09907b35c8e3c88136a4920e57757a1c3a5a43be85d045.png",
+    "labels": null
+  },
+  "Databag": {
+    "namespace": "Communication - Custom Communication Systems",
+    "description": "Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls.",
+    "url": "https://databag.coredb.org/#/create",
+    "domain": "https://databag.coredb.org/#/create",
+    "tls": true,
+    "title": "Databag",
+    "iconURL": "./downloadedAvatars/0a3483ce9ca63242b2bc1554662acb082cbf81b492f73a9512a09daad3abd4d2.ico",
     "labels": null
   },
   "Datasette": {
@@ -291,7 +441,7 @@
   },
   "DePay": {
     "namespace": "Money, Budgeting \u0026 Management",
-    "description": "Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted \u0026amp; open-source.",
+    "description": "Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted \u0026 open-source.",
     "url": "https://depay.com/products/payments",
     "domain": "https://depay.com/products/payments",
     "tls": true,
@@ -356,7 +506,7 @@
     "domain": "https://ladigitale.dev/digimindmap/#/",
     "tls": true,
     "title": "Digimindmap by La Digitale",
-    "iconURL": "./downloadedAvatars/9dc4c0c5c01bdd58e6544020928d2ba825fd0abbdae37f499b403b4137ddd862.png",
+    "iconURL": "./downloadedAvatars/411ccc29d419b2209da5b05c594e6310af6f3933ee9d8a0ede0ff953f24bf37d.png",
     "labels": null
   },
   "Digiscreen": {
@@ -439,6 +589,16 @@
     "iconURL": "./downloadedAvatars/dc9b96eb1a30e89f4fe5f9974970e815eff5ba3ca02b1e413b37f7a55635b69e.png",
     "labels": null
   },
+  "Drift": {
+    "namespace": "Pastebins",
+    "description": "Self-hosted Github Gist clone.",
+    "url": "https://drift.maxleiter.com/",
+    "domain": "https://drift.maxleiter.com/",
+    "tls": true,
+    "title": "Drift",
+    "iconURL": "./downloadedAvatars/14502a0cdb78af5fa65d8ec2d73dcf240e7018055df6ed59f84f5a707aa68e14.png",
+    "labels": null
+  },
   "EMQX": {
     "namespace": "Internet of Things (IoT)",
     "description": "An ultra-scalable open-source MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency.",
@@ -447,6 +607,16 @@
     "tls": true,
     "title": "The Free Global Public MQTT Broker | Try Now | EMQ",
     "iconURL": "./downloadedAvatars/73846c060f592d2590eb670685e6f1fd5557b99ac1a44759e906a1b7bbc0d0ce.svg",
+    "labels": null
+  },
+  "EPrints": {
+    "namespace": "Document Management - Institutional Repository and Digital Library Software",
+    "description": "Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions.",
+    "url": "http://tryme.demo.eprints-hosting.org/",
+    "domain": "http://tryme.demo.eprints-hosting.org/",
+    "tls": false,
+    "title": "Welcome to Publications Demo - Publications Demo",
+    "iconURL": "./downloadedAvatars/d2a408330626d19eea07719987f45bd890399063f82d72fab6b49f10f0139335.ico",
     "labels": null
   },
   "ESMira": {
@@ -465,7 +635,7 @@
     "url": "https://demo.easyappointments.org/",
     "domain": "https://demo.easyappointments.org/",
     "tls": true,
-    "title": "Book Appointment With Schrool",
+    "title": "Book Appointment With Company Name",
     "iconURL": "./downloadedAvatars/c9202c2f790830117a53e768c3524c447465dc81c1530f5466b66fee3a29e02f.png",
     "labels": null
   },
@@ -579,6 +749,16 @@
     "iconURL": "./avatars/6e0da1a46e72225e3ca22dd8e1c67578b517f6c328bbfd845d151750f839de23.png",
     "labels": null
   },
+  "FlashPaper": {
+    "namespace": "Pastebins",
+    "description": "A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required.",
+    "url": "https://flashpaper.io",
+    "domain": "https://flashpaper.io",
+    "tls": true,
+    "title": "FlashPaper :: Self-Destructing Message",
+    "iconURL": "./avatars/4e467ea9c106c04b4cff3d1394bafa7deb5eba62ca42bb5f2a3305137755dc56.png",
+    "labels": null
+  },
   "Flipt": {
     "namespace": "Miscellaneous",
     "description": "Feature flag solution with support for multiple data backends (alternative to LaunchDarkly).",
@@ -639,6 +819,16 @@
     "iconURL": "./downloadedAvatars/fd4301df6b61df3e9183369577c6a712245e6e7d5bdd3c4d08b05a275eca18da.png",
     "labels": null
   },
+  "Gatus": {
+    "namespace": "Status / Uptime pages",
+    "description": "Automated service health dashboard.",
+    "url": "https://status.twin.sh",
+    "domain": "https://status.twin.sh",
+    "tls": true,
+    "title": "Health Dashboard | Gatus",
+    "iconURL": "./downloadedAvatars/3b5801bf5ed303d0d362b0ce7df62c59aab0a87d30c1252c67e575b856f4e9f5.svg",
+    "labels": null
+  },
   "GeneWeb": {
     "namespace": "Genealogy",
     "description": "Genealogy software. It comes with a Web interface and can be used off-line or as a Web service.",
@@ -667,6 +857,26 @@
     "tls": true,
     "title": "Gitea: Git with a cup of tea",
     "iconURL": "./downloadedAvatars/995a63c5bc2da8fec0de1a265993eec7ae528959fc666dc7dd4edc641e3b2446.svg",
+    "labels": null
+  },
+  "Glowing Bear": {
+    "namespace": "Communication - IRC",
+    "description": "A web frontend for WeeChat.",
+    "url": "https://www.glowing-bear.org",
+    "domain": "https://www.glowing-bear.org",
+    "tls": true,
+    "title": "",
+    "iconURL": "./downloadedAvatars/6b7b78a6c9eae14c30b7bffd71056112ae7fb2a58523dd5eb68d5235bee69e0d.png",
+    "labels": null
+  },
+  "GoSƐ": {
+    "namespace": "File Transfer - Single-click \u0026 Drag-n-drop Upload",
+    "description": "GoSƐ is a modern file-uploader focusing on scalability and simplicity. It only depends on a S3 storage backend and hence scales horizontally without the need for additional databases or caches.",
+    "url": "https://gose.0l.de",
+    "domain": "https://gose.0l.de",
+    "tls": true,
+    "title": "GoSƐ - A terascale file uploader",
+    "iconURL": "./downloadedAvatars/d8a89cec18bfcdc79441ec3bbe8e5bb6d115d348ead6f47c49474608510eb563.svg",
     "labels": null
   },
   "Gramps Web": {
@@ -737,6 +947,16 @@
     "tls": true,
     "title": "",
     "iconURL": "./avatars/dd7d463f892d5f3002d1e19af51becc3149bf49f431bd66be640fb47cb3b3c80.png",
+    "labels": null
+  },
+  "Huly": {
+    "namespace": "Software Development - Project Management",
+    "description": "All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion).",
+    "url": "https://app.huly.io",
+    "domain": "https://app.huly.io",
+    "tls": true,
+    "title": "Huly",
+    "iconURL": "./downloadedAvatars/94832ace36e491879b5bf6f50be7cba23c2de4565d9d3c44bc52bd223b94bf06.svg",
     "labels": null
   },
   "HyperKitty": {
@@ -921,7 +1141,7 @@
   },
   "Kimai": {
     "namespace": "Time Tracking",
-    "description": "Kimai is a free \u0026amp; open source timetracker. It tracks work time and prints out a summary of your activities on demand.",
+    "description": "Kimai is a free \u0026 open source timetracker. It tracks work time and prints out a summary of your activities on demand.",
     "url": "https://www.kimai.org/demo/",
     "domain": "https://www.kimai.org/demo/",
     "tls": true,
@@ -1029,9 +1249,19 @@
     "iconURL": "./downloadedAvatars/887acb4cfd9f84517057225a59de92693a1d1121f9575b1c5369dc269b3d1251.svg",
     "labels": null
   },
+  "LittleLink": {
+    "namespace": "Personal Dashboards",
+    "description": "A simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree).",
+    "url": "https://littlelink.io/",
+    "domain": "https://littlelink.io/",
+    "tls": true,
+    "title": "LittleLink",
+    "iconURL": "./downloadedAvatars/c883ae46f742ac384a45f5963b07cc84c8d70d7dd576ced67bd3e809b3a3e19e.png",
+    "labels": null
+  },
   "Loggit": {
     "namespace": "Miscellaneous",
-    "description": "End-to-end encrypted and simple life tracking \u0026amp; logging.",
+    "description": "End-to-end encrypted and simple life tracking \u0026 logging.",
     "url": "https://app.loggit.net",
     "domain": "https://app.loggit.net",
     "tls": true,
@@ -1047,6 +1277,16 @@
     "tls": true,
     "title": "Lynx",
     "iconURL": "./downloadedAvatars/301c2d3efe5a09d8dd782d3ceceb4b76027281b0bbd34cf5bfa2afbba10b2bf3.png",
+    "labels": null
+  },
+  "Maloja": {
+    "namespace": "Media Streaming - Audio Streaming",
+    "description": "Self-hosted music scrobble database (alternative to Last.fm).",
+    "url": "https://maloja.krateng.ch/",
+    "domain": "https://maloja.krateng.ch/",
+    "tls": true,
+    "title": "Maloja",
+    "iconURL": "./downloadedAvatars/fe8fc3e39ca8a2d79a5a436c55371d691a5c20b880709e220ff597a66281ddf4.png",
     "labels": null
   },
   "MantisBT": {
@@ -1159,6 +1399,16 @@
     "iconURL": "./downloadedAvatars/2e3f7f5c07556ed598b36ca5bb80b46caa29a835148ead993aeeca647d273382.svg",
     "labels": null
   },
+  "My Mind": {
+    "namespace": "Knowledge Management Tools",
+    "description": "Web application for creating and managing mind maps.",
+    "url": "https://my-mind.github.io/?url=examples%2Ffeatures.mymind",
+    "domain": "https://my-mind.github.io/?url=examples%2Ffeatures.mymind",
+    "tls": true,
+    "title": "My Mind",
+    "iconURL": "./downloadedAvatars/b470ddceadf0c24815ea8d6b3830f09f6e8543397e3351780b827b2a68a4369f.ico",
+    "labels": null
+  },
   "Navidrome Music Server": {
     "namespace": "Media Streaming - Audio Streaming",
     "description": "Modern Music Server and Streamer, compatible with Subsonic/Airsonic.",
@@ -1181,7 +1431,7 @@
   },
   "Nextcloud": {
     "namespace": "File Transfer \u0026 Synchronization",
-    "description": "Access and share your files, calendars, contacts, mail and \u003ca href=\"https://apps.nextcloud.com/\" rel=\"nofollow\"\u003emore\u003c/a\u003e from any device, on your terms.",
+    "description": "Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms.",
     "url": "https://try.nextcloud.com/",
     "domain": "https://try.nextcloud.com/",
     "tls": true,
@@ -1309,6 +1559,16 @@
     "iconURL": "./downloadedAvatars/bd3c9373c70f6e83ce4f2f6ccde128b23501e6565d69ada1611b2f1b0c844ba6.ico",
     "labels": null
   },
+  "Opengist": {
+    "namespace": "Pastebins",
+    "description": "Self-hosted pastebin powered by Git.",
+    "url": "https://opengist.thomice.li",
+    "domain": "https://opengist.thomice.li",
+    "tls": true,
+    "title": "All gists - Opengist",
+    "iconURL": "./downloadedAvatars/aa8cc332d2c260d8dde6d2baddb81fca5fe69ad16522d7a65e33dc3527e8de7e.svg",
+    "labels": null
+  },
   "OrangeHRM": {
     "namespace": "Human Resources Management (HRM)",
     "description": "OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise.",
@@ -1317,6 +1577,16 @@
     "tls": true,
     "title": "OrangeHRM",
     "iconURL": "./downloadedAvatars/c2ef69b6a17242c417caa5314349e7e7a1c6b0931f84cc1997d1c09316c2a6f8.ico",
+    "labels": null
+  },
+  "Our Shopping List": {
+    "namespace": "Task Management \u0026 To-do Lists",
+    "description": "Simple shared list application. Typical uses include shopping lists of course, and any other small todo-list that needs to be used collaboratively.",
+    "url": "https://osl.lanterne-rouge.info/",
+    "domain": "https://osl.lanterne-rouge.info/",
+    "tls": true,
+    "title": "Our Shopping List",
+    "iconURL": "./downloadedAvatars/cdc053e00919f9cb6589a51f383278c65ba9287dc997b956ba9f54a16b4c9fd9.png",
     "labels": null
   },
   "OvenMediaEngine": {
@@ -1369,6 +1639,16 @@
     "iconURL": "./downloadedAvatars/4b5becdd2b7957e749e02ca6f29664ecb20a7e98d7b579a1963a6e81edb86f3b.png",
     "labels": null
   },
+  "Pastr": {
+    "namespace": "URL Shorteners",
+    "description": "Super-minimal URL shortener and paste tool that uses a flat-file storage and has no dependencies.",
+    "url": "https://alhai.de",
+    "domain": "https://alhai.de",
+    "tls": true,
+    "title": "Alhai",
+    "iconURL": "./avatars/f04dd4f85d144c1a89056d76372abc5f1b853c27d47126f73453206e1a1ad380.png",
+    "labels": null
+  },
   "Payload CMS": {
     "namespace": "Content Management Systems (CMS)",
     "description": "Developer-first headless CMS and application framework.",
@@ -1377,6 +1657,16 @@
     "tls": true,
     "title": "Payload CMS | Public Demo",
     "iconURL": "./downloadedAvatars/edf7b761aff63964a0ce2515d64794335d57e7f906195f545474a7effb875a17.ico",
+    "labels": null
+  },
+  "Pepperminty Wiki": {
+    "namespace": "Wikis",
+    "description": "Complete markdown-powered wiki contained in a single PHP file.",
+    "url": "https://starbeamrainbowlabs.com/labs/peppermint/build/",
+    "domain": "https://starbeamrainbowlabs.com/labs/peppermint/build/",
+    "tls": true,
+    "title": "\u0026#128274;Main Page - Pepperminty Wiki",
+    "iconURL": "./downloadedAvatars/dad3ca26209f3ae03e6f16883d0f42166f9463c5453093dc9834f40327fecd34",
     "labels": null
   },
   "PhotoPrism": {
@@ -1397,6 +1687,16 @@
     "tls": true,
     "title": "PicoShare",
     "iconURL": "./downloadedAvatars/296b6e26b2fbe209c26ba456634127d9726bccdfd66472ec9d478f24830cf3be.png",
+    "labels": null
+  },
+  "Pingvin Share": {
+    "namespace": "File Transfer - Single-click \u0026 Drag-n-drop Upload",
+    "description": "A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.",
+    "url": "https://pingvin-share.dev.eliasschneider.com",
+    "domain": "https://pingvin-share.dev.eliasschneider.com",
+    "tls": true,
+    "title": "Home - Pingvin Share Demo",
+    "iconURL": "./downloadedAvatars/e61b004908d38d1bfd70228dad0dc8de33663aaba42afb478dd3a5c1bb37cec0.png",
     "labels": null
   },
   "Plainpad": {
@@ -1427,6 +1727,16 @@
     "tls": true,
     "title": "Planka",
     "iconURL": "./downloadedAvatars/6daa432ce1c8b727033fd8d7dc260a04d3de36dbaf34970ebad843806cb81ac0.svg",
+    "labels": null
+  },
+  "Plik": {
+    "namespace": "File Transfer - Single-click \u0026 Drag-n-drop Upload",
+    "description": "Plik is a scalable and friendly temporary file upload system.",
+    "url": "https://plik.root.gg/",
+    "domain": "https://plik.root.gg/",
+    "tls": true,
+    "title": "Plik",
+    "iconURL": "./downloadedAvatars/750d54fb6f93557700124e36fa213f1426bf9919f9124a4becaa405b7f22bf23.ico",
     "labels": null
   },
   "PoeticMetric": {
@@ -1549,6 +1859,16 @@
     "iconURL": "./downloadedAvatars/2a7c24fca6762ad456fdbb7709c4e443686fa114a19eb7e3a230cc7f8c90c453.svg",
     "labels": null
   },
+  "RecipeSage": {
+    "namespace": "Recipe Management",
+    "description": "A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL.",
+    "url": "https://recipesage.com",
+    "domain": "https://recipesage.com",
+    "tls": true,
+    "title": "RecipeSage - The Personal Recipe Keeper",
+    "iconURL": "./downloadedAvatars/b5cacc8f1fc372043d0dd15c3cc8d5dad17fa27dac0023b1e96567b8c5cd1bcd.svg",
+    "labels": null
+  },
   "ResourceSpace": {
     "namespace": "File Transfer - Web-based File Managers",
     "description": "ResourceSpace open source digital asset management software is the simple, fast, and free way to organise your digital assets.",
@@ -1557,6 +1877,16 @@
     "tls": true,
     "title": "Free DAM Software | ResourceSpace",
     "iconURL": "./downloadedAvatars/40e525c1d16cc928ebab110e784abf3ede384e2fda688c76802452827b49f659.png",
+    "labels": null
+  },
+  "Retrospring": {
+    "namespace": "Communication - Social Networks and Forums",
+    "description": "A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat.",
+    "url": "https://retrospring.net",
+    "domain": "https://retrospring.net",
+    "tls": true,
+    "title": "Retrospring",
+    "iconURL": "./downloadedAvatars/10cf9931524a582523c1cfec1e900bf18be0397d8fcba7ed73d8e1083129d857.png",
     "labels": null
   },
   "Review Board": {
@@ -1621,7 +1951,7 @@
   },
   "Scoold": {
     "namespace": "Communication - Social Networks and Forums",
-    "description": "Stack Overflow in a JAR. An enterprise-ready Q\u0026amp;A platform with full-text search, SAML, LDAP integration and social login support.",
+    "description": "Stack Overflow in a JAR. An enterprise-ready Q\u0026A platform with full-text search, SAML, LDAP integration and social login support.",
     "url": "https://live.scoold.com",
     "domain": "https://live.scoold.com",
     "tls": true,
@@ -1649,6 +1979,16 @@
     "iconURL": "./downloadedAvatars/b71a44e966c74232bdf0d95cd899c8bd6c1a97253706c1dfe3acf3fcfb649690.png",
     "labels": null
   },
+  "Shaarli": {
+    "namespace": "Bookmarks and Link Sharing",
+    "description": "Personal, minimalist, super-fast, no-database bookmarking and link sharing platform.",
+    "url": "https://demo.shaarli.org",
+    "domain": "https://demo.shaarli.org",
+    "tls": true,
+    "title": "Shaarli demo",
+    "iconURL": "./downloadedAvatars/c9bf0e627282b4f3558836383966b8d17d3d86c4e357028dac7c9c379fac1707.png",
+    "labels": null
+  },
   "Shopware Community Edition": {
     "namespace": "E-commerce",
     "description": "PHP based open source e-commerce software made in Germany.",
@@ -1669,9 +2009,19 @@
     "iconURL": "./downloadedAvatars/505fd72f5ef602d43ad17e3933ea38e37b5753f96151c9a4546177cf110a3f41.ico",
     "labels": null
   },
+  "Simple-URL-Shortener": {
+    "namespace": "URL Shorteners",
+    "description": "KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies.",
+    "url": "https://u.azlux.fr",
+    "domain": "https://u.azlux.fr",
+    "tls": true,
+    "title": "Shortener",
+    "iconURL": "./avatars/a947665ab27cf6a4b5db6f2859cf20cac851f14b646977804ed871fc390d856d.png",
+    "labels": null
+  },
   "SnappyMail": {
     "namespace": "Communication - Email - Webmail Clients",
-    "description": "Simple, modern, lightweight \u0026amp; fast web-based email client (fork of RainLoop).",
+    "description": "Simple, modern, lightweight \u0026 fast web-based email client (fork of RainLoop).",
     "url": "https://snappymail.eu/demo/",
     "domain": "https://snappymail.eu/demo/",
     "tls": true,
@@ -1699,6 +2049,16 @@
     "iconURL": "./downloadedAvatars/1a560c60668c2ca3617ce032e25b51373908f5213995a62ce6e0d5e424ceeb6c.png",
     "labels": null
   },
+  "Solidus": {
+    "namespace": "E-commerce",
+    "description": "A free, open-source ecommerce platform that gives you complete control over your store.",
+    "url": "http://demo.solidus.io/",
+    "domain": "http://demo.solidus.io/",
+    "tls": false,
+    "title": "Solidus - Sample Store",
+    "iconURL": "./downloadedAvatars/dd0d667a745b79e2bebd92e2c9f6260f260336e7bcf87b403cd5123aed6d01d3.svg",
+    "labels": null
+  },
   "Sourcehut": {
     "namespace": "Software Development - Project Management",
     "description": "A full web git interface with no javascript.",
@@ -1721,7 +2081,7 @@
   },
   "Spree Commerce": {
     "namespace": "E-commerce",
-    "description": "Spree is a complete, modular \u0026amp; API-driven open source e-commerce solution for Ruby on Rails.",
+    "description": "Spree is a complete, modular \u0026 API-driven open source e-commerce solution for Ruby on Rails.",
     "url": "https://new-ux.spreecommerce.org/",
     "domain": "https://new-ux.spreecommerce.org/",
     "tls": true,
@@ -1739,8 +2099,18 @@
     "iconURL": "./downloadedAvatars/9423f9f00906144445659cd4d4c0f12d869754af9de2e87c1932892b139d501d.svg",
     "labels": null
   },
+  "Sshwifty": {
+    "namespace": "Remote Access",
+    "description": "Sshwifty is a SSH and Telnet connector made for the Web.",
+    "url": "https://sshwifty-demo.nirui.org",
+    "domain": "https://sshwifty-demo.nirui.org",
+    "tls": true,
+    "title": "Sshwifty Web SSH Client",
+    "iconURL": "./downloadedAvatars/512e23abd55bc9530f738ca0e95a24fe6e82229e0be257fd5ea33439b8e6efdf.svg",
+    "labels": null
+  },
   "Stack Overflow": {
-    "namespace": "00_other",
+    "namespace": "other",
     "description": "",
     "url": "https://stackoverflow.com",
     "domain": "https://stackoverflow.com",
@@ -1757,6 +2127,16 @@
     "tls": true,
     "title": "Notes · Standard Notes",
     "iconURL": "./downloadedAvatars/29c698d07aacc76786d899e32497d67735433f0b14b226861f9de8baaa348c29.png",
+    "labels": null
+  },
+  "Stretto": {
+    "namespace": "Media Streaming - Audio Streaming",
+    "description": "Music player with Youtube/Soundcloud import and iTunes/Spotify discovery.",
+    "url": "https://next.kaiserapps.com",
+    "domain": "https://next.kaiserapps.com",
+    "tls": true,
+    "title": "Stretto - Web Music Player",
+    "iconURL": "./downloadedAvatars/eef7c035bd68acdf56b4377197b9422a04ab90e746c531e073392a7c5df8273d.png",
     "labels": null
   },
   "Suroi": {
@@ -1817,6 +2197,16 @@
     "tls": true,
     "title": "The Talkyard Community",
     "iconURL": "./downloadedAvatars/24a4ba3a75b66ea99efa3cbba5326920fb6589e30a71f4661cdc98c911c117db.png",
+    "labels": null
+  },
+  "TeamMapper": {
+    "namespace": "Knowledge Management Tools",
+    "description": "Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps.",
+    "url": "https://map.kits.blog",
+    "domain": "https://map.kits.blog",
+    "tls": true,
+    "title": "TeamMapper",
+    "iconURL": "./downloadedAvatars/f57c6ba637b6c37dde9d180842caadd7b1eeaf32e7cd09138ce438065537ca0e.png",
     "labels": null
   },
   "Teedy": {
@@ -1899,6 +2289,16 @@
     "iconURL": "./downloadedAvatars/f2f3c6d2c2f7566072d3d004904e4f3a0b7c14413e2469fc7211b63225516ce3.svg",
     "labels": null
   },
+  "Tinode": {
+    "namespace": "Communication - Custom Communication Systems",
+    "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots.",
+    "url": "https://sandbox.tinode.co/",
+    "domain": "https://sandbox.tinode.co/",
+    "tls": true,
+    "title": "Tinode",
+    "iconURL": "./downloadedAvatars/fb3efc4daacb34e708ede82338b6d869734b3797a3ceb01577220acb86df224c.png",
+    "labels": null
+  },
   "Tiny Tiny RSS": {
     "namespace": "Feed Readers",
     "description": "Open source web-based news feed (RSS/Atom) reader and aggregator.",
@@ -1931,7 +2331,7 @@
   },
   "Tube": {
     "namespace": "Media Streaming - Video Streaming",
-    "description": "Youtube-like (\u003cem\u003ewithout censorship and features you don't need!\u003c/em\u003e) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed.",
+    "description": "Youtube-like (_without censorship and features you don't need!_) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed.",
     "url": "https://tube.mills.io",
     "domain": "https://tube.mills.io",
     "tls": true,
@@ -1957,6 +2357,16 @@
     "tls": true,
     "title": "Umami",
     "iconURL": "./downloadedAvatars/c4b612f228fdaf69ba57da988b2c6af17d791060a742407a13172dffb93f2d02.svg",
+    "labels": null
+  },
+  "Uptime Kuma": {
+    "namespace": "Status / Uptime pages",
+    "description": "Self-hosted website monitoring tool like \"Uptime Robot\".",
+    "url": "https://demo.kuma.pet",
+    "domain": "https://demo.kuma.pet",
+    "tls": true,
+    "title": "Uptime Kuma Demo",
+    "iconURL": "./avatars/69dadfc0a2eebb75321459521b0e724bb5bf0552d6122777a229b4439c49549d.png",
     "labels": null
   },
   "Vendure": {
@@ -1987,6 +2397,36 @@
     "tls": true,
     "title": "Vikunja",
     "iconURL": "./downloadedAvatars/2a383dd7f1271a98aa3b32b53119a94211e8e2faafbcca562cd1355f79db8ac8.svg",
+    "labels": null
+  },
+  "WBO": {
+    "namespace": "Communication - Custom Communication Systems",
+    "description": "Web Whiteboard to collaborate in real-time on schemas, drawings, and notes.",
+    "url": "https://wbo.ophir.dev/",
+    "domain": "https://wbo.ophir.dev/",
+    "tls": true,
+    "title": "WBO — Collaborative whiteboard",
+    "iconURL": "./downloadedAvatars/428dc18475384dce8cc9ca7f9581b01007b5e5ef7cbc58b66c1b07c4d6b632e0.png",
+    "labels": null
+  },
+  "Wastebin": {
+    "namespace": "Pastebins",
+    "description": "Lightweight, minimal and fast pastebin with an SQLite backend.",
+    "url": "https://bin.bloerg.net",
+    "domain": "https://bin.bloerg.net",
+    "tls": true,
+    "title": "wastebin",
+    "iconURL": "./downloadedAvatars/0c91e2e262a916329b4bca164f8f522a336ee0e99e787103290b489c758a1983.png",
+    "labels": null
+  },
+  "Watcharr": {
+    "namespace": "Miscellaneous",
+    "description": "A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup.",
+    "url": "https://beta.watcharr.app/",
+    "domain": "https://beta.watcharr.app/",
+    "tls": true,
+    "title": "Watcharr",
+    "iconURL": "./downloadedAvatars/e8398adcce9b2e224a25edd24382c19b78370acae1079b5d85cf6022bbc1f91d.svg",
     "labels": null
   },
   "WebDB": {
@@ -2049,6 +2489,16 @@
     "iconURL": "./avatars/a9a776b89d05a89341c50c6080607bf2db367750495f1a8c76d5f227899bd6ae.png",
     "labels": null
   },
+  "Word Mastermind": {
+    "namespace": "Games",
+    "description": "Wordle clone. A Mastermind-like game, but instead of colors you need to guess words.",
+    "url": "https://word-mastermind.glitch.me/",
+    "domain": "https://word-mastermind.glitch.me/",
+    "tls": true,
+    "title": "Word Mastermind",
+    "iconURL": "./avatars/0ed5afd961b0ddcff40b3fd31161722df522bcab9c8280c072d092129dfbe8b3.png",
+    "labels": null
+  },
   "XWiki": {
     "namespace": "Wikis",
     "description": "Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture.",
@@ -2059,6 +2509,16 @@
     "iconURL": "./downloadedAvatars/f9c398eb82b04b22b828ef77bfe94e430d0aaf3e16eedc5aa868b97cf0ada85a.svg",
     "labels": null
   },
+  "YABin": {
+    "namespace": "Pastebins",
+    "description": "A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments.",
+    "url": "https://bin.sohamsen.me/",
+    "domain": "https://bin.sohamsen.me/",
+    "tls": true,
+    "title": "YABin",
+    "iconURL": "./downloadedAvatars/3cb9990ea5be2d8a7714480a92ccbc84320cbf96871757719fe8b202d21a6985.ico",
+    "labels": null
+  },
   "Yeti-Switch": {
     "namespace": "Communication - SIP",
     "description": "Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API.",
@@ -2067,6 +2527,16 @@
     "tls": true,
     "title": "Demo | YETI - VOIP for humans",
     "iconURL": "./downloadedAvatars/665308b3e796e837d2f60f1e81bc9424635b2b5f23b2884f66f5de4311015830.ico",
+    "labels": null
+  },
+  "Yopass": {
+    "namespace": "Communication - Custom Communication Systems",
+    "description": "Secure sharing of secrets, passwords and files.",
+    "url": "https://yopass.se/",
+    "domain": "https://yopass.se/",
+    "tls": true,
+    "title": "Yopass: Share Secrets Securely",
+    "iconURL": "./downloadedAvatars/3cf446a8e130e4805e7c8cfb8513aa715a99ea6e0b82912d9bacc0a21b680408.png",
     "labels": null
   },
   "YunoHost": {
@@ -2099,6 +2569,26 @@
     "iconURL": "./avatars/6060244088692e61a08c524fc48de5db1fdb687c6a8bb0b6454912cf72ea1e06.png",
     "labels": null
   },
+  "ZincSearch": {
+    "namespace": "Search Engines",
+    "description": "Search engine that requires minimal resources (alternative to Elasticsearch).",
+    "url": "https://github.com/zinclabs/zinc#playground-server",
+    "domain": "https://github.com/zinclabs/zinc#playground-server",
+    "tls": true,
+    "title": "GitHub - zincsearch/zincsearch: ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "iconURL": "./downloadedAvatars/b17cc9cd59d45a9e9c345fe2b24944b221ff599495f1d2107f3d8f4a2375f031.svg",
+    "labels": null
+  },
+  "Zusam": {
+    "namespace": "Communication - Social Networks and Forums",
+    "description": "Free and open-source way to self-host private forums for groups of friends or family.",
+    "url": "https://demo.zusam.org",
+    "domain": "https://demo.zusam.org",
+    "tls": true,
+    "title": "Zusam",
+    "iconURL": "./downloadedAvatars/bc675cf188f168e0c17cd82cd76212f8d290b84a0b865a9306c803314694df91.png",
+    "labels": null
+  },
   "admidio": {
     "namespace": "Human Resources Management (HRM)",
     "description": "Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization.",
@@ -2109,6 +2599,16 @@
     "iconURL": "./downloadedAvatars/59ec7ac0806564f42ae77b38067a761b2a0e55fed45d38e1c0eca6d52e498c3d.png",
     "labels": null
   },
+  "asciinema": {
+    "namespace": "Miscellaneous",
+    "description": "Web app for hosting asciicasts.",
+    "url": "https://asciinema.org/",
+    "domain": "https://asciinema.org/",
+    "tls": true,
+    "title": "Record and share your terminal sessions, the simple way - asciinema.org",
+    "iconURL": "./downloadedAvatars/b9e4e79b8e088be6f01afc956f9ec43e0a33c7c9e6e5d4a3cb19f4f13ea26f22.png",
+    "labels": null
+  },
   "cState": {
     "namespace": "Status / Uptime pages",
     "description": "Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker.",
@@ -2117,6 +2617,26 @@
     "tls": true,
     "title": "Eggsample Status",
     "iconURL": "./avatars/a8c3dd128727a512e28f9ae2a1e5a5bc6984c9cc7397a07aebc1515b96692d3c.png",
+    "labels": null
+  },
+  "copyparty": {
+    "namespace": "File Transfer - Web-based File Managers",
+    "description": "Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies.",
+    "url": "https://a.ocv.me/pub/demo/",
+    "domain": "https://a.ocv.me/pub/demo/",
+    "tls": true,
+    "title": "nu pub/demo",
+    "iconURL": "./avatars/0b975a5af1198c13eaeb56f38df0f37e8864feb3fdb6d6401492e9c73451b29c.png",
+    "labels": null
+  },
+  "django-wiki": {
+    "namespace": "Wikis",
+    "description": "Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.",
+    "url": "https://demo.django-wiki.org/",
+    "domain": "https://demo.django-wiki.org/",
+    "tls": true,
+    "title": "Welcome To Django Wiki - django-\\/\\/  i K |",
+    "iconURL": "./avatars/04ab16f682684bf57fa28a46e8c69dca971bb5ea1c1819d8e80f9b3028d11b69.png",
     "labels": null
   },
   "docassemble": {
@@ -2139,6 +2659,16 @@
     "iconURL": "./downloadedAvatars/3eaf61b90ec84c1d33d2e8ecac36fa562babf7d061d263bcdf51467db3579110.ico",
     "labels": null
   },
+  "envlinks": {
+    "namespace": "Personal Dashboards",
+    "description": "A minimalist link dashboard showing links from environment variables.",
+    "url": "https://envlinks-demo.vercel.app/",
+    "domain": "https://envlinks-demo.vercel.app/",
+    "tls": true,
+    "title": "",
+    "iconURL": "./downloadedAvatars/2c610896f0a8125c6e462603f2efeed1d6a1ebab949fd69b63f7946731722c72.png",
+    "labels": null
+  },
   "farmOS": {
     "namespace": "Resource Planning",
     "description": "Web-based farm record keeping application.",
@@ -2149,9 +2679,29 @@
     "iconURL": "./downloadedAvatars/0855028b384ffe35a0583a096413c19b721ad6cf7ed1c91cb0578ac2cc968821.ico",
     "labels": null
   },
+  "feedmixer": {
+    "namespace": "Automation",
+    "description": "FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON).",
+    "url": "https://mretc.net/feedmixer/json?f=https://hnrss.org/newest\u0026f=https://americancynic.net/atom.xml\u0026n=1",
+    "domain": "https://mretc.net/feedmixer/json?f=https://hnrss.org/newest\u0026f=https://americancynic.net/atom.xml\u0026n=1",
+    "tls": true,
+    "title": "",
+    "iconURL": "./avatars/b9d392eb8969f607ef1bd384a05f667fccecd1b010ec2eedf9ceebd0c1895cd2.png",
+    "labels": null
+  },
+  "flatnotes": {
+    "namespace": "Note-taking \u0026 Editors",
+    "description": "A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage.",
+    "url": "https://demo.flatnotes.io",
+    "domain": "https://demo.flatnotes.io",
+    "tls": true,
+    "title": "flatnotes",
+    "iconURL": "./downloadedAvatars/894f28d31694dbfc7838171e72efcecfb61e774fb26f22ae954e87c1711de2db.png",
+    "labels": null
+  },
   "form.io": {
     "namespace": "Software Development - API Management",
-    "description": "A REST API building platform that utilizes a drag \u0026amp; drop form builder, and is application framework agnostic. Contains open source and enterprise version.",
+    "description": "A REST API building platform that utilizes a drag \u0026 drop form builder, and is application framework agnostic. Contains open source and enterprise version.",
     "url": "https://portal.form.io",
     "domain": "https://portal.form.io",
     "tls": true,
@@ -2159,9 +2709,19 @@
     "iconURL": "./downloadedAvatars/c0342abf8e839136fcf91827045bf4d81b779d8b0b90abd45513e8ace55388d8.png",
     "labels": null
   },
+  "gathio": {
+    "namespace": "Polls and Events",
+    "description": "Self-destructing, shareable, no-registration event pages.",
+    "url": "https://gath.io/",
+    "domain": "https://gath.io/",
+    "tls": true,
+    "title": "Gathio",
+    "iconURL": "./downloadedAvatars/c8c472db7a6bd1536a7af886b863f8e6e45c1a1e13c1e75b8c77530195d0ddb3.png",
+    "labels": null
+  },
   "grocy": {
     "namespace": "Resource Planning",
-    "description": "ERP beyond your fridge - grocy is a web-based self-hosted groceries \u0026amp; household management solution for your home.",
+    "description": "ERP beyond your fridge - grocy is a web-based self-hosted groceries \u0026 household management solution for your home.",
     "url": "https://en.demo.grocy.info/",
     "domain": "https://en.demo.grocy.info/",
     "tls": true,
@@ -2179,6 +2739,16 @@
     "iconURL": "./downloadedAvatars/511c433d799527f326223fc9097d3c6201eb9f6fc2f58f7c07f1c47ac1c372fc.ico",
     "labels": null
   },
+  "homebank-converter": {
+    "namespace": "Automation",
+    "description": "Web app to convert an export bank file to compatible Homebank csv.",
+    "url": "https://binnette.github.io/homebank-converter/",
+    "domain": "https://binnette.github.io/homebank-converter/",
+    "tls": true,
+    "title": "homebank-converter",
+    "iconURL": "./downloadedAvatars/564a97aceb2ce1ca4b514f0900764411925d85240341d24c002039ed31610d02.ico",
+    "labels": null
+  },
   "indico": {
     "namespace": "Conference Management",
     "description": "A feature-rich event management system, made @ CERN, the place where the Web was born.",
@@ -2187,6 +2757,16 @@
     "tls": true,
     "title": "Home · Indico",
     "iconURL": "./downloadedAvatars/5cd9a21fb3f054f5984119b1dc204114fa9adaaa875321b74e071f57a1d772e7.ico",
+    "labels": null
+  },
+  "instant.io": {
+    "namespace": "File Transfer - Peer-to-peer Filesharing",
+    "description": "Streaming file transfer over WebTorrent.",
+    "url": "https://instant.io",
+    "domain": "https://instant.io",
+    "tls": true,
+    "title": "Instant.io - Streaming file transfer over WebTorrent",
+    "iconURL": "./avatars/b886083577f150bf234bd1779442e3fdb226476429efba2e78775e1d77194e4a.png",
     "labels": null
   },
   "koel": {
@@ -2207,6 +2787,16 @@
     "tls": true,
     "title": "Lufi",
     "iconURL": "./downloadedAvatars/06737546669fb64b455ecae6d971c78641247962195f5f72e8edb1a0941f083b.png",
+    "labels": null
+  },
+  "minimalist-web-notepad": {
+    "namespace": "Note-taking \u0026 Editors",
+    "description": "Minimalist notepad.cc clone.",
+    "url": "https://notes.orga.cat/",
+    "domain": "https://notes.orga.cat/",
+    "tls": true,
+    "title": "spywa",
+    "iconURL": "./downloadedAvatars/1157ba250a4c1d4b9c5ef83f57afde583e7e7df89043e1847e82ddef5144351c.ico",
     "labels": null
   },
   "myTinyTodo": {
@@ -2230,7 +2820,7 @@
     "labels": null
   },
   "onet": {
-    "namespace": "00_other",
+    "namespace": "other",
     "description": "",
     "url": "https://onet.pl",
     "domain": "https://onet.pl",
@@ -2269,6 +2859,16 @@
     "iconURL": "./downloadedAvatars/fa4e1d3d956073b46937d8821c6bac53cc32bd9af0c3c7d315fb01f3d2530846.svg",
     "labels": null
   },
+  "rgit": {
+    "namespace": "Software Development - Project Management",
+    "description": "An ultra-fast \u0026 lightweight cgit clone.",
+    "url": "https://git.inept.dev/",
+    "domain": "https://git.inept.dev/",
+    "tls": true,
+    "title": "rgit",
+    "iconURL": "./avatars/c756f8ab767c66b648a48e319c7e559976ea560b9a5fc117c6c5828b646f8adf.png",
+    "labels": null
+  },
   "rs-short": {
     "namespace": "URL Shorteners",
     "description": "A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection.",
@@ -2289,6 +2889,16 @@
     "iconURL": "./downloadedAvatars/e2995d4dbc40503272d71e3a5fd9c0280980d5440d811d2da496f401b921280c.png",
     "labels": null
   },
+  "teikei": {
+    "namespace": "Community-Supported Agriculture (CSA)",
+    "description": "A web application that maps out community-supported agriculture based on crowdsourced data.",
+    "url": "https://ernte-teilen.org/karte/#/",
+    "domain": "https://ernte-teilen.org/karte/#/",
+    "tls": true,
+    "title": "Finde eine Solawi in Deiner Nähe! | ernte-teilen.org",
+    "iconURL": "./downloadedAvatars/676e4c687303c4df653356847bf9a56fd144a35152d63945ddc4c7b9293a5294.png",
+    "labels": null
+  },
   "txtdot": {
     "namespace": "Proxy",
     "description": "A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts.",
@@ -2299,11 +2909,21 @@
     "iconURL": "./avatars/725d4787a9ae6afa7d50f0fe8ac6cd231ccc9c7782fb3357f4fa58b6b8003bdc.png",
     "labels": null
   },
+  "wantguns/bin": {
+    "namespace": "Pastebins",
+    "description": "Minimal pastebin for both textual and binary files shipped in a single statically linked binary.",
+    "url": "https://basedbin.fly.dev",
+    "domain": "https://basedbin.fly.dev",
+    "tls": true,
+    "title": "bin",
+    "iconURL": "./downloadedAvatars/a0d14e0e6d20eed2a7a08631fb754b10ba8baf1ea4ea5493125ffc0d1905d8d8.png",
+    "labels": null
+  },
   "webtrees": {
     "namespace": "Genealogy",
     "description": "Webtrees is the web's leading on-line collaborative genealogy application.",
-    "url": "https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\u0026amp;ged=demo",
-    "domain": "https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\u0026amp;ged=demo",
+    "url": "https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\u0026ged=demo",
+    "domain": "https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\u0026ged=demo",
     "tls": true,
     "title": "\n            Royal Family                            – webtrees                    ",
     "iconURL": "./downloadedAvatars/7af238354a095e1e72eed8dd781d65cc336785a469495c9e2d99530088751fbd.png",
@@ -2320,7 +2940,7 @@
     "labels": null
   },
   "wp": {
-    "namespace": "00_other",
+    "namespace": "other",
     "description": "",
     "url": "https://wp.pl",
     "domain": "https://wp.pl",
@@ -2330,13 +2950,23 @@
     "labels": null
   },
   "wykop": {
-    "namespace": "00_other",
+    "namespace": "other",
     "description": "",
     "url": "https://wykop.pl",
     "domain": "https://wykop.pl",
     "tls": true,
     "title": "Wykop.pl - newsy, aktualności, gry, wiadomości, muzyka, ciekawostki, filmiki",
     "iconURL": "./downloadedAvatars/e3d38eb8be44018c86131d91304e7b661691d8179f098d7e572584f1fc1788bb.png",
+    "labels": null
+  },
+  "μlogger": {
+    "namespace": "Maps and Global Positioning System (GPS)",
+    "description": "Collect geolocation from users in real-time and display their GPS tracks on a website.",
+    "url": "http://ulogger.fabiszewski.net/",
+    "domain": "http://ulogger.fabiszewski.net/",
+    "tls": false,
+    "title": "403 Forbidden",
+    "iconURL": "./avatars/80409b1f1f90289f4ed87fe1fe4a4093b782376ee572a861843b34c36a6847db.png",
     "labels": null
   }
 }

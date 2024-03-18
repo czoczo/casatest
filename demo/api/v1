@@ -506,7 +506,7 @@
     "domain": "https://ladigitale.dev/digimindmap/#/",
     "tls": true,
     "title": "Digimindmap by La Digitale",
-    "iconURL": "./downloadedAvatars/9dc4c0c5c01bdd58e6544020928d2ba825fd0abbdae37f499b403b4137ddd862.png",
+    "iconURL": "./downloadedAvatars/411ccc29d419b2209da5b05c594e6310af6f3933ee9d8a0ede0ff953f24bf37d.png",
     "labels": null
   },
   "Digiscreen": {
@@ -536,7 +536,7 @@
     "domain": "https://ladigitale.dev/digitools/",
     "tls": true,
     "title": "Digitools by La Digitale",
-    "iconURL": "./downloadedAvatars/a2133f83c60d07766e8af7d668533dee56509a965e79fb3b822b401273bc1028.png",
+    "iconURL": "./downloadedAvatars/a81e10eebafe7f782f050946c9fc8eaca3c950f38ce05f8b39972126191876ff.png",
     "labels": null
   },
   "Discourse": {
@@ -835,8 +835,8 @@
     "url": "https://demo.geneweb.tuxfamily.org/gw7/",
     "domain": "https://demo.geneweb.tuxfamily.org/gw7/",
     "tls": true,
-    "title": "GeneWeb – grimaldi",
-    "iconURL": "./downloadedAvatars/c5ca94ece6190904996eb3b72ec38900f01343577482f93b99a002b69ecae9f3.png",
+    "title": "500 Internal Server Error",
+    "iconURL": "./avatars/51c9e9e96fdd2de76f83ffc9efbd6345d43e61d58a2101132d855d0386156c61.png",
     "labels": null
   },
   "GitLab": {
@@ -2075,8 +2075,8 @@
     "url": "https://www.specificallyclementines.com/",
     "domain": "https://www.specificallyclementines.com/",
     "tls": true,
-    "title": "Specifically Clementines",
-    "iconURL": "./downloadedAvatars/498edfd66b927174e24e629deab0daab24f8e4ba42564dda69501d1c50a080f9.svg",
+    "title": "",
+    "iconURL": "./avatars/86d04361f4ac0ae54ce265a8341c6379c3cb7b99e64cf251b1f2773a49a2df9c.png",
     "labels": null
   },
   "Spree Commerce": {
@@ -2795,7 +2795,7 @@
     "url": "https://notes.orga.cat/",
     "domain": "https://notes.orga.cat/",
     "tls": true,
-    "title": "3ytdc",
+    "title": "yjwsn",
     "iconURL": "./downloadedAvatars/1157ba250a4c1d4b9c5ef83f57afde583e7e7df89043e1847e82ddef5144351c.ico",
     "labels": null
   },

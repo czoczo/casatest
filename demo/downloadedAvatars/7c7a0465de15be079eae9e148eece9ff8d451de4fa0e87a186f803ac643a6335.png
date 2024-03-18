@@ -141,7 +141,7 @@ docsearch({
 <a href="https://community.home-assistant.io">Community Forum</a>
 </li>
 <li>
-<a href="/cdn-cgi/l/email-protection#f79f929b9b98b79f989a92da9684849e8483969983d99e98">Contact</a> (no support!)
+<a href="/cdn-cgi/l/email-protection#4b232e2727240b2324262e662a383822383f2a253f652224">Contact</a> (no support!)
 </li>
 <li><a href="/security/">Security Vulnerabilities</a></li>
 <li><a href="/privacy/">Privacy</a></li>
@@ -180,6 +180,6 @@ document.querySelector('.site-title').addEventListener('contextmenu', function(e
   document.location.assign("https://design.home-assistant.io/#brand/logo")
 });
 </script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"866062245c553552","b":1,"version":"2024.2.4","token":"5cecb750997f42328a45cbfc192e0673"}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"86617aafc90334d3","b":1,"version":"2024.2.4","token":"5cecb750997f42328a45cbfc192e0673"}' crossorigin="anonymous"></script>
 </body>
 </html>

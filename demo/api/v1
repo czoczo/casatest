@@ -466,7 +466,7 @@
     "domain": "https://ladigitale.dev/digibunch/#/b/5f67b12092b60",
     "tls": true,
     "title": "Digibunch by La Digitale",
-    "iconURL": "./downloadedAvatars/4ef33aad9c55facf087b4a408d8981919d431fd1e993bdaae50903d6c7d371d9.png",
+    "iconURL": "./downloadedAvatars/319e4df1fb6eded6425467b140060be9010bd55bb3945913f521cc0bd123e0af.png",
     "labels": null
   },
   "Digibuzzer": {
@@ -506,7 +506,7 @@
     "domain": "https://ladigitale.dev/digimindmap/#/",
     "tls": true,
     "title": "Digimindmap by La Digitale",
-    "iconURL": "./downloadedAvatars/411ccc29d419b2209da5b05c594e6310af6f3933ee9d8a0ede0ff953f24bf37d.png",
+    "iconURL": "./downloadedAvatars/9dc4c0c5c01bdd58e6544020928d2ba825fd0abbdae37f499b403b4137ddd862.png",
     "labels": null
   },
   "Digiscreen": {
@@ -635,7 +635,7 @@
     "url": "https://demo.easyappointments.org/",
     "domain": "https://demo.easyappointments.org/",
     "tls": true,
-    "title": "Book Appointment With Company Name",
+    "title": "Book Appointment With ABC",
     "iconURL": "./downloadedAvatars/c9202c2f790830117a53e768c3524c447465dc81c1530f5466b66fee3a29e02f.png",
     "labels": null
   },
@@ -2795,7 +2795,7 @@
     "url": "https://notes.orga.cat/",
     "domain": "https://notes.orga.cat/",
     "tls": true,
-    "title": "spywa",
+    "title": "3ytdc",
     "iconURL": "./downloadedAvatars/1157ba250a4c1d4b9c5ef83f57afde583e7e7df89043e1847e82ddef5144351c.ico",
     "labels": null
   },

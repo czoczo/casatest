@@ -4,7 +4,7 @@
  "branding": {
   "name": "casavue.app",
   "colors": {
-   "theme": "#d73533",
+   "theme": "#deaded",
    "items": {
     "saturation": 8,
     "lightness": 84

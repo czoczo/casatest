@@ -51,7 +51,7 @@ placeholder="user:password" aria-label="password input" aria-describedby="userna
 <h1 class="font-weight-bolder">Family Tree grimaldi</h1>
 <div class="d-flex justify-content-center">
 <span class="h2 font-weight-light">293 individuals</span>
-<a class="align-self-center" href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&i=249"
+<a class="align-self-center" href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&i=51"
 title="Display a random individual"><i class="fa-solid fa-dice ml-1 mb-2"></i></a>
 </div>
 </div>
@@ -176,7 +176,7 @@ href="gwd?b=grimaldi&pz=rainier+louis+henri+maxence+bertrand&nz=grimaldi&m=CAL">
 </div>
 </div>
 <script>
-  var q_time = 0.014;
+  var q_time = 0.055;
   var nb_errors = 0;
   var errors_list = "\u{000A}";
   var home_time = document.getElementById('q_time');

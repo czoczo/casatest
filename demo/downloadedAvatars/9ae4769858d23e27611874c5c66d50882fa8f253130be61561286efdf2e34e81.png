@@ -4,10 +4,10 @@
 	<title>Tiny Tiny RSS : Login</title>
 	<link rel="shortcut icon" type="image/png" href="images/favicon.png">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<script src="lib/dojo/dojo.js?1709876934" type="text/javascript" charset="utf-8"></script>
-<script src="lib/dojo/tt-rss-layer.js?1709876934" type="text/javascript" charset="utf-8"></script>
-<script src="js/common.js?1709876934" type="text/javascript" charset="utf-8"></script>
-<script src="js/utility.js?1709876934" type="text/javascript" charset="utf-8"></script>
+	<script src="lib/dojo/dojo.js?1711473737" type="text/javascript" charset="utf-8"></script>
+<script src="lib/dojo/tt-rss-layer.js?1711473737" type="text/javascript" charset="utf-8"></script>
+<script src="js/common.js?1711473737" type="text/javascript" charset="utf-8"></script>
+<script src="js/utility.js?1711473737" type="text/javascript" charset="utf-8"></script>
 
 	
 	<style type="text/css">

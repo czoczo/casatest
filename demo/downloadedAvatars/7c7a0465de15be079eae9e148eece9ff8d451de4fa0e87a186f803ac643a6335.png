@@ -26,7 +26,7 @@
 <link rel="me" href="https://fosstodon.org/@homeassistant">
 <link href="https://cdn.jsdelivr.net/npm/@docsearch/css@3/dist/style.min.css" rel="stylesheet" />
 <link href="/stylesheets/prism.css?8acb84bc0387c9548a63998fcfea0139" rel="stylesheet">
-<link href="/stylesheets/screen.css?c4632f41b963444aefc977dc296d7cea" media="screen, projection, print" rel="stylesheet">
+<link href="/stylesheets/screen.css?88a1a3f4a772ce6d07630454b34427b2" media="screen, projection, print" rel="stylesheet">
 <link href="/atom.xml" rel="alternate" title="Home Assistant" type="application/atom+xml">
 <link rel="shortcut icon" href="/images/favicon.ico" />
 <link rel="icon" type="image/png" href="/images/favicon-192x192.png" sizes="192x192" />
@@ -141,7 +141,7 @@ docsearch({
 <a href="https://community.home-assistant.io">Community Forum</a>
 </li>
 <li>
-<a href="/cdn-cgi/l/email-protection#4a222f2626250a2225272f672b393923393e2b243e642325">Contact</a> (no support!)
+<a href="/cdn-cgi/l/email-protection#1d75787171725d75727078307c6e6e746e697c7369337472">Contact</a> (no support!)
 </li>
 <li><a href="/security/">Security Vulnerabilities</a></li>
 <li><a href="/privacy/">Privacy</a></li>
@@ -180,6 +180,5 @@ document.querySelector('.site-title').addEventListener('contextmenu', function(e
   document.location.assign("https://design.home-assistant.io/#brand/logo")
 });
 </script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"8665f6309f4c347f","b":1,"version":"2024.2.4","token":"5cecb750997f42328a45cbfc192e0673"}' crossorigin="anonymous"></script>
 </body>
 </html>
